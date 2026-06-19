@@ -2,6 +2,8 @@ import type { Metadata } from "next";
 import { Inter } from "next/font/google";
 import "./globals.css";
 import { site, SITE_URL, SEO_KEYWORDS } from "@/lib/site";
+import { Background } from "@/components/Background";
+import { MouseGlow } from "@/components/ui/MouseGlow";
 
 const inter = Inter({
   variable: "--font-sans",
@@ -56,6 +58,8 @@ export default function RootLayout({
   return (
     <html lang="pt-BR" className={`${inter.variable} h-full antialiased`}>
       <body className="min-h-full flex flex-col bg-background text-foreground">
+        <Background />
+        <MouseGlow />
         {children}
       </body>
     </html>
