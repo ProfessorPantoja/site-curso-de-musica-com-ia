@@ -7,7 +7,7 @@ export function Faq() {
   const [aberto, setAberto] = useState<number | null>(0);
 
   return (
-    <section id="faq" className="mx-auto max-w-3xl scroll-mt-20 px-5 py-20">
+    <section id="faq" className="mx-auto max-w-3xl scroll-mt-20 px-5 py-24">
       <div className="mx-auto max-w-2xl text-center">
         <h2 className="text-3xl font-bold tracking-tight sm:text-4xl">
           Perguntas frequentes
@@ -23,7 +23,9 @@ export function Faq() {
           return (
             <div
               key={item.pergunta}
-              className="overflow-hidden rounded-2xl border border-border bg-card"
+              className={`overflow-hidden rounded-2xl border bg-card/70 backdrop-blur-sm transition-colors duration-300 ${
+                ativo ? "border-primary/50" : "border-border"
+              }`}
             >
               <button
                 type="button"
@@ -34,18 +36,27 @@ export function Faq() {
                 {item.pergunta}
                 <span
                   aria-hidden
-                  className={`shrink-0 text-accent transition-transform ${
+                  className={`shrink-0 text-xl text-accent transition-transform duration-300 ${
                     ativo ? "rotate-45" : ""
                   }`}
                 >
                   +
                 </span>
               </button>
-              {ativo && (
-                <p className="px-6 pb-5 text-pretty text-muted">
-                  {item.resposta}
-                </p>
-              )}
+              {/* transição de altura suave via grid-rows */}
+              <div
+                className={`grid transition-all duration-300 ease-out ${
+                  ativo
+                    ? "grid-rows-[1fr] opacity-100"
+                    : "grid-rows-[0fr] opacity-0"
+                }`}
+              >
+                <div className="overflow-hidden">
+                  <p className="px-6 pb-5 text-pretty text-muted">
+                    {item.resposta}
+                  </p>
+                </div>
+              </div>
             </div>
           );
         })}
