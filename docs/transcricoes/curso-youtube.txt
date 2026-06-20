@@ -1,0 +1,1329 @@
+Transcrição do Youtube
+
+
+0:00Cantai, cantai, cantai ao rei, cantai.
+0:044 segundosMuito bem-vindo, muito bem-vindo ao nosso curso Músicas Cristãs com IA.
+0:1010 segundosBem, na era da inteligência artificial eu virei produtor musical. Como é que pode isso? Até rimou. Coisa linda.
+0:1818 segundosBem, eu quero passar esse mesmo conceito, essa mesma coisa, essa mesma esse mesmo poder para você. E você pode
+0:2626 segundoshoje criar músicas com inteligência artificial. Nesse curso aqui nós vamos ver introdução, o que a representa no
+0:3434 segundoscenário atual, que é o que eu tô falando agora, inclusive. Eh, é possível criar música gratuitamente? Que que você acha?
+0:4040 segundosSim ou não? Com certeza. Eu já criei centenas de música, pessoal. Centenas de músicas gratuitas. Já dei de presente,
+0:4848 segundosjá dei eh pra filha lá de uma vizinha que eu tinha lá em Vila Velha, ela uma menina que fez 7 anos, se não me engano. Aí eu fiz uma
+0:5757 segundosmusiquinha, ficou legal para caramba para ela. A menina gostou tanto que ela queria ouvir todo dia. Mãe, mãe, bota aquela música, bota minha música, bota minha música. Aí pedi para botar a
+1:041 minuto e 4 segundosmúsica. Vou mostrar depois qual é. Se eu achar aqui na minha no monte de música que tem ali, eu Isso aqui tudo vai ter.
+1:111 minuto e 11 segundosVocês vão ter essa apostila aqui, tá? se já não tiver na mão de vocês aí, seja acompanhando, talvez não esteja exatamente igual aqui, tá? Que eu pode ser que eu modifique uma coisinha ou
+1:191 minuto e 19 segundosoutra, mas se modificar vai ser para melhor, com certeza.
+1:221 minuto e 22 segundosEh, vamos então aqui mostrar os sites que vocês podem acessar, tá? Tem muitos sites, muitos, muitos sites mesmo. Um
+1:301 minuto e 30 segundosdeles é o Yudio. Eu não vou usar esse aqui, tá? Ai, music generator. Não vou usar esse.
+1:361 minuto e 36 segundosVocê pode fazer também por dentro do Gemini. Você pode acessar o Geminai e fazer por dentro dele, eh, que é que é da Google, né? Esse aqui, né? Esse aqui
+1:451 minuto e 45 segundosé muito bom para criar letra, tá? Mas daqui a pouco eu vou falar sobre isso também, criação de letra de música. Eh, cuidado com os detalhes, tem muito
+1:521 minuto e 52 segundosdetalhe nesse curso aqui, tá? Muito detalhe mesmo. Daqui a pouco eu vou entrar nesses detalhes aqui. Você pode criar música aqui dentro também. Você pode usar
+2:012 minutos e 1 segundoo producer AI, que a a Google comprou, ele virou virou o Google Flow Music, tá?
+2:082 minutos e 8 segundosO nome dele agora é esse aqui, ó, flowmusic. Então, vou entrar nele também.
+2:142 minutos e 14 segundosEntão, tem todos esses sites aqui. Eu vou usar com vocês o Suno. Por que, Pantia? Porque você vai usar o Suno?
+2:212 minutos e 21 segundosPorque eu considero a melhor e a para criar músicas. As outras são muito, muito boas também. Vocês podem usar as
+2:282 minutos e 28 segundosoutras, vocês vão ver, tá? Podem usar os outros. Make your music, mas eu não vou usar não. Aqui, ó, start free trial.
+2:352 minutos e 35 segundosVocê vai clicar aqui, vai botar seu e-mail como sempre. Vou fechar esse aqui. Não vou usar esse a Google, vou usar daqui a pouquinho, fazer um teste
+2:422 minutos e 42 segundoscom ele e vou usar o o esse flow music também. Depois a gente pode testar esse aqui também, tá?
+2:502 minutos e 50 segundosEsse site aqui eu criei, né, um site chamado a escritura cantada. E nesse site aqui eu coloquei algumas músicas que eu fiz basead nos salmos. Salmo 1,
+2:592 minutos e 59 segundosSalmo 7, Salmo 8, 18, 36. Então eu criei aqui algumas músicas.
+3:043 minutos e 4 segundosSe você clicar aqui, dar um play. Vai rolar aí, ó.
+3:083 minutos e 8 segundosAí vou ficar quietinho um pouquinho.
+3:253 minutos e 25 segundosEu andava perdido nos conselhos do mundo. Meus pés tropeçavam num caminho sem fundo. Sentava na roda de quem só sabe zombar.
+3:353 minutos e 35 segundosMas a tua palavra veio me encontrar.
+3:403 minutos e 40 segundosEu estava longe, tão longe da tua voz, mas tu não desistinho aqui de nós.
+3:473 minutos e 47 segundosPode marcar um like, pode baixar a música. Então esse aqui é o site, tá? Vou botar aqui na nossa nossa.
+3:563 minutos e 56 segundosTem um tem um moral aqui, um quadro aqui, ó. Ipa, que que ele fez aqui?
+4:004 minutosAh, ele botou um linkzinho aqui. Não queria botar dessa forma não, mas tudo bem. Deixa eu botar em forma de texto que acho que fica melhor. Opa, clicou
+4:084 minutos e 8 segundosaqui. Já sabia que acontecer isso, por isso que eu não queria esse formato formado de link. Eu quero só um em texto mesmo.
+4:194 minutos e 19 segundosA escritura cantada Versel.
+4:254 minutos e 25 segundosBem, eu vou botar algumas alguns linkzinhos aqui. Que mais? A própria Suno, né? O SUN é o seguinte, ó. Vou botar aqui o site aqui, ó.
+4:394 minutos e 39 segundosSuno. Só botar lá na internet, digitar no Google Suno que vai entrar facilmente, tá? Esse vai ser o site que a gente vai usar, mas você pode usar outro, como eu falei, mas vou vamos
+4:474 minutos e 47 segundosfocar, pessoal, senão a gente não consegue.
+4:514 minutos e 51 segundosEh, se eu mostrar um monte de site, um monte de recurso e só o próprio S tem muita coisa para você aprender.
+4:574 minutos e 57 segundosInclusive, nesse momento, já vamos criar nossa primeira música, tá? A música tem várias camadas, tá? Muitas camadas mesmo. Eu posso criar uma música, uma música direta, uma forma direta.
+5:085 minutos e 8 segundosEu posso criar a música, como assim forma direta?
+5:125 minutos e 12 segundosA forma direta é você digitar. Tá na tua cabeça, vai lá e digita.
+5:175 minutos e 17 segundosEh, você pode pedir para Iá, né? A I, a IA fazia a letra. E a faz a letra. Bem,
+5:245 minutos e 24 segundoseu já usei essa forma, mas eu eu gosto, não gosto, tá? Eu gosto do meio termo, tá? Eu gosto, uma parte eu faço, uma parte a Ia faz, eu gosto de direcionar a
+5:325 minutos e 32 segundosIA, eu não gosto de que a IA faça tudo sozinho, senão fica muito automatizado, muito robótico e não fica legal, tá?
+5:395 minutos e 39 segundosIsso aí a experiência que eu tenho é que não fica legal. Tá bom? Vamos então entrar no SUNO aqui. Assim que você entra no Suno, deixa eu botar aqui como você como você tivesse entrando.
+5:505 minutos e 50 segundosVamos fazer aqui uma uma coisa interessante aqui, ó. Vamos botar aqui uma aba anônima. Vamos digitar aqui. Como eu falei, é só botar isso aqui, ó.
+5:575 minutos e 57 segundosSuno.com. Não tem erro. Ou o próprio Google acha para você. Não tem mistério.
+6:036 minutos e 3 segundosAqui quando você colocar uma música qualquer, digitar aqui, ó. Música.
+6:116 minutos e 11 segundosMúsica sobre sobre amor.
+6:166 minutos e 16 segundosAí quando você mandar criar, né? Ele vai pedir para você registrar. Tá vendo, ó?
+6:206 minutos e 20 segundosJoin Suno for free, junto. Aí você bota aqui login ou se você nunca cadastrou, só botar juntos. Vai pedir seu e-mail
+6:286 minutos e 28 segundosaqui, seu e-mail do Google. Deixa eu marcar para você ver aqui, ó. Vai pedir aqui. Aí você vem aqui e só clicar, né?
+6:346 minutos e 34 segundosClica, bota o seu e-mail. O meu já cliquei, já tô lá dentro logado já.
+6:396 minutos e 39 segundosEntão eu vou vou entrar aqui no meu aqui, ó. Deixa eu deslogar só para você ver, tá? Para deslogar é assim, ó. Você
+6:466 minutos e 46 segundosclica aqui, sair. Vou sair e vou entrar de novo só para você ver como é que funciona.
+6:536 minutos e 53 segundosEntão você vai entrar nessa tela aqui, certo? Entrou nessa tela aqui, você vai vir, você vai vir aqui em login, ó, ou
+7:007 minutosjoin for free. Tanto faz. Eu vou clicar em login e vou clicar aqui, ó, continuar com Google. Beleza, cliquei. Vai entrar
+7:077 minutos e 7 segundosna minha, vai entrar aqui na minha na minha conta aqui. Se você tiver mais de conta que nem eu, né, tenho outras contas. Aí eu só clicar na conta que
+7:157 minutos e 15 segundosvocê quiser. Clicou, vai entrar no seu no sono. Ele já entra diretamente na aba de criação, tá? Ele já entra aqui
+7:227 minutos e 22 segundosdiretamente na aba criar. Ó, eu tô marcando, eu gosto de marcar com essa canetinha vermelha aqui. Gosto de fazer para você para facilitar tua tua vida, tá? para você poder achar onde eu tô falando.
+7:337 minutos e 33 segundosTem muitas, muitas opções, tá? Eu vou clicar agora aqui, ó. Vou clicar aqui.
+7:377 minutos e 37 segundosPrimeira coisa, para quê? Você vai ver o que eu vou fazer agora aqui, ó. Vou clicar e agora eu vou botar aqui idioma.
+7:467 minutos e 46 segundosO idioma. Deixa eu ver se tá gravando, pessoal. Senão vai dar problema. Idioma. Isso tá gravando, tá tudo bonitinho.
+7:537 minutos e 53 segundosCadê? Tá. Eh, idioma. Aí eu venho aqui, ó, e boto aqui português do Brasil. Se tiver inglês ou tiver qualquer linguagem, idioma, português e Brasil.
+8:038 minutos e 3 segundosBeleza? Então, a gente tem esse, olha, olha que maravilha esse sistema aqui, diferente dos outros, se você for no Google Flow Musics aqui, esse site aqui,
+8:118 minutos e 11 segundosó, flowmusic. Ele não tem versão em português, tá? Que eu saiba não tem ainda. Deixa eu ver se já já criaram.
+8:198 minutos e 19 segundosNão criaram não, mas aqui tem outras vantagens interessante também. Mas enfim, da mesma forma que você pode criar aqui, você pode criar lá. Eu vou
+8:268 minutos e 26 segundoscriar pelo sono, como eu falei, eu acho fantástico. Acho o sono é realmente fantástico. Aqui estão várias músicas que eu já criei, ó, Salmo 148, 122, tal.
+8:368 minutos e 36 segundosEntão, Salmos aqui.
+8:388 minutos e 38 segundosEh, eu tô dentro do workspace chamado Salmos. Depois eu explicar o que que é o workspace. Vamos então criar uma letra. Vamos lá.
+8:448 minutos e 44 segundosEntão, aqui vai tá o início. Você vai estar nessa parte aqui. Você pode digitar aqui que a maneira mais simples possível seria digitar por aqui, tá?
+8:528 minutos e 52 segundosVocê bota aqui qualquer coisa que você digita e pede para ele criar. Você pode pedir aqui e jogar o dado aqui, ele vai ele vai fazer uma coisa aleatória, tá
+9:009 minutosvendo, ó? Instrumental post rock song aboutit days, né? É dias de praia, dias na praia. Aí clica de novo, eh, low fai,
+9:089 minutos e 8 segundospiano, cover song e eh música lowfi. Aí clica de novo. Então esse dadinho aqui é para música aleatória. Você tá sem
+9:169 minutos e 16 segundosinspiração nenhuma, mas eu não faço isso aqui não, tá? Só tô te mostrando que que existe. Mas eu nem uso isso aqui. Não uso mesmo. Acho muito fica muito, sei lá.
+9:279 minutos e 27 segundosAqui você pode gravar sua voz e você fazer uma batidinha. Bem legal isso aqui. Eu vou começar por aqui, inclusive. Vou gravar minha voz aqui, ó.
+9:349 minutos e 34 segundosEu vou fazer uma batidinha. Quer ver?
+9:399 minutos e 39 segundosTu tum tum tum tum tum.
+9:469 minutos e 46 segundosAí você fala assim: "Para que isso aí? Para que que você tá querendo fazer com isso aí? Tô fazendo só uma brincadeira mesmo com a voz.
+9:549 minutos e 54 segundosIdentifica o conteúdo do áudio.
+9:589 minutos e 58 segundosHum. Demo Steam acho que é um sample, né?
+10:0710 minutos e 7 segundosAqui, ó. Aí ele vai, ó, que interessante, ele ele detectou a o BPM da do meu da minha batida, do áudio, né? Ele converte em áudio. Detectou.
+10:1610 minutos e 16 segundosInteressante para caramba. Minimalista eletrônico. Percurso loop.
+10:2110 minutos e 21 segundosExatamente isso. É interessante. Ele consegue ouvir o meu áudio, identificar o que que é aqui, ó.
+10:3010 minutos e 30 segundosTum tum tum tum. Tá. Que que eu quero dizer com isso? Isso aqui é interessante
+10:3610 minutos e 36 segundosdemais. Eh, isso aqui com com esse com esse mini trecho aqui, eu consigo criar agora uma uma música qualquer.
+10:4610 minutos e 46 segundosEu boto para criar agora aqui, ó. Olha que interessante. Posso botar instrumental. Marco aqui instrumental e mando criar.
+10:5410 minutos e 54 segundosVamos lá, pessoal. O seguinte. Ah, eu tô criando no lugar errado, cara. Tô criando no workspace errado. Mas tudo bem, por enquanto vai ficar aqui mesmo. Eu tô
+11:0211 minutos e 2 segundoscriando workspace de salmo. Tô bagunçando minha minha organização dos salmos aqui.
+11:0711 minutos e 7 segundosMas enfim, vamos lá. Vamos continuar então a nossa aula aqui, ó. É porque tá nesse workspace aqui, ó. Depois a gente tem que trocar, criar um workspace para para esse para esse curso aqui, ó.
+11:1711 minutos e 17 segundosButterfly again. E é o nome que ele deu, ele deu um nome automático aqui. Eu vou apertar o play e vou ouvir só um pedacinho, tá? Senão se a gente for ouvir tudo aqui, a gente não, esse curso
+11:2511 minutos e 25 segundosaqui vai ficar gigantesco. Já vai ficar grande semente ouvir muito, imagina ouvindo tudo. Vou dar um play aqui.
+12:0212 minutos e 2 segundosEntão a ideia, tá, a ideia é que tenha batidas, né? Vamos ver se vamos ver se aqui tá com a batida aqui, ó.
+12:1012 minutos e 10 segundosPior que ele respeitou, tá? Ele respeitou o tempo que eu vej tu tu.
+12:1612 minutos e 16 segundosTá, Antóia, é só batida assim, faz com a boca? Não, qualquer coisa você pode cantar, você pode fazer o que você quiser, tá? Ali você canta, ele vai
+12:2312 minutos e 23 segundostentar pegar a tua voz e jogar lá na na fazer uma música com a tua voz, que é legal para caramba. Vamos então voltar aqui na na criação.
+12:3312 minutos e 33 segundosDeixa eu voltar aqui no início.
+12:3712 minutos e 37 segundosBeleza? Então você pode fazer um upload do seu arquivo, tá? Você pode pegar uma imagem, uma música qualquer e jogar aqui dentro, tá? Você pode gravar um trecho teu
+12:4612 minutos e 46 segundostambém, depois jogar aqui, como você quiser. Mas eh, deixa eu voltar no criar aqui. Eu vou
+12:5312 minutos e 53 segundosapertar essa lixeirinha, tá? para poder excluir essa essa coisa aqui. Vou tirar o instrumental também. E agora a gente vai criar da seguinte forma. Fantóia,
+13:0113 minutos e 1 segundonão tem não tô entendendo o que que você tá fazendo, tá? Não tô entendendo. Mostra aí. Vamos lá. Vamos devagar aqui. Vou apagar aqui. Vamos lá.
+13:0913 minutos e 9 segundosQuando você clica nessa abinha criar, que é a aba principal de criação, deixa eu só criar um workspace pra gente começar aqui, ó. Create new workspace.
+13:1713 minutos e 17 segundosVamos botar aqui, ó, curso som, músicas.
+13:2613 minutos e 26 segundoscom I.
+13:3013 minutos e 30 segundosVamos lá. Eu criei aqui, ó. Vou clicar nele. Criei. Cliquei. Aí aqui em cima, deixa eu, deixa eu marcar para você ver,
+13:3713 minutos e 37 segundosó. Aqui em cima fica o workspace que eu criei. Que que é um workspace, Panteria?
+13:4213 minutos e 42 segundostem a ver com o que você tá fazendo. Por exemplo, você vai fazer uma música do Dia das Mães, você vai lá e cria um workspace para isso. Cada música que você vai fazer, você cria um workspace
+13:5113 minutos e 51 segundosou música ou projeto. Por exemplo, o projeto da da dos Salmos, dos 150 Salmos, eu criei um workspace específico
+13:5913 minutos e 59 segundospara ele. Quer ver? Ó, workspace, tá aqui, ó. Salmos, 387 músicas, tá? Para esse para esse Salmos aqui. Arraiada
+14:0714 minutos e 7 segundosVivi aqui, ó, 70 anos da minha mãe aqui, ó, tem 13 músicas. Então você, eu criei uma música chamado santo, né, para Deus, né? Ó, santo, 11 músicas. Esse 11 aqui
+14:1514 minutos e 15 segundosembaixo são músicas, né? E song quer dizer música também. Então, que que eu quero dizer com isso?
+14:2214 minutos e 22 segundosQuando você cria um workspace é para se organizar, entendeu? Para quê? Para tudo que eu vou fazer hoje aqui, eu vou fazer dentro aqui desse. Tudo bem que eu já acabei fazendo uma sem querer fora, né?
+14:3014 minutos e 30 segundosMas eu posso eu posso lá e mudar. Quer ver? Vou até aproveitar isso aí para te mostrar. Ó, eu venho aqui nesse Myor Space aqui, vou clicar aqui na Não,
+14:3814 minutos e 38 segundosnesse aqui não. Eh, tá em Salmos aqui, ó. Salmos. Cliquei em Salmos ali. Vou clicar nessa caixinha no cantinho aqui, ó. Em cada música tem uma caixinha aqui.
+14:4814 minutos e 48 segundosVou clicar nessas três aqui. Depois eu vou clicar com botão direito. Botão direito em qualquer lugar desse aqui, ó.
+14:5514 minutos e 55 segundosBotão direito. Vou botar aqui, ó, move to workspace.
+14:5914 minutos e 59 segundosAí eu escolho qual work space que eu quero. Isso aqui, ó, curso sono. Pronto, já tá movido. Tá movido para lá já.
+15:0615 minutos e 6 segundosAqui, ó. Tá aqui já. Aí. Ah, pontó. Já vi que tava zero ali.
+15:1215 minutos e 12 segundosTudo bem, mas é porque não atualizou aqui, tá? Só isso. Cliquei, já está aqui dentro. Tá bom. Vou clicar agora na segunda música, ó.
+15:2015 minutos e 20 segundosVou clicar e vou ficar um pouquinho quieto.
+15:3715 minutos e 37 segundosVocê vê que respeitou.
+15:3915 minutos e 39 segundosVocê reparou que respeitou a batida? Tum tum. Respeitou o tempo, no caso, no tempo de música. Aqui deve est minha batida aqui nesse nesse negocinho aqui, ó.
+15:5115 minutos e 51 segundosÓ, ó. Tum tum. Por quê? Isso aqui porque ele ele se baseou naquele naquele
+15:5815 minutos e 58 segundosnegocinho que eu fiz no início, entendeu? Tá. Agora vamos fazer o seguinte. Vamos agora esquece um pouquinho essa parte aqui, tá? Deixa eu deixa eu dar um X aqui para você
+16:0616 minutos e 6 segundosesquecer, ó. Essa parte aqui esquece por enquanto. Eu sei que tá na sua tela aqui, você não vai conseguir talvez esquecer tão facilmente mesmo, porque a tela do sommação.
+16:1516 minutos e 15 segundosVamos então focar algumas coisas aqui, ó. Por exemplo, aqui é o meu ícone com o meu nome e quantidade de crédito que eu tenho. Tenho 29 eh 2924 créditos.
+16:2716 minutos e 27 segundosEu tenho aqui, aqui em cima tem simples avançados e sons. A gente a gente vai ficar focando mais aqui no esse avançado
+16:3416 minutos e 34 segundosaqui, ele é muito bom, tá? Inclusive vou entrar nele. Não é tão avançado assim, você vai ver que é bem bem simples de fazer.
+16:4216 minutos e 42 segundosEh, vamos lá. Vamos vamos aí aqui o início, né? Aquela tela inicial que você viu, você pode vir aqui em criar, que é a aba que a gente tá nesse momento, tá?
+16:5116 minutos e 51 segundosO criar biblioteca são as músicas, você vai criando, aquelas, você vai criando música, vai botando em bibliotecas e etc.
+16:5916 minutos e 59 segundosEu não vou mostrar tudo. Olha só, esse curso aqui, apesar de ser um curso completo, ainda assim não vai, a gente não vai ver todos os botões, não, tá?
+17:0717 minutos e 7 segundosTem muita, muita, muita coisa mesmo. Então fica focado comigo aqui.
+17:1417 minutos e 14 segundosVamos mudar aqui o tema rapidamente, ó.
+17:1617 minutos e 16 segundosVocês podem ter um tema claro ou tema escuro. Tema é esse aqui, ó. Deixar ele clarinho assim. Tem gente que prefere assim, eu prefiro ele mais escuro, tá?
+17:2317 minutos e 23 segundosEntão vou deixar ele com tema escuro mesmo. Facilita para mim para eu ver aqui.
+17:3117 minutos e 31 segundosVamos lá. Daqui a pouquinho eu vou clicar nessas outras coisas também. Aqui no avançado, tá? avançado no o no simples, você bota a música e digita
+17:4017 minutos e 40 segundosaqui. Qualquer coisa você quiser, você digita como você quiser. Eu vou no avançado que o avançado é a melhor opção, tá? O avançado ele é mais
+17:4717 minutos e 47 segundosincrível, ele tem mais coisas, você, enfim, o avançado é melhor, tá? Ele é muito, muito melhor. Aqui embaixo você
+17:5617 minutos e 56 segundospode escolher estilo, você bota mais opções. Aqui você bota eh aqui é o título da música, né? A gente vai botar agora aqui também.
+18:0518 minutos e 5 segundosDeixa eu fechar essa partezinha aqui.
+18:0618 minutos e 6 segundosPronto, para não atrapalhar sua visualização ali.
+18:1118 minutos e 11 segundosPantoja, primeira música. Como é que eu faço minha primeira música? E aí, a música simples.
+18:1818 minutos e 18 segundosBem, tem n maneiras de criar a primeira música, tá? Você pode só chegar pro pro Suno e pedir para ele criar.
+18:2518 minutos e 25 segundosPor exemplo, através de um prompt aqui, ó, sobre o que você quer que seja a letra. O Sun escreve uma música para você. Então, se você clicar em prompt
+18:3218 minutos e 32 segundosaqui, ele vai simplesmente criar uma música para você. O instrumental, pessoal, nem vou nem vou criar porque o instrumental é só instrumento mesmo.
+18:3818 minutos e 38 segundosVocê fala para ele assim, ó, ó, eu quero um instrumento. Posso criar para você aqui rapidamente, não tem problema.
+18:4318 minutos e 43 segundosBotar aqui, ó, música, música eletrônica ou forró ou o que você
+18:5118 minutos e 51 segundosquiser. Você bota aqui qualquer coisa aqui, bota um estilo, bota o nome da música, eletrônica.
+18:5918 minutos e 59 segundosAqui, ó. Eletrônica fantoja, curso. Pronto. Eu eu eu costumo chamar de V1, tá? Eu boto assim, ó. Eu eu começo assim, ó. V1, V1.1, V1.2, V1.3.
+19:1119 minutos e 11 segundosPorque eu crio tanta música, quando eu quero criar uma música boa, eu boto muita variação dela, tá? Então, versão 1, versão 2, versão 3, versão 2.1, 2.2.
+19:1919 minutos e 19 segundosEsse é o formato que eu gosto, tá? Eu gosto desse formato aqui. Eu acho bem legal mesmo. Então, vamos lá. Música eletrônica.
+19:2519 minutos e 25 segundosVamos criar então uma música eletrônica rapidinho.
+19:2819 minutos e 28 segundosVou dar um play aqui. Criar aqui, ó. Eletrônica pantia versão um. Aí eu posso depois criar uma versão dois,
+19:3519 minutos e 35 segundosné? Botar para criar a versão dois. Lá tá vendo? Você pode criar em sequência, tá? Uma, duas, três, quatro, monte, uma atrás da outra. O difícil depois é você
+19:4319 minutos e 43 segundosouvir uma por uma e ver qual é melhor, né? Sei que dá mais trabalho, inclusive vou dar um play aqui.
+20:0120 minutos e 1 segundoBem, não vou ouvir você, você faz no seu, faz um teste no seu que é muito mais prazeroso você mesmo criar aí, tá?
+20:0720 minutos e 7 segundosBotei só um trechinho ali, um pedacinho só para você ver. Botar outro aqui também, esse aqui de cima.
+20:2520 minutos e 25 segundosSó bem quando você tá ouvindo aquela lá, já
+20:3520 minutos e 35 segundosbotei aqui, ó. Pisadinha gostp. Vamos botar aqui. Vamos criar então. Ah, tá.
+20:3820 minutos e 38 segundosTem que mudar aqui, ó. Pisadinha. Isso aqui é só para ficar organizado, tá? senão vai ficar vai ficar estranho, né?
+20:4820 minutos e 48 segundosEh, versão 1.1 tá aqui em cima.
+20:5620 minutos e 56 segundosAntô já criou um monte de música, isso aí, criar música com sono é isso aí, ó.
+21:0021 minutosVocê cria um monte, e na versão gratuita eu consigo criar um monte assim? Não tanto, se não me engano, são 10 músicas por dia, tá? você
+21:0821 minutos e 8 segundosconsegue criar aí, ó.
+21:3321 minutos e 33 segundosÔ resente tudo, ô presente tudo, presente tudo que tem o medo para vendir.
+21:4321 minutos e 43 segundosCalma aí, calma aí, calma aí, calma aí.
+21:4521 minutos e 45 segundosPor que, por que que ele tá fazendo isso? Deixa eu ver aqui.
+21:5021 minutos e 50 segundosEssa música será instrumental sem vocais aqui, ó. Ol, olha o que tá escrito aqui, ó. Por isso que eu, por isso que eu me, eu me espantei, entendeu?
+21:5721 minutos e 57 segundosÉ por isso que eu falei: "Calma aí, calma aí, que tá acontecendo?" Se a gente clicou, ó, só para você ver, isso aqui não foi erro meu não. Aqui, ó, do sistema mesmo, ó. Tá escrito aqui, ó,
+22:0522 minutos e 5 segundosinstrumental, ó. Essa música será instrumental, sem vocais. E ela começou a cantar. Mas foi legal isso acontecer porque às vezes acontece isso mesmo, tá?
+22:1222 minutos e 12 segundosA Iá se confunde, ela começa a criar coisa da cabeça dela, entendeu? Ela acha que seria bom botar, ela ela coloca com vontade própria. Isso às vezes acontece,
+22:2022 minutos e 20 segundosmas é meio raro isso acontecer, tá? Isso é meio raro de acontecer. Pelo menos nas minhas minhas interações aqui aconteceu pouco, mas foi bom ter acontecido aqui que já deu um errinho junto com vocês.
+22:3022 minutos e 30 segundosAí outra coisa interessante também, tá?
+22:3322 minutos e 33 segundosA gente já criou a nossa primeira música, né? Nós criamos uma música, eh, uma música eletrônica, uma música agora pisadinha gospel, só que criamos
+22:4222 minutos e 42 segundosinstrumental. Beleza? Agora vamos criar com prompt. Como assim prompt? Que que é isso, Pant?
+22:4922 minutos e 49 segundosQue método é esse de criação de música com prompt? Isso aqui, ó.
+22:5522 minutos e 55 segundosQue que é isso? Pant criação de música com prompt.
+22:5922 minutos e 59 segundosQuando quando tá escrito prompt, tá dizendo o seguinte, você vai dar um comando para ele, ele vai criar para você. É isso que quer dizer aqui. Como assim? Assim, ó. Música.
+23:0923 minutos e 9 segundosOu posso botar faça ou somente pode tirar isso aqui tudo se eu quiser. Nem preciso botar isso. Faça música sobre os frutos do espírito.
+23:2023 minutos e 20 segundosPronto. Calma que santo tem é maiúsculo.
+23:2423 minutos e 24 segundosEh, que acabei errando várias coisas aqui. Pronto.
+23:2923 minutos e 29 segundosFaça a música sobre sobre os frutos do Espírito Santo.
+23:3323 minutos e 33 segundosAqui eu posso escolher a versão se eu quero a Remi ou Clássic. Vou botar essa aqui mesmo. Posso escolher as duas.
+23:3823 minutos e 38 segundosPosso tentar das duas maneiras. Ele, ele vai fazer a música, tá? Quem vai fazer?
+23:4223 minutos e 42 segundosO próprio sono o próprio sistema cria essa música. Eu boto aqui classic.
+23:5123 minutos e 51 segundosCadê? E eu boto criar aqui. Vamos lá. Ih, mas eu dei mole aqui. Não, não, não.
+23:5923 minutos e 59 segundosAi, cara, acabei esquecendo uma coisa aqui, ó.
+24:0624 minutos e 6 segundosÉ música. Botar aqui, ó. Espírito Espírito Santo.
+24:1524 minutos e 15 segundosAí você fala assim: "Panto é agora, Pant você esqueceu lá, tá escrito errado. Aí ficou pisadinho ali, ó. Como é que faz?
+24:2124 minutos e 21 segundosVocê é só você clicar nesse nesse iconezinho aqui, ó. Editar título.
+24:2524 minutos e 25 segundosPronto, copiei e colei ali, ó. Aqui é a mesma coisa. Editei, colei.
+24:4024 minutos e 40 segundosTá, vamos pausar aqui rapidinho, ó. Aqui do lado direito, vou puxar um pouquinho para cá, ó. Aqui do lado direito, nessa barrinha aqui, ó, nessa barra lateral
+24:4824 minutos e 48 segundosaqui, aparece a música que ele criou, tá? Ó, planta em mim o teu amor.
+24:5424 minutos e 54 segundosDeixa eu só voltar que eu sei que algumas pessoas não vai entender o que eu fiz aqui. Vamos lá.
+24:5824 minutos e 58 segundosAqui embaixo é o título da música. Aqui, ó. Aqui é o título, tá? Eu peguei aqui, copiei, dei um contrl C, vim aqui em cima. Deixa eu, deixa eu marcar aqui, ó.
+25:0625 minutos e 6 segundosAí tem um botãozinho nessa posição aqui, ó. Eu cliquei nele, vai aparecer aqui.
+25:1125 minutos e 11 segundosQuer ver, ó? Editar título. Tá vendo? Tá em inglês. Não deveria tá em inglês, né?
+25:1625 minutos e 16 segundosQue tá tudo em português, mas enfim. São erros do sistema, quando acontece, ó. Clica aqui. Aí você
+25:2325 minutos e 23 segundospode digitar aqui qualquer coisa, ó. Tá vendo? Só que eu copiei e colei aqui dentro. Eu dei um contrtrl V aqui dentro, tá? Só para poder relembrar o que eu fiz.
+25:3225 minutos e 32 segundosE agora eu dei um play nessa música aqui. Quando dei play aqui, aqui do lado direito, desse lado aqui, ó, aparece a letra que ele criou. Lembra que eu pedi aqui nesse canto aqui, ó? Faça uma
+25:4125 minutos e 41 segundosmúsica sobre espírito, o espírito santo, né? Fruto do espírito aqui, ó. Eu pedi para ele isso aí. Ele gerou essa letra aqui, ó. Então, vamos ouvir um pedacinho, ó.
+25:5525 minutos e 55 segundosPlantem em mim. Teu amor faz raiz no meu interior.
+26:0226 minutos e 2 segundosQuando medo quiser falar, teu espírito vai me guiar.
+26:1026 minutos e 10 segundosFaz nascer mansidão na palavra e no meu coração.
+26:1726 minutos e 17 segundosQue eu possa perdoar como tu me ensinou a amar. Sopra sobre mim.
+26:2826 minutos e 28 segundosTua graça e tua paz quebra o velho em mim
+26:3626 minutos e 36 segundose me refaz. Fruto do espírito. Vive em mim.
+26:4526 minutos e 45 segundosAmor, alegria, paz sem fim, fruto do espírito.
+26:5626 minutos e 56 segundosQuero assim, em cada passo,
+27:0327 minutos e 3 segundosCristo em mim, tá? Vamos pausar aqui. Eh, eu pausei com espaço, tá? O espaço pausa música, tá?
+27:1227 minutos e 12 segundosEntão, você clica aqui dentro, aqui aperta espaço, ele pausa a música.
+27:1727 minutos e 17 segundosBeleza, já te dei o primeiro atalho e anota esse atalhozinho que é interessante. Bem, aqui é a letra da música todinha, ó. Tá vendo? Até aqui.
+27:2727 minutos e 27 segundosPior que eu gostei dessa música, tá?
+27:2827 minutos e 28 segundosPrimeiro que o fruto do espírito é um tema incrível. Eu acho, o tema é incrível. Por isso que eu trouxe esse tema também. Eh, isso faz diferença, tá?
+27:3527 minutos e 35 segundosVocê trazer algo incrível. O tema é incrível. O fruto do espírito é um tema que me atrai muito. Então, se você botar um tema que te atrai, um tema que tem a
+27:4327 minutos e 43 segundosver com você, já vai sair uma música legal. Foi o que aconteceu aqui. Eu gostei demais dessa música, inclusive, tá? Uma música que vai ficar aqui para
+27:4927 minutos e 49 segundosmim aqui, eh, na minha recordação aqui, tá? Vai ficar gravado na minha galeria.
+27:5627 minutos e 56 segundosE aí, beleza? Eh, por exemplo, se se eu quiser trazer essa música para fora, tirar daqui, eu vou clicar nesse nesse
+28:0628 minutos e 6 segundosmais opções. Tem muitas opções, como eu falei, não vou mostrar isso aqui tudo, tá? Para mostrar esse aqui tudo, eu precisaria de umas 5 horas com vocês.
+28:1328 minutos e 13 segundosEntão, de eu ficar mais ou menos se lá 2 horas. Não sei quanto tempo vou ficar, mas com certeza precisaria de mais 5 horas para falar de tudo que eu tenho que falar aqui no sono. Mas vou falar de
+28:2228 minutos e 22 segundosmuita coisa, tá? Muita, muita coisa mesmo nesse curso aqui. Aí você vai vir em download. Aí você tem a opção de MP3.
+28:2828 minutos e 28 segundosEh, a a as versões Pro, né? Você só, se você tiver grade de graça, só MP3 você vai poder clicar, mas já é o suficiente.
+28:3528 minutos e 35 segundosMP3 é a música, né? Para baixar a música. Aqui eu baixo ela em formato wave, que é um formato de mais qualidade. Aqui eu posso fazer uma
+28:4228 minutos e 42 segundosdivisão de de instrumentos. E aqui eu posso baixar uma versão dela de vídeo. É um videozinho que ele cria pra gente
+28:4928 minutos e 49 segundosautomaticamente, tá? Criado por IA também. Então eu vou baixar aqui somente o áudio mesmo, MP3. Vou clicar, ele vai
+28:5628 minutos e 56 segundosbaixar aqui no meu meu computador. Vai aparecer um negocinho aqui, ó. Aí baixou. Aí eu clico e agora eu vou ouvir por dentro do meu computador aqui, ó.
+29:1329 minutos e 13 segundosQuando a pressa me cercar, me dá domínio.
+29:1929 minutos e 19 segundosBeleza. Então aqui eu baixei o arquivo MP3 e agora eu cliquei e abri ali pant.
+29:2429 minutos e 24 segundosOnde é que ele tá? Tá no meu computador aqui, ó. Tá, tá em downloads aqui, ó. Ver downloads.
+29:3029 minutos e 30 segundosEle aqui, ó. Espírito Santo. Pontoja curso versão 1.1. Fica o MP3. Aqui eu posso pegar aqui e jogar lá no WhatsApp, né? Posso mandar para quem eu quiser,
+29:3829 minutos e 38 segundosetc. Posso fazer o que eu quiser. É um MP3, uma música, né? Posso botar no pen drive e ouvir em outro lugar. Posso botar na caixinha de som, o que eu
+29:4529 minutos e 45 segundosquiser fazer com essa música. Então, é bem legal por causa disso. Eu posso vir aqui, download MP3. Isso aqui é padrão
+29:5229 minutos e 52 segundosde fazer. Depois eu vou ensinar vocês também a editar música, tá? Tem uma maneira de editar música, tem muita coisa interessante aqui, tá? Paraa frente, tá? Fica até o final que você vai ver.
+30:0230 minutos e 2 segundosPor que eu falo isso? Porque as pessoas às vezes compra o curso, ela não fica até o final, ela compra o curso, vê um pedacinho, ah, depois eu vejo o resto. E não vê nunca mais. Eu sei como é que é.
+30:0930 minutos e 9 segundosEu já fiz isso também, tá? Eu sou aluno de outras pessoas também. Da mesma forma que eu sou professor, eu sou aluno. Eu sei as dificuldades que aluno passa.
+30:1730 minutos e 17 segundosEntão, vamos lá. Vamos continuar. Nós criamos aqui uma música. Eh, ah, outra coisa, ele criou com esse estilo aqui pisadinho, mas eu podia, eu podia mudar, eu posso mudar o que eu quiser, eu posso
+30:2530 minutos e 25 segundosbotar outros estilos, entendeu? Posso botar assim, ó, ritmo, ritmo eh
+30:3330 minutos e 33 segundoslento, voz feminina, tá? E mando criar aí pantou, ele vai criar com voz feminina em ritmo lento.
+30:4430 minutos e 44 segundosSim. Qual música? Fruto do espírito.
+30:4630 minutos e 46 segundosSim. É a mesma letra? Não, não é a mesma letra. A não ser que você queira isso, tá? Vamos fazer a mesma letra,
+30:5430 minutos e 54 segundosó. A mesma letra é assim, ó. Você vai vir aqui, vai clicar aqui, vai vir aqui, ó, remix.
+31:0231 minutos e 2 segundosVai botar aqui, ó, reutilizar o prompt.
+31:0431 minutos e 4 segundosQuando você faz isso, você vai jogar para cá tudo, ó. Cadê?
+31:1131 minutos e 11 segundosRemix. Reutilizar prompt. Ah, tá. Ele pegou só porque Ah, tá.
+31:1631 minutos e 16 segundosPorque isso aqui não é não é a letra que eu eu escrevi, né? Tá?
+31:2131 minutos e 21 segundosEntão, como eu não escrevi a letra, eu vou ter que fazer assim, ó. Vou copiar ela por aqui, ó.
+31:2631 minutos e 26 segundosEsse comando que eu dei, pessoal, é quando você já joga a letra por aqui, tá? Nesse modo aqui, escrever, ó. Aqui, ó. Tá vendo? Ele já tá até aqui, ó. Ele jogou para cá. Cadê o modo escrever?
+31:3731 minutos e 37 segundosEntão, já veio para cá. Já tá aí. Aqui, ó. A letra tá aqui, ó. Deixa eu só aumentar um pouquinho para cá. Isso.
+31:4531 minutos e 45 segundosAssim eu peguei nessa caixinha aqui, ó.
+31:5031 minutos e 50 segundosA letra tá toda aqui. Vou manter a letra. Vou descer um pouquinho nessa outra barrinha aqui. Em vez de pisadinho, eu vou botar aqui, ó. Voz feminina.
+32:0132 minutos e 1 segundoVoz feminina e ritmo lento ou música lenta, alguma coisa assim. Você pode também pegar aqui
+32:0932 minutos e 9 segundosopções por aqui. Tem aqui. Ele te dá algumas aqui, ó. te dá algumas opções aqui, tá?
+32:1732 minutos e 17 segundosProblema é que não dá para não dá para puxar pro lado assim. Mas, por exemplo, você pode clicar, ó, melodia hipnótica.
+32:2332 minutos e 23 segundosÓ lá, eu quero atrasos, eu quero raiz rocha, eu quero melodia épica, entendeu?
+32:2932 minutos e 29 segundosVocê vai que são termos que ele bota para você automaticamente, só você clicar aqui que aparece lá em cima. Você pode digitar ou escolher ali embaixo, tá? Eu vou botar só o que eu queria
+32:3832 minutos e 38 segundosmesmo. Não vou pegar nada do que ele escolheu aqui embaixo. Posso até apertar esse botãozinho aqui, ele vai me trazer outras opções aqui, ó.
+32:4632 minutos e 46 segundosTá? Isso aqui é quando você tá sem ideia nenhuma, tá? Aí você vem aqui, clica por aqui.
+32:5132 minutos e 51 segundosEntão vamos lá. Mas aí que como eu tô inspirado hoje aqui, eu vou, eu mesmo vou criar voz feminina, ritmo lento.
+32:5632 minutos e 56 segundosPosso botar outras coisas também. Aqui tem minha letra já, que é a letra da música antiga anterior, né? Aqui, ó. Tá
+33:0333 minutos e 3 segundoslá em cima lá. Aí aqui embaixo aqui já posso criar ou boto mais opções aqui e aqui eu posso escolher outras coisas, por exemplo, posso excluir estilo. Como
+33:1233 minutos e 12 segundosassim excluir estilo? Pontó. Eu não quero funk, não quero rock, não quero,
+33:2033 minutos e 20 segundosnão precisa botar não quero, tá? E ali já tá subentendido que é quero, tá bom?
+33:2433 minutos e 24 segundosTanto tem um xizinho aqui, ó. Um tracinho aqui, tá?
+33:2933 minutos e 29 segundosAqui, ó. Essa parte aqui, ó, tem até um um risquinho da da letra ali, ó. é que aqui tudo que você colocar não vai
+33:3833 minutos e 38 segundosa o sistema vai ignorar esses esses esses estilos aqui. Beleza?
+33:4733 minutos e 47 segundosPor que isso? Porque eu botei ritmo lento, né? Tudo bem que funk não é ritmo lento nem rock, mas eu tô dizendo assim, para você evitar que nunca aconteça isso, nunca vai vir esse tipo de de ritmo, você bota aqui dessa forma.
+33:5833 minutos e 58 segundosLembrando que esse esse formato aqui eh na versão gratuita não tem, se não me engano, deixa eu lembrar aqui, a versão gratuita tem tempo que eu não uso a versão
+34:0634 minutos e 6 segundosgratuita, mas se eu não me engano não tem isso aqui na versão gratuita, tá? E aqui você pode escolher o gênero feminino ou masculino, mas como eu já coloquei aqui em cima
+34:1534 minutos e 15 segundosaí, mas é bom às vezes reforçar, tá? Por quê? Porque às vezes, cara, já aconteceu comigo várias vezes isso aí, ele ele começa, ele começa no feminino, vai pro
+34:2434 minutos e 24 segundosmasculino, entendeu? E aqui é para você forçar que a a fique desse jeito aqui. É legal isso. E aqui embaixo não pode
+34:3134 minutos e 31 segundosesquecer de mudar, tá? É sempre bom. Eu esqueço direto, mas é, se você não puder esquecer melhor. Botei a versão dois aqui. A gente tá criando uma segunda
+34:3834 minutos e 38 segundosversão aqui da da do fruto do espírito, né? Então botei a versão 1.2, tá? Mudei essa partezinha aqui de baixo. E vamos
+34:4634 minutos e 46 segundoslá. Vamos criar. Então, quando apertar criar aqui, ele já cria duas versões e sempre cria duas versões.
+34:5334 minutos e 53 segundosEle vai sempre criar duas músicas de uma vez só e ele conta como duas músicas, tá? Eh, por exemplo, são 10 músicas, então você tem cinco criações por dia, tá?
+35:0335 minutos e 3 segundosQue que é cinco criações? Cinco coisas assim, ó, cinco letras suas. Então, você tem que escolher bem. Eu, pelo menos no início, eu fazia isso, tá? Quando não
+35:1135 minutos e 11 segundostinha crédito lá atrás, quando tava começando, eu escolhia bem o que eu ia fazer.
+35:1735 minutos e 17 segundospara poder valorizar meus cinco créditos. Aí eu usava minhas cinco músicas, no dia seguinte eu i lá criar mais cinco, criar mais cinco, ficar todo dia criando música.
+35:2635 minutos e 26 segundosMas eu acho que vale a pena pagar isso aqui. É um sistema excelente.
+35:3335 minutos e 33 segundosÓ a voz da mulher aqui, ó. Ó, já dá para ver que é uma voz feminina.
+35:4135 minutos e 41 segundosTá seguindo aqui, ó, o estilo, ó. Hum. Tá seguindo o estilo.
+35:4635 minutos e 46 segundosPlanta em mim teu amor. Faz raiz no meu interior.
+35:5235 minutos e 52 segundosQuando o medo quiser falar, teu espírito vai me guiar.
+36:0036 minutosFaz nascer mansidão na palavra e no meu coração. Que eu
+36:0736 minutos e 7 segundospossa perdoar como tu me ensinou a amar. Só para sobre
+36:1636 minutos e 16 segundosmim. Tua graça e tua paz. Quebra o velho em mim. Me refaz.
+36:2936 minutos e 29 segundosFruto do espírito, vive em mim.
+36:3536 minutos e 35 segundosAmor, alegria, vai ser fim, fruto do espírito.
+36:4636 minutos e 46 segundosQuero assim em cada passo, Cristo em mim.
+36:5936 minutos e 59 segundosCara, ficou muito bonita a música, muito mesmo. A voz dela é muito bonita. Então, o que acontece? Eh, e eu e eu posso também, tá, pessoal? Olha só, eu posso
+37:0737 minutos e 7 segundostambém eu criar com a minha voz, tá? Com a minha voz. Como assim, Ponto? O que que você tá dizendo com isso? Aqui em cima, bota aqui, ó, adicionar voz, clico
+37:1537 minutos e 15 segundosaqui, aperto aqui, ó, criar voz, né? Se eu posso criar uma voz aqui,
+37:2437 minutos e 24 segundosvez de criar voz, deixa eu botar áudio aqui, ó. Vamos, vamos gravar aqui rapidamente. Eu poderia fazer por ali, tá? Mas criar voz agora não quero usar isso não. Vou botar só gravar voz.
+37:3537 minutos e 35 segundosTá, vamos, vamos criar uma voz mesmo. Pronto. Vamos criar uma vozinha aqui. Criar voz. Botar aqui. Hum.
+37:4437 minutos e 44 segundosÓ, cante no estilo e na linguagem que você quiser, né? Ele tá falando aqui, ó.
+37:4837 minutos e 48 segundosTá falando em inglês, deveria falar em português, né? Mas tudo bem. Pop, hack, rock, tal, o que você quiser. Ele tá falando aqui. Qualquer coisa que você queira.
+37:5737 minutos e 57 segundosEh, escolha um bom microfone, grave pelo menos 10 segundos e pick a quiet spot.
+38:0438 minutos e 4 segundosEh, esteja num lugar bem tranquilo e sem barulho, essas coisas assim. Vou apertar gravar e vamos lá. Vou gravar aqui alguns segundinhos cantando esse
+38:1338 minutos e 13 segundospedacinho aqui, ó. O couro corus é é o refrão, tá? Vamos lá.
+38:2238 minutos e 22 segundosFruto do Espírito vive em mim.
+38:2838 minutos e 28 segundosAmor, alegria, paz sem fim, fruto do espírito.
+38:3738 minutos e 37 segundosQuero assim em cada passo Cristo em mim.
+38:4738 minutos e 47 segundosAí eu boto aqui don, certo? E vou usar essa voz.
+38:5638 minutos e 56 segundosSó que aqui eu tenho que botar português, né?
+39:0139 minutos e 1 segundoCante uma canção alegre sobre o som do violão.
+39:0639 minutos e 6 segundosCante. Mas o problema disso aqui é que ele tá pedindo para eu cantar isso aqui, só que ele veio, ele veio uma linguagem errada, entendeu? Geralmente isso
+39:1539 minutos e 15 segundosacontece. Ó, vou botar de novo. Aqui no português, você tem que botar pra tua língua, tá? E lá tava em inglês, entendeu? Isso é um problema. Ó, de novo, ó.
+39:2439 minutos e 24 segundosA melodia suave enche o ar com alegria pura.
+39:3539 minutos e 35 segundosVocê tem que falar o que tá escrito ali, mas na linguagem correta. Então, tava em inglês, eu troquei português, não sei se você percebeu. Aqui na nesse cantinho aqui, ó.
+39:4439 minutos e 44 segundosT tava em inglês, eu botei português, poder a fala vir em português. Aí ele tá verificando minha voz. Ele botou Goret. Goret quer dizer que ele conseguiu, tá?
+39:5139 minutos e 51 segundosFicou um verdinho ali. Ele fala assim, ó, como é que você, como é que você se acha como cantor? Você é iniciante, intermediário, avançado ou profissional?
+40:0040 minutosSou iniciante. Ele agradece. E aqui tá o trecho que eu cantei, ó.
+40:0740 minutos e 7 segundosFruto do espírito. Tá, minha voz é horrível, mas tudo bem. Eu boto aqui, ó.
+40:1240 minutos e 12 segundosMinha voz. Botar aqui, ó. Botar voz aqui, ó. Voz pantoja.
+40:2040 minutos e 20 segundosCurso de música com IA. 17 de junho. Tá ótimo.
+40:2640 minutos e 26 segundosDescrição durante o meu curso.
+40:3240 minutos e 32 segundosPronto, tá feito aqui. Então, a gente fez aqui tudo. Posso editar esse mais se eu quiser, mas não precisa, tá? Isso aqui, se você quiser fazer depois, você faz.
+40:3940 minutos e 39 segundosNão vou gastar tempo com isso aqui não, que é bobagem. pode criar uma música, uma imagem por Iá, pode mandar sua imagem para lá. Isso aí é detalhe bobo que não vai interferir em nada nossa
+40:4840 minutos e 48 segundosnosso conhecimento. Mais importante isso aqui, ó. Eu criei uma música e ele agora ele tem um ele tem uma um parâmetro para seguir. E eu logicamente eu vou agora
+40:5740 minutos e 57 segundosvou botar a voz masculina, né? Botar aqui uma voz masculina. Vou tirar esse feminino aqui. Botar voz masculina.
+41:0441 minutos e 4 segundosMasculina. Suave.
+41:0741 minutos e 7 segundosBeleza. Vamos agora então aqui, ó. Aí, agora eu vou botar aqui embaixo, tem um detalhe interessante, tá? Aqui tem uma coisa bem interessante mesmo.
+41:1641 minutos e 16 segundosAh, apertei o botão errado.
+41:1941 minutos e 19 segundosÓ, essa parte aqui é uma parte interessante que que eu vou fazer, ó.
+41:2241 minutos e 22 segundosAqui tá em 25%. O que que quer dizer isso? Quer dizer que ele vai ele vai se influenciar um pouco pela minha pela minha voz. Só que quero que eu
+41:2941 minutos e 29 segundosinfluencie mais do que isso. Aí eu vou arrastar aqui, ó. Moderado strong.
+41:3741 minutos e 37 segundosNão vou botar 100%, não vai bugar. Deixa eu bugar para você ver, só para você entender o que acontece. Provavelmente você pode não usar com crédito, né?
+41:4541 minutos e 45 segundosVamos gastar nossos créditos aqui. Vamos torrar meus créditos todo aqui, ó. Vamos lá. Tô com 2800 crédito mesmo. Então, vou fazer uns testes com vocês aqui para
+41:5241 minutos e 52 segundosvocê poder testar, para você não precisar testar na sua casa. Aí, vamos ver se vai ficar minha voz bem parecido, se não vai. Vamos lá. Vou apertar aqui, ó.
+42:0542 minutos e 5 segundosLembrando que essa música quem criou foiá. Tá, vamos ver se ele segue minha voz, o tom de voz meu. Vamos ver.
+42:1642 minutos e 16 segundosPlanta em mim teu amor. Faz raiz no meu interior.
+42:2442 minutos e 24 segundosQuando o medo quiser falar, teu espírito vai me guiar.
+42:3342 minutos e 33 segundosFaz nascer mansidão na palavra e no meu coração. Coração.
+42:4242 minutos e 42 segundosQue eu possa perdoar como tu me ensinou a amar.
+42:5142 minutos e 51 segundosSopra sobre mim tua graça e tua paz.
+42:5742 minutos e 57 segundosQuebra o velho em mim e me refaz.
+43:0343 minutos e 3 segundosFruto do Espírito vive em mim.
+43:0943 minutos e 9 segundosAmor, alegria, paz sem fim.
+43:1643 minutos e 16 segundosFruto do Espírito, quero assim.
+43:2343 minutos e 23 segundosEm cada passo Cristo em mim.
+43:3043 minutos e 30 segundosCara, fica muito legal isso aqui. Deixa eu ver.
+43:3343 minutos e 33 segundosVamos pausar aqui, ó. Aqui embaixo tem um controle também, não sei se chegou a perceber. Tem um controle de tempo, tem um controle de avançar próxima música,
+43:4043 minutos e 40 segundosrecuar, aquelas coisas padrão de de um tocador, né, de de música, né? Aí aqui tem o volume. Posso diminuir ou aumentar
+43:4943 minutos e 49 segundoso volume aqui no cantinho, né? Pode posso botar no mínimo para ficar sem som. Que mais? Falar nisso, não mexer de
+43:5643 minutos e 56 segundosnovo no na versão, né? Aqui eu aqui eu tinha que ter colocado além de ter mudado pra versão três. Eu vou eu vou mudar lá de novo. Vou editar aqui o o
+44:0544 minutos e 5 segundosAh, tá. Ele já botou com a ele já botou aqui com a que ele usou minha voz, né?
+44:0944 minutos e 9 segundosEntão tá ótimo. É porque aqui a gente deveria ter mudado o
+44:1644 minutos e 16 segundosEu sempre esqueço de mudar o título, mas enfim. Que que vocês acharam dessa parte aqui?
+44:2444 minutos e 24 segundosPena que eu não tô ao vivo com vocês para saber o que vocês acharam, mas espero que vocês tenham gostado disso aqui. Bem legal. Acho muito legal isso aqui, essa parte aqui de de botar nossa voz, né?
+44:3444 minutos e 34 segundosE você vê que ficou bem, eu eu cantei esse pedaço aqui, né? O o refrão e você vê que no refrão ficou exatamente exatamente, mas ficou bem parecido com a
+44:4244 minutos e 42 segundosminha voz. E aqui você pode regular, você pode botar menos, pode botar bem pouquinho ou mais de acordo com o que você queira, tá? Eu botei no máximo ali,
+44:5044 minutos e 50 segundoseu achei que ficou até legal. Com certeza ele não respeitou isso aqui, tá?
+44:5344 minutos e 53 segundosSe ele respeitasse ia distorcer, ia ficar ruim. Ele deve ter colocado uns 70% automaticamente, tá? Só assim, Panto, como é que você sabe disso? É
+45:0145 minutos e 1 segundoporque eu conheço, pessoal, essa essas essas IAI, eu sei como é que funciona internamente, tá? Ela ela tenta ela tenta seguir isso aqui, mas ela não
+45:0945 minutos e 9 segundossegue porque ela tem outras regras para seguir também. Ela tem que seguir a letra, ela tem que seguir a rima, ela tem que seguir eh o violão, ela tem que
+45:1745 minutos e 17 segundosseguir tudo. Ela tem muita coisa, muita informação para seguir além disso aqui também, tá? Então não é só isso aqui.
+45:2445 minutos e 24 segundosOutra coisa, tem essa, tem esses parâmetros para seguir também, ó, a influência do estilo. Tá vendo, ó? Aqui eu teria que botar maior também, botar bem grande aqui, bem grande aqui. Aí sim
+45:3345 minutos e 33 segundosé, mas isso aqui pode até deformar a música, então não é legal você mexer nisso. Quer dizer, você pode mexer para testar, né? Mas já testei, sei que não
+45:4045 minutos e 40 segundosfica legal, mas enfim. Teste é teste, fica à vontade. Você pode brincar com esses botõezinhos aqui, mas eu recomendo
+45:4745 minutos e 47 segundoseh você usar o jeito que tá aqui, tá? 50 50. E aqui você variar aqui no teu no teu áudio aqui, que é esse áudio aqui de cima, que foi a gravação que eu fiz. Tá
+45:5645 minutos e 56 segundosbom? An, onde é que você gravou isso aí mesmo? Que eu não lembro, hein? Eu vim aqui, ó. Você pode vir em áudio e gravação ou você vem no, cadê?
+46:0546 minutos e 5 segundosInspiração. Não, inspiração não. Inspiração. Escolher uma música que a gente quer. Deixa eu, deixa eu tirar essa voz aqui.
+46:1246 minutos e 12 segundosAí você bota aqui, ó, persona. Antigamente era persona o nome, tá?
+46:1746 minutos e 17 segundosAgora é voz. Aí você clica, cria sua voz, mas quando você cria, ela fica aqui, ó. Tem até minha mãe também, ó.
+46:2346 minutos e 23 segundosMinha mãe criou no dia, acho que 21, 21 de abril, ela criou, criou a música dela.
+46:2946 minutos e 29 segundosA música não, no caso, a voz, né? Eu tenho uma música do dia 21 de abril também. E hoje eu tenho essa essa voz aqui, ó, que eu acabei de gravar com vocês aqui.
+46:4646 minutos e 46 segundosBeleza?
+46:4846 minutos e 48 segundosEh, então vamos lá, vamos avançar. Olha só, a gente criou essa música aqui de uma maneira muito simples, pedindo para
+46:5546 minutos e 55 segundospr pro sono fazer pra gente, né? E se não fosse assim, pantuiei, como é que eu faço agora para zerar isso tudo aqui, ó?
+47:0147 minutos e 1 segundoVocê dá um control A, aperto delete, ele vai deletar. Quando deleta tudo aqui, aparece essas opções aqui que a tu viu
+47:0947 minutos e 9 segundosque não tinha, ó. Ó, vou escrever aqui, ó. Sumiu. Tá vendo? Sumiu aqui em cima.
+47:1447 minutos e 14 segundosEu vou apagar. Apaguei. Apareceu de novo. Escrever. Quando você quer escrever a música do seu jeito, entendeu? Você vai escrevendo, é, cria
+47:2347 minutos e 23 segundosem mim um coração, coração puro, para que eu seja mais, mais o quê?
+47:3847 minutos e 38 segundosEh, enfim, mais maduro. Pronto. Você vai rimando aqui, tá? E você vai escrevendo o que você quiser.
+47:4647 minutos e 46 segundosVamos, vamos criar, vamos criar uma letra junto. Então, a, a próxima etapa, tá, é você criar uma letra do seu jeito, tá? Criar uma letra do seu jeito mesmo, como você quiser. Então, para criar a
+47:5447 minutos e 54 segundosletra do seu jeito, eu vou vir aqui no nesse documento aqui da do Google Docs.
+47:5947 minutos e 59 segundosEu acho bem legal. Vou vou vou ensinar vocês a um método que eu uso, tá? Eu boto uma nova abinha aqui, boto assim, ó. Docs.
+48:0748 minutos e 7 segundosGoogle.create. create. Esse create aqui ele vai direto pro para um novo, ele cria direto o novo documento, tá? É um atalho que eu uso, tá? Quem quiser usar
+48:1648 minutos e 16 segundosesse atalho é uma boa. Se não quiser ou se não souber fazer, eu tô ensinando agora, mas se você quiser de outra maneira, você vai em Drive, no Google Drive, só que dá mais trabalho, né? Você
+48:2548 minutos e 25 segundosentra no Drive, aí clica em novo aqui, depois clica em em novo novo documento, né? Dá no mesmo, tá? Vai abrir um novo
+48:3348 minutos e 33 segundosdocumento branco aqui, ó. Mas eu uso aquele atalhozinho ali que eu acho bem mais fácil. Eu digito aqui, crio uma nova abinha, só
+48:4148 minutos e 41 segundosdigitar aqui, ó, doc e dou enter. Só isso. Já cria automaticamente. Acho bem mais prático. Aí já fica para você aí.
+48:4848 minutos e 48 segundosNão é diretamente o conceito de de música. Não tem muito a ver com a música, mas eu tô eu gosto de fazer essas coisas paralelas assim que eu acho bem legal. Coisas úteis, né?
+49:0049 minutosBem, aqui dentro, tá? Você já pode fazer de uma maneira automatizada também, dá para fazer de muitas maneiras. Lá dentro eu posso falar assim, ó. Escreva uma
+49:0949 minutos e 9 segundosmúsica para o suno sobre frutos
+49:1549 minutos e 15 segundosdo espírito santo. Dou enter.
+49:2649 minutos e 26 segundosOlha que legal. Ele vai criar aqui, ó, analisando contexto, tal, ele vai criar aqui para mim. Fantôja, dentro do Google Docs dá para fazer isso? Não sabia não.
+49:3349 minutos e 33 segundosSim, dá para fazer. Você pode pedir pedir ele, só que só que olha só, pessoal, o seguinte, funciona, funciona.
+49:4149 minutos e 41 segundosÉ a melhor opção? Não, não é a melhor opção. Eu eu não faço assim, tá? Mas funciona, funciona. Eu vou mostrar a vocês. O legal dele é que ele ele ele
+49:5049 minutos e 50 segundosbotou o título, o subtítulo, ele botou estilo. Tá vendo? Até o estilo aqui ele botou.
+49:5749 minutos e 57 segundosVamos lá. Vamos criar então. Vou dar um contrtrl C aqui. Vou começar a preencher aqui. Vou começar a preencher pelo estilo aqui, ó. Vem no estilo. Conttrl V.
+50:0450 minutos e 4 segundosÉ o estilo que ele botou. Vou vir aqui em cima colocar a letra agora.
+50:1050 minutos e 10 segundosAh, pantoha assim é fácil, né? Você manda a fazer para você quer fazer sozinho. Vamos lá. Vamos chegar nesse momento aí.
+50:2250 minutos e 22 segundosÓ, verso, precis. Ó, ele criou no padrão mesmo aqui, ó.
+50:3050 minutos e 30 segundosOK. Então, tô seguindo tudo dele, ó.
+50:3250 minutos e 32 segundosVamos agora botar aqui Espírito Santo, eh,
+50:4150 minutos e 41 segundosGoogle Docs, só pra gente saber que isso aqui foi feito pelo Google Docs, tá?
+50:4650 minutos e 46 segundosIsso aqui já estamos na versão, botar versão dois, versão 2.1. OK, vamos criar a versão 2.1.
+50:5550 minutos e 55 segundosVamos lá.
+50:5750 minutos e 57 segundosTá a letra, tá o estilo aqui. Vai ser masculino ou feminino. Ver se ele botou alguma coisa sobre isso. Não botou nada. Então vou colocar aqui feminino.
+51:0651 minutos e 6 segundosEh, deixa eu dar uma ol na letra aqui. Deixa eu ver se combina mais com quê? Como árvore plantada junto ao ribeiro.
+51:1351 minutos e 13 segundosNão, uma semente plantada no coração. Sco da vida.
+51:1951 minutos e 19 segundosAcho que tanto faz. Na verdade, os dois vai ficar legal.
+51:2351 minutos e 23 segundosVamos criar então feminino e criar um masculino. Pronto. Criar um de cada. Antóio criou quatro músicas
+51:3151 minutos e 31 segundosaqui pro Antônio. Agora é quatro músicas, velho. Só que eu esqueci de variar. Cada variação tem tinha que botar 2.2 ali, ó. Mas tudo bem.
+51:4451 minutos e 44 segundosDeixa eu fazer isso aqui agora. 2.2. Enter.
+51:5051 minutos e 50 segundosVenho aqui, clico nesse botãozinho aqui, clico ali, deleto 2.2 e enter. Pronto, tá feito. Já estamos no 2.2.
+51:5951 minutos e 59 segundosVamos então ouvir.
+52:0552 minutos e 5 segundosA primeira foi feminino que eu botei, não foi? menino.
+52:1452 minutos e 14 segundosVamos ver só um pedacinho. Uma semente plantada no coração
+52:2252 minutos e 22 segundospelo sopro da vida em oração.
+52:2952 minutos e 29 segundosNão vem da carne, nem do meu querer. É o teu espírito que me faz crescer.
+52:3752 minutos e 37 segundosTransforma a alma, renova o meu ser como árvore plantada junto ao ribeirão.
+52:5152 minutos e 51 segundosVamos ouvir agora um pedacinho da var masculina.
+53:0053 minutosUma semente plantada no coração
+53:1353 minutos e 13 segundospelo sopro da vida em oração.
+53:1753 minutos e 17 segundosBeleza? Depois você ouve a sua aí, você faz a sua, você ouve, você vai com certeza você vai gostar bastante aí. Eh, então você vê, ó, a gente criou aqui
+53:2553 minutos e 25 segundospelo pelo Google Docs. Ficou legal, ficou bem estruturadinho, ficou organizado, mas eu não gostei tanto assim, tá?
+53:3453 minutos e 34 segundosVocê vai entender o que eu quero dizer depois.
+53:3753 minutos e 37 segundosFica muito robótico, fica muito padrão, fica muito, enfim, não tem um toque humano, entendeu? É importante que a gente consiga fazer um toque humano
+53:4553 minutos e 45 segundosaqui, tá? É importante, senão fica a música robotizada, né?
+53:5053 minutos e 50 segundosNão que às vezes não funciona, às vezes até funciona, mas por exemplo, a primeira, a primeira eu gostei, aquela primeira do do primeira que a gente fez aqui pelo
+53:5853 minutos e 58 segundospróprio Suno, ficou legalzinha ela, mas pode melhorar muito ainda. Eu vou mostrar para você exatamente como como eu fiz as minhas da escritura cantada,
+54:0754 minutos e 7 segundostá? Vou tô passando para vocês aqui o meu, não agora nesse momento, tô só passando didaticamente, mas depois vou passar minha fórmula mesmo que eu criei.
+54:1554 minutos e 15 segundosExiste uma fórmula, tá? Para você criar ali, pelo menos a minha fórmula, né?
+54:1954 minutos e 19 segundosVocê vai criar a sua, né? Com o tempo você vai criar a sua.
+54:2254 minutos e 22 segundosEntão vamos lá. Pantoja, qual lugar mais pode criar? Qualquer lugar, pessoal.
+54:2654 minutos e 26 segundosQualquer lugar que você consiga usar texto. Porém, porém existe os melhores melhores lugares são eh o cloud code,
+54:3454 minutos e 34 segundosné? O cloud code não, Cloud Code também, mas o code, né? Caramba, o cloud. O cloud.
+54:4054 minutos e 40 segundosEh, o cloud é uma ferramenta fantástica, que eu mais gosto, inclusive. Chatt também faz. Também faz. Não vou fazer
+54:4854 minutos e 48 segundoscom todos eles, né, pessoal? vocês sabem fazer, né? Você vai entrar no chatt ir lá e pedir para eles. Só isso. Não tem mistérios. Não preciso fazer isso para você. Já fiz nesse aqui, ó. Já fiz no
+54:5654 minutos e 56 segundosGoogle Docs. Você vai fazendo no chat GPT, etc. Vamos lá. Ant. Como é que eu descubro o melhor?
+55:0455 minutos e 4 segundosMelhor é aqui, ó. Você vai vir nesse site aqui, arena. Deixa eu botar aqui no nosso nesse nosso quadrinho aqui, ó. Você vai
+55:1355 minutos e 13 segundosentrar aqui no arena pai. Só isso. Só digitar isso na internet lá no teu teu navegador.
+55:2255 minutos e 22 segundosArena. Você vai entrar nesse site aqui.
+55:2655 minutos e 26 segundosO site arena.I você vai, ele não aparece assim, tá? Você vai clicar aqui na vai vir em agente, vai clicar aqui em chat,
+55:3555 minutos e 35 segundostexto, vai cair nessa tela aqui e vai cair nesse over. O overall.
+55:4255 minutos e 42 segundosOverall.
+55:4555 minutos e 45 segundosOverall quer dizer eh, de um modo geral, né, assim, eh, aí, como é que eu falo overall?
+55:5255 minutos e 52 segundosEh, ah, deixa eu botar em português para você ler, traduzir em português aqui, ó.
+55:5755 minutos e 57 segundosÓ, veja a classificação geral. Isso, geral, overall, quer dizer geral. Veja a classificação geral dos modelos de A paraa tarefa de texto. Texto.
+56:0756 minutos e 7 segundosAí você vai vir aqui, ó, escrita criativa. Escrita criativa. Por quê? que o música é uma escrita escrita criativa,
+56:1456 minutos e 14 segundosconcorda? É uma escrita criativa. Não é qualquer escrita, né? É uma escrita criativa.
+56:2056 minutos e 20 segundosO melhor modelo do mundo atualmente é esse aqui, ó. Cloud fábula. Deixa eu voltar pro inglês, senão vai ficar vai ficar estranho ali.
+56:3056 minutos e 30 segundosVotar em inglês. Cloud Fable, tá? O o Fable 5, o Fable 5 ou fábula, né? Eu chamo ele de fabuloso.
+56:3956 minutos e 39 segundosEh, é o melhor modelo do mundo, mas tá desativado, tá? O o Donald Trump deu, teve uma trita aí que desativou isso aqui, mas ele é o melhor do mundo. Daqui
+56:4756 minutos e 47 segundosa pouco ele deve voltar por aí. Espero eu que volte, né? Tomara que volte, que ele é um modelo incrível. Mas ah, Panto,
+56:5556 minutos e 55 segundosas músicas que você fez, você criou nele? Não, não criei nele, pessoal. Não criei. Fica tranquilo. Eu vou, eu vou falar qual aonde eu criei. Eu criei em vários sistemas.
+57:0357 minutos e 3 segundosEh, mas eu vou falar onde eu criei a maioria das músicas, tá? A maioria eu criei no Gemnight, tá? Criei bastante no GPT também.
+57:1257 minutos e 12 segundosE vou criar com vocês hoje nesse aqui, ó, Opus 4.6 F thinking, que ele tá com quase a maior nota do mundo, ó. Uma tá com 1500, ele tá com 1498.
+57:2257 minutos e 22 segundosEle é praticamente igual. Esses dois aqui, praticamente igual. E é exatamente da mesma empresa, a empresa Antropic.
+57:2757 minutos e 27 segundosEntão, cara, esse modelo aqui é incrível, porém, porém ele é pago.
+57:3357 minutos e 33 segundosBeleza, ele é pago. Ah, pant, não vou, eu vou usar versão gratuita, tanto do Suno quanto vou usar qualquer um que crie de graça letra. Qual que você me
+57:4157 minutos e 41 segundosindica aí de graça? Esse aqui, ó, Geminite 3.1 Pro preview. Ele é fantástico. Ele tá em sexto lugar.
+57:4857 minutos e 48 segundosLembrando que cloud, cloud, cloud, cloud tem quatro cloud acima dele, ou seja, ele é praticamente o segundo melhor do
+57:5457 minutos e 54 segundosmundo, entendeu? É o cloud e ele logo logo abaixo. São os dois melhores ali para criar música. E eu criei a maioria nesse aqui. Vou entrar num site que você pode usar ele. Ele tem a nota 1481.
+58:0658 minutos e 6 segundosTá um pouco atrás aqui. Bota aí 17 pontos aí atrás do do melhor do mundo.
+58:1258 minutos e 12 segundosParece pouco, mas é relevante, tá? 17 pontos. Você sente na prática. Você você faz a letra ali, você percebe que o
+58:1958 minutos e 19 segundosoutro é melhor. Mas eu na prática eu acabo criando em dois, três, tá? Eu eu acabo, eu gosto de fazer isso. Eu crio
+58:2758 minutos e 27 segundosum, depois crio outro aqui, como eu acabei de fazer agora, eu entrei aqui no Google Docs, só que aqui eu fiz de brincadeira, tá? Você não vai fazer aqui porque aqui não é o melhor, tá? Esse
+58:3458 minutos e 34 segundosGoogle Docs aqui não faça aqui, tá? Aqui eu fiz só para, ah, vamos fazer no Google Docs, tal, só para você ver que dá para fazer, só isso. Nada além disso. Então, vou até tirar ele aqui, ó.
+58:4358 minutos e 43 segundosEsquece Google Docs. Na verdade, você vai até criar de novo o Docs, mas para você criar a sua letra. Aí sim, aqui a gente vai fazer daqui a pouco uma letra
+58:5058 minutos e 50 segundosnossa. Ó, música nossa, tá? Minha letra, a letra que eu vou criar do meu jeito, tá bom?
+58:5958 minutos e 59 segundosDepois vou te mostrar uma música que eu fiz com minha mãe dessa forma aqui. A gente estava até aqui em casa, tava eu, meu pai e minha mãe aqui. Falei, vamos criar uma música aqui pro teu aniversário, mãe? A gente foi e fez
+59:0759 minutos e 7 segundosjunto aqui, meu pai e minha mãe. Um negócio legal para caramba. Dá para você interagir com a família, inclusive. Ó, coisa incrível. Música.
+59:1559 minutos e 15 segundosEu mesmo, eu mesmo vou fazer minha música, tá gente? Eu vou fazer minha música. que é aqui que fica interessante, tá?
+59:2359 minutos e 23 segundosAgora vai começar a ficar interessante.
+59:2459 minutos e 24 segundosÉ eu criar minha própria música e não deixar IA criar tudo.
+59:3259 minutos e 32 segundosTá. Cadê o que eu tava aqui ó? Tava aqui, ó. L L L L LM Arena é o arena.aiaii.
+59:3859 minutos e 38 segundosEntão te indico muito você usar esse esse site aqui para você ver. Vem em chat, bota aqui text, tá? Existe outras opções, não vou entrar nisso aqui que é
+59:4559 minutos e 45 segundosoutra coisa, não vou mexer com isso. Vem chat text writing, que é escr escrita criativa.
+59:5259 minutos e 52 segundosVocê vai ver aqui quais são os melhores para criar música. Descendo mais um pouco, você vai, eu já, eu já usei esse mouse spark aqui da meta. Eh, não gostei
+59:5959 minutos e 59 segundostanto, achei legalzinho, fiz lá para testar, não gostei tanto. Esse aqui é chinês, o GLM 5.1. Ele é muito bom
+1:00:061 hora e 6 segundostambém, mas tu vê que tá em 12º lugar, mas tu vê que tá perto do OP 4.5, né?
+1:00:111 hora e 11 segundos4.5 era excelente, tá? Então ele tá no nível do 4.5, então tá num nível muito bom. O Grock 4 também. Então esses aqui são, esse aqui é daquele Elon Musk, né?
+1:00:221 hora e 22 segundosEsse Gemnight 3 Flash aqui, cadê o 3.5?
+1:00:241 hora e 24 segundosÓ, o 3.5 flash eu criei nesse aqui também. Tá também numa numa qualidade muito boa. Eu criei algumas músicas nele.
+1:00:331 hora e 33 segundosEle foi o lançamento da Google há pouco tempo. A Google lançou ele tem mais ou menos um mês que ela lançou esse 3.5 aqui.
+1:00:391 hora e 39 segundosE esse 3.1 Pro já lançou um tempinho atrás.
+1:00:431 hora e 43 segundosTá, vamos lá então. Vamos, vamos criar então. Fantôia, onde é que você me indica para criar na versão gratuita?
+1:00:491 hora e 49 segundosNesse aqui, ó, Gemin 3.1, já que você falou que é muito bom. É aqui, ó, nesse site aqui, ó, eastudio.google.com.
+1:00:561 hora e 56 segundosDeixa eu, deixa eu copiar ele aqui. Você vai entrar nesse site aqui, ó,
+1:01:071 hora, 1 minuto e 7 segundosa eastudio.google.com.
+1:01:111 hora, 1 minuto e 11 segundosBeleza? Você vai entrar nesse site, que é esse site aqui,
+1:01:191 hora, 1 minuto e 19 segundose você vai começar a digitar aqui sua música aqui, ó.
+1:01:231 hora, 1 minuto e 23 segundosMúsica aqui nesse nesse lugarzinho ali embaixo ali. Você vai digitando, vai digitando, vai digitando. Só que antes de você digitar aqui, tem algumas
+1:01:311 hora, 1 minuto e 31 segundoscoisas. Por exemplo, tem que tá em playground. Aqui você não pode esquecer de clicar aqui. Se não tiver aqui, você tem que clicar em playground. Vai aparecer essa janelinha aqui. Você vai
+1:01:381 hora, 1 minuto e 38 segundosclicar aqui e aqui do lado direito, aqui nessa parte aqui, ó, nessa parte aqui você tem que conferir se tá escrito aqui, ó, Gemnight 3.1 Pro. Tem que tá
+1:01:471 hora, 1 minuto e 47 segundosisso aqui, lembra? Ó, vamos voltar lá na lá na ó, olha aqui, ó.
+1:01:531 hora, 1 minuto e 53 segundosGemini 3.1 Pro preview. É exatamente esse nome que tá lá, tá vendo? Olha aqui, ó. É o mesmo nome, ó.
+1:02:001 hora e 2 minutosGeminite 3.1 própri tem que tá esse. Ah, pantôia, mas pode estar outro. Pode, pode estar esse aqui, ó. Deminite 3.
+1:02:061 hora, 2 minutos e 6 segundosFlash. Não é esse aqui, não é flash preview, não é esse aqui, ó. Não é nano banana, não é nada disso, ó.
+1:02:151 hora, 2 minutos e 15 segundosNão é Gemini pr lest, não é esse aqui. É parecido, mas não é igual. Tem que ser exatamente aquele lá. É Gemini 3.1 Pro
+1:02:221 hora, 2 minutos e 22 segundospreview. Pelo menos no dia que eu tô gravando esse essa aula aqui, tem que ser dessa forma, tá bom? Se no futuro, daqui a um mês, não tiver, beleza. Aí você vai escolher uma outra coisa. Mas se tiver esse aqui, você escolhe esse.
+1:02:331 hora, 2 minutos e 33 segundosPonto. Beleza? Então, fechou essa parte aqui. Expliquei. Isso aqui é importantíssimo, que é aqui que sai o resultado, tá? O resultado bom sai
+1:02:401 hora, 2 minutos e 40 segundosdaquilo ali. E aqui você começa a, você vai falar para Iar o que você quer. Você vai querer dar regras para Iar. Agora a
+1:02:471 hora, 2 minutos e 47 segundosgente vai começar a criar não só do nosso jeito. A gente vai criar um jeito misturado.
+1:02:521 hora, 2 minutos e 52 segundosPor exemplo, eu posso criar uma música aqui do meu jeito. Vamos lá. Vamos para música do meu jeito. Música do meu jeito. Vamos lá.
+1:02:591 hora, 2 minutos e 59 segundosVamos criar uma música aqui, eh, com os atributos de Deus. Botar aqui, ó, santo, santo,
+1:03:081 hora, 3 minutos e 8 segundosinigualável, igualável.
+1:03:141 hora, 3 minutos e 14 segundosEh, majestoso, glorioso, príncipe,
+1:03:221 hora, 3 minutos e 22 segundospríncipe da pai. Eu sei que tá errado aqui, tá, pessoal? É só clicar aqui e corrigir, ó.
+1:03:291 hora, 3 minutos e 29 segundosclica ali e pega, corrige. Príncipe da paz. Eh, e assim vai, Manuel.
+1:03:381 hora, 3 minutos e 38 segundosEh, beleza? Então, você vai aqui, você vai botando os atributos de Deus. No caso, você tá lembrando aqui, por exemplo,
+1:03:471 hora, 3 minutos e 47 segundosvocê pode também começar a montar uma uma frase, né?
+1:03:521 hora, 3 minutos e 52 segundosEh, santo rei de Israel, Israel,
+1:04:021 hora, 4 minutos e 2 segundoseh, meu Deus, Emanuel. Aí você vai tipo rimando, entendeu? Você vai montando da tua
+1:04:081 hora, 4 minutos e 8 segundoscabeça aqui rimando. Eh, vem em mim, Senhor, e toca meu coração.
+1:04:221 hora, 4 minutos e 22 segundosFaz de mim um vaso de honra.
+1:04:301 hora, 4 minutos e 30 segundosÉ. Ah, ter vaso vaso.
+1:04:341 hora, 4 minutos e 34 segundosEh, glorioso
+1:04:411 hora, 4 minutos e 41 segundosrei eterno, majestoso.
+1:04:511 hora, 4 minutos e 51 segundosE assim vai. Aí você vai criando. Você vê que aqui eu já estou criando minha música. Eu tô desenvolvendo. Vou digitando, vou vou digitando, vou embora. Vou vou criando um monte de coisa.
+1:05:011 hora, 5 minutos e 1 segundoAntónio, mas dá para você agora pegar essa música, colocar lá e vai cantar com certeza. O que você colocar aqui ele canta. Se você botar até um endereço aqui, ó, eh, botar teu endereço aqui,
+1:05:091 hora, 5 minutos e 9 segundosele vai cantar teu endereço. Que você colocar aqui, ele vai cantar, tá? Pode ser coisa boba, coisa simples. Você pode pegar uma conversa lá do WhatsApp, jogar
+1:05:161 hora, 5 minutos e 16 segundosaquilo e vai cantar também o que você quiser. Qualquer texto que você colocar, ele canta. Ah, então posso botar um texto da Bíblia assim na íntegra, assim, pode cantar também um texto da palavra
+1:05:241 hora, 5 minutos e 24 segundosde Deus, não tem problema. Ele vai cantar.
+1:05:281 hora, 5 minutos e 28 segundosEh, inclusive a escritura cantada tem a ver com isso, nasceu com essa ideia, tá, de botar a palavra de Deus. Mas depois você vão entender. Eu vou vou vou falar
+1:05:351 hora, 5 minutos e 35 segundosa forma a fórmula que eu usei para você, você vai entender.
+1:05:401 hora, 5 minutos e 40 segundosEntão aqui você começa a criar, só que aí que aí que tá o segredo. Quando você começar a criar aqui, você pode pedir ajuda para fazer fazer com você.
+1:05:491 hora, 5 minutos e 49 segundosMas esto tá errada. Isso aí eu venho aqui Emanuel também. Acho que também que a Emanuel tá errado também. Consertei. Aí o que acontece?
+1:05:571 hora, 5 minutos e 57 segundosAqui eu já posso pedir ajuda tanto aqui no próprio na própria IA do Google Docs, mas eu não gosto de fazer
+1:06:061 hora, 6 minutos e 6 segundosaqui não, tá? Eu aí eu vou trazer esse esboço aqui. Isso aqui é só um esboço, tá? Esse esboço eu vou trazer agora para cá, ó. Agora sim. Olha só, eu vou vir,
+1:06:141 hora, 6 minutos e 14 segundosvou dar um contrl V aqui dentro. Aí ele trouxe esse esboço para cá e eu vou falar para ele assim no
+1:06:211 hora, 6 minutos e 21 segundosiniciozinho, botar aqui, ó. Eh, estamos botar por voz aqui, ó.
+1:06:281 hora, 6 minutos e 28 segundosNosso objetivo é criar uma música com os atributos de Deus. Eu já coloquei embaixo alguns atributos que eu gosto muito de Deus, só que eu sei que tem
+1:06:361 hora, 6 minutos e 36 segundosmuitos outros. Que que eu quero que você faça? Eu quero que você agora nós nós estamos numa na na etapa de brainstorm, ou seja, pensando nas palavras que vai
+1:06:441 hora, 6 minutos e 44 segundosentrar na música. Essas aí com certeza vão entrar, mas eu quero que você adicione mais para mim. Então vamos lá, vamos para essa etapa aí. Depois a gente cria a música.
+1:06:531 hora, 6 minutos e 53 segundosAí eu vou clicar nesse iconezinho aqui, ó. Aí, olha, olha o que aconteceu aqui, ó. Só que ele criou em em inglês, tá?
+1:07:011 hora, 7 minutos e 1 segundoIsso aqui é um problema. Por quê? Porque esse sistema aqui, ele geralmente faz isso. Para não fazer isso, tem que falar assim, ó: "Olha, eu quero em português do Brasil". Aí ele vai lá e escreve em
+1:07:091 hora, 7 minutos e 9 segundosportuguês do Brasil. Mas aqui tá exatamente o que eu falei, só que tá em inglês. Eu vou traduzir para você ver, ó.
+1:07:161 hora, 7 minutos e 16 segundosVou pegar uma I aqui qualquer, vou traduzir, ó,
+1:07:241 hora, 7 minutos e 24 segundospara evitar isso aí. Você tem que pedir para ele, ó. É, mas ele,
+1:07:321 hora, 7 minutos e 32 segundoscara, ele acabou fazendo errado. Essas já são meio, meio burrinha. Essa é a grande palavra mesmo. Certo é essa. Vamos entrar aqui
+1:07:401 hora, 7 minutos e 40 segundosno no Cláudio aqui. Cláudio é mais inteligente.
+1:07:451 hora, 7 minutos e 45 segundosÔ Cláudio, próprio chatt também não erraria isso não, tá?
+1:07:491 hora, 7 minutos e 49 segundosJá tô até no chat no dois 2 x de uso no cowork. Hum. interessante.
+1:07:591 hora, 7 minutos e 59 segundosEh, vamos lá. Ai, cara, não é isso não.
+1:08:081 hora, 8 minutos e 8 segundosEu esqueci de falar para ele traduzir.
+1:08:131 hora, 8 minutos e 13 segundosÓ, ele vai traduzir. Quer ver? Ó, ó, aqui está a tradução. Ele vai
+1:08:211 hora, 8 minutos e 21 segundostraduzir ela, viu? Nosso objetivo é criar uma música com os atributos de Deus, tal, tal, tal, tal, tal, tal.
+1:08:291 hora, 8 minutos e 29 segundosEntão, vamos lá, vamos agora voltar aqui para aquela tela, essa telinha aqui. Vou apagar que tá em inglês, só para não atrapalhar você. Eu só traduzir por
+1:08:361 hora, 8 minutos e 36 segundoscausa de você, tá? Que eu sei que você pode se enrolar aí e acabar achando estranho, tá? Em inglês. Deixa eu dar um zoom aqui.
+1:08:431 hora, 8 minutos e 43 segundosTava muito pequeno.
+1:08:461 hora, 8 minutos e 46 segundosBeleza. Tá bom assim para você? Acho que tá, não tá? Ó, o nosso objetivo é criar uma música com os atributos de Deus. Eu já listei alguns atributos, sei que
+1:08:541 hora, 8 minutos e 54 segundosexiste muitos outros. O que eu quero é que você faça. Então isso aqui foi o que eu o que eu ditei para ele, que eu acabei deitar para você, que você ouviu aí. Aí aqui embaixo estão estão os
+1:09:021 hora, 9 minutos e 2 segundosatributos e os pedaços da letra. Eu venho aqui e boto rodar. Esse run aqui eu aperto ele e fico esperando um pouquinho.
+1:09:101 hora, 9 minutos e 10 segundosE vai processar aqui, ó. Tá pensando.
+1:09:131 hora, 9 minutos e 13 segundosCara, sabe uma coisa que eu acho muito legal? É ler o pensamento dele. Eu vou clicar aqui, ó. Aí aparece aqui, ó, pensamento dele. Tá vendo?
+1:09:211 hora, 9 minutos e 21 segundosSó que problema é que aparece em inglês, né? Vou clicar de novo aqui. Pronto, sumiu.
+1:09:281 hora, 9 minutos e 28 segundosQue excelente iniciativa. O três que você já escreveu tem a sonoridade linda e profunda com uma pegada forte de adoração. Israel, Emanuel, um clássico sempre funciona muito bem.
+1:09:391 hora, 9 minutos e 39 segundosÓ, poder, grandeza, soberano, todo-pereroso, criador, inabalável, invencível, onipotente, altíssimo, eternidade eterna, alfa e ômega,
+1:09:461 hora, 9 minutos e 46 segundosimutável. Então assim, ele já ele já pegou palavras aqui. Aí olha só agora que vem agora. Olha só, agora tá construindo isso aqui. É como eu faço,
+1:09:541 hora, 9 minutos e 54 segundostá? Só que tô sendo didático com você também. Não é exatamente assim que eu faço. É, é. E não é. Como, qual é a parte que eu faço então? Essa parte de
+1:10:021 hora, 10 minutos e 2 segundosseparação de palavras, brainstorm, eu faço isso, tá? Eu faço exatamente isso.
+1:10:091 hora, 10 minutos e 9 segundosVamos lá. Agora, agora eu vou falar para ele assim, porque eu tô construindo com você a música, né? Eu tô construindo, eu tô indo devagar, não tô indo direto ao ponto. Eu poderia pular essa etapa aqui,
+1:10:181 hora, 10 minutos e 18 segundosmas vamos lá. Aí agora eu vou fazer assim, ó. Mas para você entender, eu separei as palavras e falar para ele assim, ó.
+1:10:251 hora, 10 minutos e 25 segundosÓ, eu quero o texto em português do Brasil, tá bom? Nosso objetivo aqui é o seguinte, é pegar agora essas palavras.
+1:10:311 hora, 10 minutos e 31 segundosEu gostei todas as palavras que você colocou. Eu quero que você eh as minhas que eu escolhi lá em cima tem
+1:10:391 hora, 10 minutos e 39 segundosque tá do jeito que eu coloquei, só que eu quero que você agora crie a música para mim adicionando as suas palavras também, tá? Outra coisa importante, eu
+1:10:471 hora, 10 minutos e 47 segundosquero que a música tenha algum tipo de repetição.
+1:10:521 hora, 10 minutos e 52 segundosOlha isso que eu acabei de falar para ele, algum tipo de repetição. Já já comecei a a a criar. Olha o que ele fez, ó. Ele botou agora em espanhol. É mole.
+1:11:021 hora, 11 minutos e 2 segundosEu gosto desse cara aqui que ele é muito
+1:11:141 hora, 11 minutos e 14 segundosinteligente. Ele geralmente faz certinho as coisas que eu quero. Mas lembrando que chat PT também faria.
+1:11:261 hora, 11 minutos e 26 segundosAlguns não fazem.
+1:11:281 hora, 11 minutos e 28 segundosEh, nosso objetivo é o seguinte. Aí eu vou lá e mando rodar de novo aqui, ó. D um run.
+1:11:351 hora, 11 minutos e 35 segundosEle vai pensar que esse modelo aqui ele pensa, né? Ele tem aqui, ó, pensar alto, temperatura, essas coisinhas aqui do lado direito aí. Mas não precisa mexer
+1:11:421 hora, 11 minutos e 42 segundoscom isso não, tá? Fica focado só nessa parte aqui mesmo. Não precisa olhar outras coisas laterais ali. Aqui é só para criar música mesmo. Lembrando que
+1:11:501 hora, 11 minutos e 50 segundosvocê poderia fazer isso aqui, eu tô fazendo aqui no GPT ou no no cloud, no cloud, tá? Eu escolhi fazer aqui dentro
+1:11:581 hora, 11 minutos e 58 segundosdo Google Studio usando o Gemini 3.1 Pro. Eu acho muito bom. Ele ele ele cria cada música muito boa.
+1:12:061 hora, 12 minutos e 6 segundosÓ, aqui já começou a ficar interessante.
+1:12:091 hora, 12 minutos e 9 segundosAqui ele já botou introdução com violão, já fez o verso um. Eh, vem em mim, Senhor, e toca o meu coração. Faz de mim
+1:12:171 hora, 12 minutos e 17 segundosum vaso de honra em tuas mãos. Tá vendo, ó? Olha que coisa interessante que ele fez, ó. Ele botou para rimar no final. Tá vendo?
+1:12:231 hora, 12 minutos e 23 segundosEle pegou o que eu fiz e e adicionou em tuas mãos. Cara, ficou genial isso aqui. Eu me rendo a tua graça, a tua luz.
+1:12:291 hora, 12 minutos e 29 segundosLeva-me à tua presença, meu Jesus. Tá vendo? Ele rimou, cara. Ficou muito boa isso aqui, cara. Isso aqui vai dar uma música muito bonita, já tô te falando. Só que pode melhorar ainda. Pode.
+1:12:381 hora, 12 minutos e 38 segundosDepois, depois eu vou voltar que a gente vai melhorar. Ó, tu és santo, rei de Israel, meu Deus Emanuel. Tu és santo, rei de Israel, meu Deus Emanuel,
+1:12:461 hora, 12 minutos e 46 segundosinigualável, príncipe da paz, é tudo o que eu preciso e muito mais.
+1:12:521 hora, 12 minutos e 52 segundosVerso dois. Glorioso Rei, eterno, majestoso, soberano, todo poderoso, o grande eu sou, meu refúgio seguro, meu salvador.
+1:12:591 hora, 12 minutos e 59 segundosFicou muito bom isso aqui, tá? Essa música já ficou muito, muito boa. Bem, qual o segredo? Qual o segredo? O segredo é esse aqui, ó. O segredo é
+1:13:071 hora, 13 minutos e 7 segundosnunca deixa iá sozinho. Você vai conduzir a Iá. Conduzir.
+1:13:151 hora, 13 minutos e 15 segundosEsse aqui é o segredo. Anota isso aí, tá?
+1:13:191 hora, 13 minutos e 19 segundosO segredo é conduzir. Não deixa a Iá sozinha. Não deixa. Você tem que eh ir direcionando ela. Dá direção para Iá.
+1:13:291 hora, 13 minutos e 29 segundosNão deixa a Iá fazer as coisas sozinho. Esse é o nosso papel.
+1:13:361 hora, 13 minutos e 36 segundosE isso é que humaniza a coisa. Se você, se você não fizer isso, não fica humanizado, fica uma coisa robotizada.
+1:13:411 hora, 13 minutos e 41 segundosEu poderia falar para ela assim diretamente assim, ó. Cria para mim uma música nos atributos de Deus. Pronto, ela ia criar, tá? Mas e aí, será que ia
+1:13:491 hora, 13 minutos e 49 segundosficar bom? Ah, pode ficar sim, pode ficar com certeza. É, mas é tipo um é jogar moeda pro alto, né, cara? Coroa, né? Pode dar sorte, pode dar sorte de
+1:13:581 hora, 13 minutos e 58 segundosficar uma coisa muito boa logo de cara, né? Mas eu não faço assim, não é a maneira que eu faço, tá?
+1:14:051 hora, 14 minutos e 5 segundosMas eu vou mostrar uma maneira que é automatizada também. Existe uma maneira automatizada. Como assim? Posso criar, se eu quiser, 50 músicos de uma vezada
+1:14:121 hora, 14 minutos e 12 segundossó, tá? É possível fazer isso? É possível. com esse com esse sisteminha aqui, ó. Cloud Code. É possível fazer isso. Deixi até aberto já. Ou você usar
+1:14:211 hora, 14 minutos e 21 segundosesse antig da Google aqui, ó. Eu vou até mostrar depois uma coisinha para você ali, tá? Isso aqui é um pouquinho mais avançado, por isso que eu vou deixar pro final.
+1:14:291 hora, 14 minutos e 29 segundosEh, eu espero que você esteja gostando aí, que você esteja aprendendo aí. Vale muito a pena. Isso aqui é muito legal de fazer, tá? Eu eu gosto demais disso aqui, gosto demais mesmo.
+1:14:391 hora, 14 minutos e 39 segundosE você vai poder fazer muitas músicas para para parentes, para amigos, para pessoas que vão fazer aniversário, né? Você pode criar música de aniversário.
+1:14:491 hora, 14 minutos e 49 segundosVamos então pegar essa música aqui. Vamos lá.
+1:14:521 hora, 14 minutos e 52 segundosVou vou selecionar tudo até aqui.
+1:14:581 hora, 14 minutos e 58 segundosEle não colocou estilo, tá? Ele não criou estilo. Eu posso pedir para ele criar. Deixa eu ver se ele botou aqui. Não, não criou.
+1:15:051 hora, 15 minutos e 5 segundoseh me dê um estilo para eu colocar no Suno
+1:15:141 hora, 15 minutos e 14 segundosem português e inglês.
+1:15:221 hora, 15 minutos e 22 segundosBem, dê enter, tá? Se você der enter, já é como tivesse apertando o botãozinho ali, tá? Cuidado para não apertar stop.
+1:15:271 hora, 15 minutos e 27 segundosvocê apertar stop, ele vai cancelar a geração que tá fazendo aqui. Enquanto ele tá fazendo ali, já até fez já, ó. Ia falar enquanto tá fazendo para eu poder ir lá no Suno.
+1:15:401 hora, 15 minutos e 40 segundosEle botou vários.
+1:15:431 hora, 15 minutos e 43 segundosUé, cara, ele fez muito mais do que eu pedi,
+1:15:511 hora, 15 minutos e 51 segundosmas até que ficou legal. Gostei do que ele fez. Ele criou uma caixinha aqui.
+1:15:551 hora, 15 minutos e 55 segundosVocê pode apertar esse botãozinho aqui, ó. copilboard que facilita. Mas como eu já selecionei tudo mesmo, já tá aqui, então tá tudo bem. Cadê o Cadê o sono?
+1:16:041 hora, 16 minutos e 4 segundosAquele aqui? Aí agora eu vou dar um conttrl A, deletei. Contrtrl V e aqui tá
+1:16:101 hora, 16 minutos e 10 segundosa música, ó. Hum, ficou legal não. Dá um contrtrl Z. Deixa eu pegar lá a caixinha dele lá, ó. Vou clicar nessa caixinha aqui, ó.
+1:16:201 hora, 16 minutos e 20 segundosCliquei. É aqui, ó. Tá nessa caixinha aqui, ó. Deu um clique aqui. Pode clicar duas vezes ou três que é melhor para
+1:16:271 hora, 16 minutos e 27 segundosgarantir que vai copiar. Aí você clica aqui dentro, control V. Aí você vê que agora tá organizadinho, tá vendo, ó?
+1:16:341 hora, 16 minutos e 34 segundosIntro verso um, precorus, corus. Lembrando que corus é o refrão.
+1:16:421 hora, 16 minutos e 42 segundosE agora estilo. Estilo. Volto de novo aqui nesse nesse na abinha ali.
+1:16:471 hora, 16 minutos e 47 segundosNão repar esse monte de aba aberta, tá bom? Aqui, ó. Vem aqui. Aí eu procuro aqui a opção que ele fez.
+1:16:571 hora, 16 minutos e 57 segundosCadê? Tá aqui em cima. Aqui. Eh, gospel pop rock. Vou botar em português, tá? Ele fez uma coisa bem grande ali,
+1:17:061 hora, 17 minutos e 6 segundosmuita opção de de Mas tudo bem, vou deixar do jeito que ele colocou.
+1:17:131 hora, 17 minutos e 13 segundosPop rock, vocal potente, ritmo dinâmico.
+1:17:161 hora, 17 minutos e 16 segundosIsso aqui vai vai cair no vai cair no rock isso aqui, hein?
+1:17:201 hora, 17 minutos e 20 segundosÓ, lembrando que eu eu não pedi rock, tá vendo? Mas vou tirar isso aqui.
+1:17:241 hora, 17 minutos e 24 segundosProvavelmente isso aqui vai cair num rock do jeito que ele pediu. Ah, tá aqui. Tá aqui, ó. Pop rock, na verdade. Vamos ver. Vamos ver o que vai acontecer. Eu
+1:17:321 hora, 17 minutos e 32 segundosnão sei se vai ficar legal em pop rock isso aqui, não.
+1:17:361 hora, 17 minutos e 36 segundosEu vou deixar do jeito que ele que ele fez. Tá vendo? É por isso, é por isso que não pode deixar na mão da I. A Iá faz bobagem. Já sei que vai sair ruim aqui, mas não tem problema. Eu vou
+1:17:451 hora, 17 minutos e 45 segundosdeixar do jeito que ela fez para você entender o que eu tô falando.
+1:17:491 hora, 17 minutos e 49 segundosEh, e o nome da música? Ele deu o nome da música.
+1:17:571 hora, 17 minutos e 57 segundosDeixa eu ver se ele deu o nome da música aqui.
+1:18:051 hora, 18 minutos e 5 segundosNão, ele não deu não. Eu vou vou botar um nome qualquer. Vou vou dar aqui. Eh,
+1:18:161 hora, 18 minutos e 16 segundosacri mutos de Deus.
+1:18:231 hora, 18 minutos e 23 segundosTo curso. A versão da música é 1.1, concorda que eu acabei de eu acabei de fazer ela agora, entendeu? Ela é uma
+1:18:301 hora, 18 minutos e 30 segundosversão 1.1. Como assim? É a primeira versão da música, entendeu? É versão 1.1. Se fosse a segunda versão aí vai ser 1.2 ou 2.1, dependendo.
+1:18:421 hora, 18 minutos e 42 segundosSalvarem curso sono. Tá certinho. OK. Deixa eu conferir tudo certinho aqui, ó. Estilo, letra e título. OK. Vou criar.
+1:18:531 hora, 18 minutos e 53 segundosCara, ele cria muito rápido. Eu fico, eu fico espantado o quão rápido ele cria. Ó, já criou. Só vou dar um play aqui, ó.
+1:19:011 hora, 19 minutos e 1 segundoTudo bem que ele não, ele não cria tudo uma vez, tá? Ele cria aos poucos. Tá vendo, ó? Aqui a porcentagem dele criando, ó. Mas ele já deixa você tocar antes de criar tudo.
+1:19:151 hora, 19 minutos e 15 segundosÓ, vou vou ver aqui a letra.
+1:19:291 hora, 19 minutos e 29 segundosV em mim, Senhor, e toca meu coração. Vamos ver. Vamos ver se vai ficar legal.
+1:19:341 hora, 19 minutos e 34 segundosVem em mim, Senhor, e toca meu coração.
+1:19:461 hora, 19 minutos e 46 segundosFaz de mim um vaso de honra em tuas mãos.
+1:19:561 hora, 19 minutos e 56 segundosTá mudando pra feminina. Eu me rendo a tua graça, a tua luz.
+1:20:051 hora, 20 minutos e 5 segundosLeva-me à tua presença, meu Jesus.
+1:20:131 hora, 20 minutos e 13 segundosPois não há outro Deus no céu ou no mar.
+1:20:201 hora, 20 minutos e 20 segundosToda a terra se prostra para te adorar.
+1:20:281 hora, 20 minutos e 28 segundosO alfa e o ômega, princípio e fim.
+1:20:341 hora, 20 minutos e 34 segundosO teu amor inabalável vive em mim.
+1:20:411 hora, 20 minutos e 41 segundosTu és santo, rei de Israel, meu Deus.
+1:20:491 hora, 20 minutos e 49 segundosDeus Emanuel, tu é santo,
+1:20:591 hora, 20 minutos e 59 segundosrei de Israel, meu Deus, Deus Emanuel,
+1:21:081 hora, 21 minutos e 8 segundosinigualável, príncipe da paz, eis tudo o que eu preciso.
+1:21:191 hora, 21 minutos e 19 segundosE muito mais.
+1:21:231 hora, 21 minutos e 23 segundosGlorioso rei eterno, majestoso, soberano.
+1:21:291 hora, 21 minutos e 29 segundosMuito legal essa música. Todo poderoso, grande bem. Ficou muito boa, tá? Eu gostei demais. E lembrando, pode melhorar, tá?
+1:21:391 hora, 21 minutos e 39 segundosSempre pode melhorar, tá? Sempre pode melhorar. Eh, paraa escritura cantada, eu fiz uma fórmula, tá? Eu vou te apresentar a fórmula que eu criei. A
+1:21:471 hora, 21 minutos e 47 segundosforma de estar aqui dentro, ó, comprometido, né? Nesse curso aqui, eu falei que eu ia mostrar a minha fórmula
+1:21:551 hora, 21 minutos e 55 segundosde criação. Tô mostrando exatamente como eu faço, tá? Todo passo a passo, bem bonitinho, bem didático.
+1:22:021 hora, 22 minutos e 2 segundosEh, aqui já tem um monte de letras. Eh, por exemplo, salmo um, né?
+1:22:081 hora, 22 minutos e 8 segundosAqui, ó. Tá aqui a letra, Salmo dois, assim vai. Apesar de que o salmo 2 não tá aqui, mas enfim.
+1:22:171 hora, 22 minutos e 17 segundosAqui estão outras letras, ó. Salmo 8, 18, 33, 34, 35, 36, 37, 38 e assim vai.
+1:22:241 hora, 22 minutos e 24 segundosTem um monte de salmo aqui, não tão todos aqui, mas tem muita coisa até o 50. Repara que o 50 aqui, ó, eu fiz com
+1:22:311 hora, 22 minutos e 31 segundosopus 4.6, tá vendo? Aqui no finalzinho, ó. Opus 4.6. Esse aqui já é o Gemini 3.1
+1:22:381 hora, 22 minutos e 38 segundosPro, entendeu? Então, como eu falei, eu uso todos, entendeu? Eu eu eu uso todos os modelos que tiver, eu uso aqui, ó, o 3.5 flash. Isso aqui é o nome do modelo.
+1:22:491 hora, 22 minutos e 49 segundosEu gosto de botar para saber quem criou essa letra, né? Para depois saber qual o melhor, qual o pior. Eu gosto de comparar. Esse aqui é o Deepsic, que é
+1:22:561 hora, 22 minutos e 56 segundosum chinês modelo deepic.
+1:23:021 hora, 23 minutos e 2 segundosEsse aqui é o da meta. O 124 fiscal a meta. Tá vendo? Ficou legalzinho também o da meta.
+1:23:081 hora, 23 minutos e 8 segundosEh, mas eu tava fazendo nessa época, tava fazendo muito com esse aqui, ó. de apt 5.5 high ficou legal também. Então eu tenho uma regra, tá? Qual é a regra?
+1:23:161 hora, 23 minutos e 16 segundosÓ, a regra é ter um spoken. Spoken é falado, ele fala no início, tá? Porque está batido na minha alma, que te perturba dentro de mim, entendeu? Ele
+1:23:241 hora, 23 minutos e 24 segundosele ele ele fala essa parte aqui, entendeu? Quando bota spoken, anota esse termozinho que é um termo interessante,
+1:23:311 hora, 23 minutos e 31 segundostá? Quando você quiser que fique falando alguma coisa aí, verso um, aí refrão, pré-refrão, tal. Aí aqui embaixo eu tenho outros token aqui. Quer ver? Ó. Ó.
+1:23:431 hora, 23 minutos e 43 segundosEsses token aqui é um spoken de assinatura. Toda honra, toda glória seja dada a Cristo. Então aqui eu botei uma assinatura no final.
+1:23:571 hora, 23 minutos e 57 segundosEntão, por exemplo, aqui, ó. Vamos ver essa 18 aqui. 18. Acho que é 18. Essa aqui mesmo. O meu rochedo é vivo.
+1:24:071 hora, 24 minutos e 7 segundosCadê? Ele é o meu libertador.
+1:24:161 hora, 24 minutos e 16 segundosMais forte que a morte é o braço do Senhor.
+1:24:221 hora, 24 minutos e 22 segundosAí aqui vem, ó. Do alto estendeu o braço, me tomou, tirou-me das muitas águas, livrou-me do meu inimigo forte, entendeu? Tá? Então aqui é falado, tá
+1:24:311 hora, 24 minutos e 31 segundosvendo? spoken. Aquele negócio de spoken que eu falei lá é é falado em inglês. Eu geralmente coloco em português. Hoje em dia aceito. Antigamente não aceitava
+1:24:391 hora, 24 minutos e 39 segundosnão, tá? Até até um tempo atrás aí tinha que ser inglês aqui em cima, mas mas hoje em dia ele aceita. Tem que botar esse colchetezinho assim, tá vendo? Para
+1:24:471 hora, 24 minutos e 47 segundosindicar que é o refrão, pré-refrão, fica mais organizado. Hoje em dia também não precisa disso, mas eu coloco, eu ainda mantenho um padrão. Eh, não precisaria disso aqui, mas eu eu faço dessa forma.
+1:24:591 hora, 24 minutos e 59 segundosO início, assim, ó, a minha fórmula é assim, ó. O início eu coloco um trecho da Bíblia. Isso aqui é um trecho da Bíblia. Eu retiro dessa Bíblia aqui, ó.
+1:25:061 hora, 25 minutos e 6 segundosEu prefiro porque ela é sem direito autoral, é Almeida recebida, tá? Por exemplo, aquela é qual? 18, né?
+1:25:161 hora, 25 minutos e 16 segundosQual o salmo que tá ali que eu nem lembro? Deixa eu ver aqui. Acabei de ver agora. Cadê? Tá aqui, ó.
+1:25:221 hora, 25 minutos e 22 segundosSalmo 18. Então, Salmo 18 aqui, ó.
+1:25:271 hora, 25 minutos e 27 segundosAqui, ó. Senhor, minha rocha, minha fortaleza, meu libertador. Tá vendo? Meu rochedo, tá? Tá escrito isso lá, ó. Não é isso? Cadê? Vamos ver se tá aqui, ó.
+1:25:371 hora, 25 minutos e 37 segundosQue é o Senhor, minha rocha, minha fortaleza, meu libertador, meu rochedo, que me refugia. Tá vendo? Então, é um trecho do salmo. É um trecho na íntegra,
+1:25:441 hora, 25 minutos e 44 segundosné? É um trecho na íntegra. Eu te amo, Senhor. Minha força. Essa parte aqui, ó, o número um e número dois, os versos 1 e 2 do Salmo 18, tá exatamente assim na na música, entendeu?
+1:25:561 hora, 25 minutos e 56 segundosQue é isso aqui, ó? O meu rochiro aqui. Cadê isso? Aqui, ó. Eu te amo, ascensão. Aqui, ó. É o início.
+1:26:031 hora, 26 minutos e 3 segundosForça mim o Senhor e a minha rocha, a minha fortaleza e o meu libertador, o meu Deus, o meu rochedo em quem me
+1:26:131 hora, 26 minutos e 13 segundosrefugio, o meu escudo, a força da minha salvação
+1:26:201 hora, 26 minutos e 20 segundose o meu alto refúgio.
+1:26:431 hora, 26 minutos e 43 segundosTu és a força quando o braço se cansa.
+1:26:491 hora, 26 minutos e 49 segundosTu és o ancora da minha esperança.
+1:26:561 hora, 26 minutos e 56 segundosTu és a rocha onde firmo o meu pé.
+1:27:021 hora, 27 minutos e 2 segundosTu és o alto refúgio da minha fé.
+1:27:071 hora, 27 minutos e 7 segundosQuando as correntes do inferno apertaram meus nós, foi no silêncio que eu ouvi a tua voz.
+1:27:211 hora, 27 minutos e 21 segundosLaços de morte me cercaram na escuridão.
+1:27:261 hora, 27 minutos e 26 segundosBem, é isso aí. Deixa eu pausar aqui.
+1:27:331 hora, 27 minutos e 33 segundosE no finalzinho da música aqui, ó, eu coloco a assinatura. Quer ver? Ó, cadê
+1:27:431 hora, 27 minutos e 43 segundoso Senhor vive? Bendito seja o meu rochedo.
+1:27:481 hora, 27 minutos e 48 segundosO inimigo já perdeu, acabou-se o meu medo.
+1:27:531 hora, 27 minutos e 53 segundosExaltado seja o Cristo, a minha salvação, dono absoluto da minha adoração.
+1:28:031 hora, 28 minutos e 3 segundosGlórias a Deus. Aleluias!
+1:28:091 hora, 28 minutos e 9 segundosToda honra e toda glória sejam dadas a Cristo.
+1:28:151 hora, 28 minutos e 15 segundosEste projeto nasceu no coração de Jesus e é realizado por Fábio Pantoja, a escritura cantada.
+1:28:291 hora, 28 minutos e 29 segundosEntão é isso aí. Aí o que acontece? Tem vários detalhes aqui interessantes. Um, meu nome não é assim, tá? Eu não tenho acento nem no A do Fábio e nem no O do
+1:28:391 hora, 28 minutos e 39 segundosPantoj, tá? Só que eu tive que colocar assento porque senão a aí ela não tava entendendo. Especialmente nesse segundo
+1:28:461 hora, 28 minutos e 46 segundosaqui, ó, no O do Pantoj não falava de jeito nenhum falar Pantoja. Pantoja tá errado, não é isso aqui? Pantoja, entendeu? E esse spoken aqui, como eu
+1:28:551 hora, 28 minutos e 55 segundosfalei, pode ser falado ou em inglês mesmo, do jeito que tá aqui, dá certo também. Aí ele vai, em vez dele cantar isso aqui, ele vai falar, ele meio que falar assim durante a música, né? Vai
+1:29:041 hora, 29 minutos e 4 segundosest o ritmo ali, mas ele vai est falando ali esse trecho. Então é bem legal isso também. Pode usar dessa forma.
+1:29:111 hora, 29 minutos e 11 segundosE cadê o outro que eu usei aqui, ó? Ó, outro falado aqui, ó. Do alto estendeu o braço, me tomou, tirou-me das muitas
+1:29:181 hora, 29 minutos e 18 segundoságuas, levoume o inimigo forte. Essa parte aqui que eu fiz aqui, cara, essa parte aqui, tá? Também tá na Bíblia, tá?
+1:29:291 hora, 29 minutos e 29 segundostambém tá na Bíblia.
+1:29:321 hora, 29 minutos e 32 segundosEsse aqui e aquele lá. Isso é uma regra minha, tá? Regra de criação. Outra coisa também, esse aqui, ó. Tu és a força, tu
+1:29:401 hora, 29 minutos e 40 segundosés o ancora. Tu és a rocha, tu és aqui se chama anáfora. Eu gosto desse tipo de coisa, eu gosto de anáfora. Então, botei uma regra de criação. Quando eu mando aí
+1:29:491 hora, 29 minutos e 49 segundosa criar a inteligência artificial, eu já mando com as minhas regras. Depois fica mais fácil, que é só depois eu corrigir alguma coisa ou outra, entendeu? Eu
+1:29:571 hora, 29 minutos e 57 segundospeço, eu, eu falo o que que eu quero na letra. Eu falo, eu quero a letra assim, assim, assim, que nem, que nem aqui, ó, a gente não fez assim. A gente começou
+1:30:041 hora, 30 minutos e 4 segundosaqui, ó. Eu começo assim, vou botando palavraschaves que eu quero, vou colocando, ó, quero essa palavra, eu quero essa frase, tem que ser esse jeito
+1:30:121 hora, 30 minutos e 12 segundosaqui, não pode mexer. Aí eu falo para ela, explica esse pedaço aqui imutável. Isso aqui tem que estar assim.
+1:30:191 hora, 30 minutos e 19 segundosOu fala para ela assim, ó. Ah, isso aqui é mais ou menos isso. Dá uma ajeitada aí. Posso fazer isso também, mas eu não gosto dessa dessa forma não. Eu gosto de escolher as palavras chaves, eu gosto de
+1:30:271 hora, 30 minutos e 27 segundosescolher a palavra que eu vou usar. Isso serve para qualquer música, tá? Qualquer música, literalmente.
+1:30:341 hora, 30 minutos e 34 segundosSeja para dar de presente. Eu sempre faço assim. De presente. Vamos, vamos falar um pouquinho na música de presente, ó.
+1:30:411 hora, 30 minutos e 41 segundosPor exemplo, música de presente. Vamos dar um enter aqui. Vamos supor que vou criar uma música de presente. Eu quero saber qual o nome da pessoa. O nome da
+1:30:501 hora, 30 minutos e 50 segundospessoa que vai receber o presente. Tem que botar aqui do lado. Vamos supor que seja aqui, sei lá. Qual tá meu nome mesmo? Fábio.
+1:30:571 hora, 30 minutos e 57 segundosAí o Fábio gosta de quê? Ah, tem algum clube de que ele gosta? Um clube de futebol.
+1:31:041 hora, 31 minutos e 4 segundosPessoal, isso aqui é só um teste. Eu nem nem ligo para futebol. Mas botar aqui futebol. Ele gosta do Flamengo, sei lá.
+1:31:111 hora, 31 minutos e 11 segundosAí, opa, ele é flamenguista, então fazer uma brincadeira com isso. Então, para quê? Por que que isso aqui é importante?
+1:31:161 hora, 31 minutos e 16 segundosIsso aqui é importantíssimo. É isso aqui que deixa a música com personalidade. Se você não colocar nada sobre a pessoa, ferrou, vai ficar uma música muito
+1:31:241 hora, 31 minutos e 24 segundosgenérica, entendeu? A nossa ideia é fugir do genérico. Ó, a ideia é fugir do genérico. A Iá, ela ela vai sempre
+1:31:331 hora, 31 minutos e 33 segundoslevar pro lado genérico. Você tem que fugir do genérico. Como é que você foge do genérico? Trazendo dados pessoais daquela daquela para quem você quer
+1:31:411 hora, 31 minutos e 41 segundosmandar o o presente, né? Por exemplo, ela gosta de chocolate.
+1:31:481 hora, 31 minutos e 48 segundosOpa, ela gosta de chocolate. Então, vamos fazer uma brincadeira com chocolate lá. Ela gosta de chocolate? Beleza.
+1:31:551 hora, 31 minutos e 55 segundosQue mais? Ah, trabalha com trabalha com isso, isso, isso.
+1:32:021 hora, 32 minutos e 2 segundosEh, e assim vai. Você vai colocando gostoso pessoais, vai colocando, ah, eu chamo ele de Fabão.
+1:32:111 hora, 32 minutos e 11 segundosTem um apelido? Tem apelido.
+1:32:151 hora, 32 minutos e 15 segundosIsso aqui é o que vai dando a graça a à música, entendeu?
+1:32:201 hora, 32 minutos e 20 segundosCoisas que só você sabe. Aí você bota assim, ó. Coisas é coisas que só você sabe, entendeu? Tem tem que botar
+1:32:281 hora, 32 minutos e 28 segundostrechos que só você sabe. E a Iá, ela vai ler tudo, cara. ela vai ler tudo.
+1:32:331 hora, 32 minutos e 33 segundosPor exemplo, se eu pegar a a letra e botar isso aqui, copiar e colar lá, ela vai ler isso aqui. Inclusive, se eu repetir 1000 vezes a palavra santo,
+1:32:411 hora, 32 minutos e 41 segundossanto, santo, santo, santo, ela vai, ela vai, eh, eh, ela vai cantar, cara. Ela vai cantar
+1:32:501 hora, 32 minutos e 50 segundossanto, santo, santo, santo. Ela vai cantar, entendeu?
+1:32:541 hora, 32 minutos e 54 segundosPosso te mostrar isso aqui, fazer um teste para você ver, para você não gastar teus créditos. Eu vou gastar por você. Pronto.
+1:33:011 hora, 33 minutos e 1 segundoVai ser uma música só cantando santo, igual lá na lá em Apocalipse, né, que canta santo, santo, santo é o Senhor.
+1:33:081 hora, 33 minutos e 8 segundosVamos lá, vamos botar aqui no sono.
+1:33:121 hora, 33 minutos e 12 segundosAnto, mas isso aí vai funcionar? Será que funciona você escrever dessa forma? Santos, santo, santo, santos o tempo todo. Será
+1:33:201 hora, 33 minutos e 20 segundosque ela vai entender? Será que ela vai repetir? Será que eu Olha, cantar. Ela vai cantar. se vai ficar bom. Aí já é outra história, né?
+1:33:341 hora, 33 minutos e 34 segundosVamos lá. Vamos, vamos fazer um teste aqui, ver o que acontece.
+1:33:411 hora, 33 minutos e 41 segundosHum. Deixar exatamente igual isso aqui.
+1:33:471 hora, 33 minutos e 47 segundosAqui eu vou botar santo.
+1:33:521 hora, 33 minutos e 52 segundosVamos lá. Versão um. Versão um. Criar uma pantóia. botou tudo santo. Vai dar
+1:34:001 hora e 34 minutoserrado. Não vai bugar não. Não sei o que veremos. Será que vai bugar? Será que não vai?
+1:34:061 hora, 34 minutos e 6 segundosSerá que ela vai entender? Será que ela vai conseguir fazer uma rima? Será que ela vai conseguir?
+1:34:121 hora, 34 minutos e 12 segundosQue que será que vai acontecer? Não sei apertar o play aqui.
+1:34:191 hora, 34 minutos e 19 segundosSanto, santo, santo,
+1:34:251 hora, 34 minutos e 25 segundossanto, santo, santo,
+1:34:331 hora, 34 minutos e 33 segundossanto, santo, santo,
+1:34:391 hora, 34 minutos e 39 segundossanto, santo, santo, santo.
+1:34:491 hora, 34 minutos e 49 segundosEi, santo, santo, santo, santo,
+1:34:581 hora, 34 minutos e 58 segundossanto, santo, santo, santo, santo,
+1:35:071 hora, 35 minutos e 7 segundossanto, santo, santo, santo, santo, santo.
+1:35:231 hora, 35 minutos e 23 segundosSanto, santo, santo, santo, santo,
+1:35:361 hora, 35 minutos e 36 segundossanto, santo, santo, santo, santo, santo, santo,
+1:35:461 hora, 35 minutos e 46 segundossanto. Santo, santo, santo, santo.
+1:35:511 hora, 35 minutos e 51 segundosÓ, como você viu, ó. Aí aqui, enquanto tava cantando lá, você deve ter percebido que eu já tava editando aqui, certo? Eu só não falei nada para não
+1:35:591 hora, 35 minutos e 59 segundosatrapalhar a música ali. Agora vou dar um play aqui, você vai ver que aqui já vai ficar legal, ó. Aqui já vai mudar um
+1:36:041 hora, 36 minutos e 4 segundospouco. Santo, santo, santo, santo, santo, santo, santo,
+1:36:131 hora, 36 minutos e 13 segundossanto, santo, santo,
+1:36:201 hora, 36 minutos e 20 segundossanto, santo, santo, santo, santo, santo, santo,
+1:36:281 hora, 36 minutos e 28 segundossanto, santo, santo é o Senhor. Santo é o Senhor. Santo é o Senhor.
+1:36:371 hora, 36 minutos e 37 segundosÉ o Senhor.
+1:36:401 hora, 36 minutos e 40 segundosSanto, santo, santo, santo, santo, santo, santo, santo, santo,
+1:36:481 hora, 36 minutos e 48 segundossanto, santo, santo, santo.
+1:36:521 hora, 36 minutos e 52 segundosSó ele é santo, santo, santo, santo, santo, santo, santo.
+1:37:001 hora e 37 minutosBem, você entendeu, né? Eh, isso aqui é outra maneira de criar, é você bota bem repetido e você vem aqui modificando aos
+1:37:081 hora, 37 minutos e 8 segundospoucos. Tá vendo? Eu botei aqui, Santo é o Senhor, santo é o Senhor. Botei repetida a letra aqui poder ele forçar mesmo. Você viu que ele respeitou isso
+1:37:141 hora, 37 minutos e 14 segundosaqui. Eu também fiz, ó, santo. Aí eu botei vários ó aqui. Ele também fez isso. Tanto aqui, ó. Quer ver, ó? Ó,
+1:37:221 hora, 37 minutos e 22 segundosessa parte aqui, ó. Ele é santo, santo, viu? Santo, santo, santo. Só ele é santo.
+1:37:311 hora, 37 minutos e 31 segundosEntão, ele respeitou isso aqui, ó. Ele respeitou esse monte de ó no final d entender que eu queria isso mesmo.
+1:37:361 hora, 37 minutos e 36 segundosQueria falar assim, oh, entendeu? Eh, então dá para fazer esse tipo de coisa, tá?
+1:37:431 hora, 37 minutos e 43 segundosDá para fazer assim, também, entendeu?
+1:37:471 hora, 37 minutos e 47 segundosYuhu. Dá para fazer esse tipo de coisa também. Você pode botar que ele vai respeitar. Eh, isso aqui é muito legal.
+1:37:521 hora, 37 minutos e 52 segundosEntão, você tem como fazer esse tipo de coisa na música. Então explora isso. É isso aqui que dá que dá pra música ela, ela
+1:37:591 hora, 37 minutos e 59 segundosesse direcionamento que deixa mais humanizado, tá? Isso que eu tô fazendo aqui, tô ensinando vocês a humanizar a letra, porque se você deixar para Iá
+1:38:071 hora, 38 minutos e 7 segundosfazer, ela não faz esse tipo de coisa, tá? A Iá não faz isso. A Iá não repete assim um monte de coisa repetida assim.
+1:38:141 hora, 38 minutos e 14 segundosA Iá, ela não faz esse tipo de coisa assim, essa quebra aqui no meio, só ele é santo, botar assim algo desse tipo, ela não faz de jeito nenhum, a não ser,
+1:38:221 hora, 38 minutos e 22 segundosclaro, se você pedir, né? Mas tem que ser bem explícito. Ela tem que dar um exemplo desse aqui, bem explícito. Ó, eu quero coisa assim aí, copiar e colar para ela fazer. Aí ela faz. Quer ver?
+1:38:311 hora, 38 minutos e 31 segundosVou vou vou vou mostrar na prática aqui, ó.
+1:38:371 hora, 38 minutos e 37 segundosNaquele vou lá naquela, naquela música que a gente tava fazendo.
+1:38:441 hora, 38 minutos e 44 segundosGosto muito de coisa assim. Edita aí essa música.
+1:38:531 hora, 38 minutos e 53 segundosVamos ver se você vai entender o que eu quero, tá?
+1:38:561 hora, 38 minutos e 56 segundosEntão eu vim aqui na IA, né, nessa nessa IA da Google aqui, que é uma I muito boa, como eu falei para vocês. Dei um exemplo aqui, ele vai me elogiar, tá? Já
+1:39:051 hora, 39 minutos e 5 segundossei, já conheço. Esses eu conheço para caramba já. Elas são bajeladora para caramba também.
+1:39:101 hora, 39 minutos e 10 segundosFala, caramba, ficou muito legal. Quer ver? Ó. Ó, vamos ver se vai falar agora.
+1:39:141 hora, 39 minutos e 14 segundosEntendi perfeitamente a vibe. Você quer aquele momento da duração espontânea, clímax. Exatamente. Tá vendo? Ele ele entende entender, eles entendem. Eles
+1:39:221 hora, 39 minutos e 22 segundossão muito inteligente. Agora para fazer é difícil. Mas vamos ver se eu dando um exemplo, vê se ele entendeu. Ó,
+1:39:321 hora, 39 minutos e 32 segundosó, é que ele botou, ó. Santo, santo, santo. Clima, só ele é santo. Uhu! Oh, uh, uhu, aleluia. Só ele é santo.
+1:39:401 hora, 39 minutos e 40 segundosEntendeu? Aqui ele botou o clima. Isso aqui já dá, já dá a impressão que é uma pessoa falando mesmo. Então, aí que tá o grande segredo, tá?
+1:39:481 hora, 39 minutos e 48 segundosE agora vou mostrar a você a regra que eu uso. Então aqui o legal desse desse ambiente aqui é que aqui tem todos os arquivos, né? Aqui é bem interessante.
+1:39:571 hora, 39 minutos e 57 segundosAqui é uma coisa um pouquinho mais avançada você entender esse tal de antig da Google aqui, mas vale muito a pena estudar, tá?
+1:40:061 hora, 40 minutos e 6 segundosEu tenho um curso isso aqui também. Cadê aqui, ó? Lista, lista, lista.
+1:40:131 hora, 40 minutos e 13 segundosPadrões que funcionam. Bem, aqui eu eu tenho um arquivo aqui de padrão que funciona, tipo assim, ó. A ti leva meus olhos, a ti habita na luz. Esse é a ti.
+1:40:221 hora, 40 minutos e 22 segundosA ti, a ti funciona.
+1:40:281 hora, 40 minutos e 28 segundosEh, regra de criação de música. Aqui está minha regra, ó. Aqui está minha regra.
+1:40:351 hora, 40 minutos e 35 segundosDeixa eu ver se eu mostro vocês de uma maneira melhor, tá?
+1:40:461 hora, 40 minutos e 46 segundosDeixa eu copiar essa regra aqui que é bastante coisa e vou jogar lá no
+1:40:541 hora, 40 minutos e 54 segundosformato no caixa. Quando a letra vier o modelo forte, marque. Não, isso aqui acho que não precisa não. Quando a letra vier de
+1:41:031 hora, 41 minutos e 3 segundosoutro modelo, não, isso aqui é outra coisa. Vai ter só até aqui. Vamos dar um copiar aqui.
+1:41:121 hora, 41 minutos e 12 segundosCopy. Vou jogar lá na minha nesse cara aqui.
+1:41:201 hora, 41 minutos e 20 segundosVamos criar um chat novo aqui. Cadê?
+1:41:251 hora, 41 minutos e 25 segundosEu vou te dar umas regras aqui de música e eu quero que você organize ela para mim
+1:41:341 hora, 41 minutos e 34 segundose lá no final também você faça eh uma organização também numérica de maneira sintetizada.
+1:41:441 hora, 41 minutos e 44 segundosVamos ver se ele vai entender o que eu preciso.
+1:41:521 hora, 41 minutos e 52 segundosEu tô fazendo isso aqui para facilitar facilitar para vocês, tá?
+1:42:011 hora, 42 minutos e 1 segundoVou criar um arquivo Markdown. Não cria markd não, cara. Cria aqui mesmo na na na tela.
+1:42:171 hora, 42 minutos e 17 segundosBem, enfim, vamos vamos lendo aqui, ó.
+1:42:231 hora, 42 minutos e 23 segundosÓ, não criar a próxima música, não avançar pro próximo salmo, tá? Isso aqui é uma regra lá pro pro antigravit.
+1:42:331 hora, 42 minutos e 33 segundosEstas regras são guia, estrutura mínima, não camisa de força. O que que eu quero dizer com isso? para Iá não ficar muito
+1:42:391 hora, 42 minutos e 39 segundosapegada à regra. Ela tem que saber a regra, mas não é uma regra absoluta.
+1:42:451 hora, 42 minutos e 45 segundosNão errar teologia, base bíblica, Cristo é centro, erro teológico não pode passar. Ou seja, falei para ele assim, ó, na letra tem que se preocupar com a
+1:42:531 hora, 42 minutos e 53 segundosteologia. Não pode ser fazer qualquer letra, qualquer coisa, botar o que quiser. Não é assim. Tem tem que fazer uma teologia bíblica correta.
+1:43:021 hora, 43 minutos e 2 segundosIsso aqui é para automatizar, tá? Isso aqui é para você dessa forma aqui você consegue criar muitas músicas, 10, 20, 30, 50, 100 música, entendeu?
+1:43:121 hora, 43 minutos e 12 segundosMas lembrando, automatização é um processo, mas é um processo que nasce do de você fazer antes, manualmente, entendeu? Esse processo que eu fiz
+1:43:211 hora, 43 minutos e 21 segundosantes, é importante você fazer. Não vai para automatização sem antes passar por isso, porque você vai automatizar algo que você nem sabe como criar primeiro,
+1:43:291 hora, 43 minutos e 29 segundosentendeu? Não faz sentido. Não faça isso.
+1:43:321 hora, 43 minutos e 32 segundosVocê primeiro aprende a criar música manual, como eu falei antes ali, digita, faz no manual mesmo. Vai para um caderno, faz no caderno, entendeu, cara?
+1:43:421 hora, 43 minutos e 42 segundosSó tenho certeza, você vai ficar muito feliz o dia que você peg, fizera, uma música de cabeça no caderno, passar para
+1:43:481 hora, 43 minutos e 48 segundosIá e a Iá cantar a sua música, a sua que você criou na sua cabeça. Vai por mim, você vai ficar muito feliz.
+1:43:551 hora, 43 minutos e 55 segundosComeça dessa forma, não vai para automatização, não. Essa automatização aqui, porque nós já estamos no final da nossa aula, eu tô mostrando para você que há uma maneira de fazer
+1:44:021 hora, 44 minutos e 2 segundosautomatização, mas ainda assim manter uma essência, tá? Não é tão automatizada assim, entendeu? Ol ela aqui, ó.
+1:44:111 hora, 44 minutos e 11 segundosEh, regra um, idioma 100% Brasil. Isso aqui, isso aqui são regras para inteligência artificial, entendeu? Criatividade. A letra não é
+1:44:201 hora, 44 minutos e 20 segundosuma cópia engessada do salmo. Usar palavras modernas e poéticas para garantir musicalidade. Ó, garantir musicalidade. Eu quero musicalidade. Eu não quero somente
+1:44:291 hora, 44 minutos e 29 segundosaí focar em textos naturais. Frase como eh alguém realmente cantaria. Tá vendo, ó?
+1:44:361 hora, 44 minutos e 36 segundosTempero erudito. Usar plaz clássica majestosa, ou seja, peso bíblico.
+1:44:411 hora, 44 minutos e 41 segundosQuando for possível e não é sempre também. Isso aqui às vezes fala isso aqui, aá enche de a Iá, ela tem um problema. Às vezes ela enche de coisa
+1:44:481 hora, 44 minutos e 48 segundoserudita. Uma vez ela fez uma música para mim toda muito rebuscada. Falei também não é assim que eu quero, cara. Não é assim, não é dessa forma.
+1:44:561 hora, 44 minutos e 56 segundosEntão você tem que ir lapidando ela, tá?
+1:44:591 hora, 44 minutos e 59 segundosRegra spoken, que é aquele falado lá, ó. Toda música deve começar, ó. Deve começar,
+1:45:061 hora, 45 minutos e 6 segundosdeve com spoken. Que que quer dizer isso? Isso aqui, ó.
+1:45:131 hora, 45 minutos e 13 segundosÓ. Opa. aqui, ó. Essa vou botar essa letra aqui. Cadê? Salmo 18, ó. Ó. Eu te amo, Senhor.
+1:45:221 hora, 45 minutos e 22 segundosMinha força, tá vendo? Minha rocha, minha fortaleza. Isso aqui vem da vem do Salmo do Salmo 18 verso 1 e 2. Entendeu?
+1:45:331 hora, 45 minutos e 33 segundosEsse outro aqui também vem, ó. Cadê? Do alto estendeu o seu braço, entendeu?
+1:45:371 hora, 45 minutos e 37 segundosIsso aqui também é por quê? Porque é a essência do meu projeto, né? O meu projeto é para tirar coisas da palavra.
+1:45:451 hora, 45 minutos e 45 segundosAlém disso, a própria música também ela é feita tirada do tirada do da palavra.
+1:45:511 hora, 45 minutos e 51 segundosÉ a essência do projeto. O projeto tem a ver com isso. Por isso que o nome é a escritura cantada, né? Cadê a escritura cantada? Por quê? Porque sai
+1:46:001 hora e 46 minutosda palavra, né? A música é assim, é uma regra que eu tô criando. Você pode criar também suas regras também.
+1:46:081 hora, 46 minutos e 8 segundosIsso aqui foi criado aos poucos, tá? Eu eu não acordei de manhã, bati a cabeça, falei assim, ó: "Opa, criei um monte de regra". Não é assim que funciona. Eu fui
+1:46:161 hora, 46 minutos e 16 segundoscriando a música e falando: "Opa, eu quero isso aqui, vou adicionar na minha regra". Ah, isso aqui também eu quero.
+1:46:201 hora, 46 minutos e 20 segundosVou adicionar na regra quatro, regra cinco, regra seis. E as coisas foram acontecendo naturalmente.
+1:46:271 hora, 46 minutos e 27 segundosEu posso criar um monte de regra do nada? Poder, pode, mas geralmente não é assim que funciona. Geralmente, mas se você conseguir criar várias regras, tá tudo bem também, não tem problema.
+1:46:371 hora, 46 minutos e 37 segundosEh, essência teológica, a música deve capturar a alma do salmo sempre apontando para a nova aliança.
+1:46:441 hora, 46 minutos e 44 segundosIsso aqui também foi uma regra que eu coloquei, mas não precisaria botar isso aqui. Poderia deixar só o salmo puro mesmo, mas eu queria vincular Cristo, coisa assim, mais para ficar música
+1:46:531 hora, 46 minutos e 53 segundoscristocêntrica, que hoje tá tendo uma febre de músicas não cristocêntrica, né? Então eu queria
+1:47:001 hora e 47 minutosfocar nisso. Fazer conexões hiperlinks, inteligentes, novo testamento, cruz, ressurreição, justiça, cruficação, graça, sempre fizer sentido teológico.
+1:47:101 hora, 47 minutos e 10 segundosExemplos: aplicar o choro de Davi ao Jetseman ou Rocha, a Jesus, entendeu?
+1:47:161 hora, 47 minutos e 16 segundosRegra quatro, estrutura musical e anáforas. Eh, use tags colchetes para guiar o áudio. Por exemplo, verso um,
+1:47:241 hora, 47 minutos e 24 segundospré-refrão, refrão, ponte crescente. Só que você bota os exemplos, ele segue somente os exemplos. Uma coisa que eu não gosto, né? Mas fazer o quê? Ele não
+1:47:331 hora, 47 minutos e 33 segundosé tão criativo assim a ponto de sair desse desse padrão, tá? A gente quiser sair, a gente vai ter que tirar ele desse padrão.
+1:47:421 hora, 47 minutos e 42 segundosNão usar sempre a mesma forma estrutural, mas ele acaba usando fazer o quê?
+1:47:461 hora, 47 minutos e 46 segundosEle vê a fórmula que dá certo e começa a repetir. Eles são muito bom nisso, mas eles acabam fazendo isso direto. Eles não não arriscam mudar. Isso aí é um padrão também da IA. É por isso que elas
+1:47:541 hora, 47 minutos e 54 segundosficam robótica. E aí cabe a gente fazer elas sair disso. Falar: "Ah, tá muito repetitivo. Tira isso aqui, bota aquilo
+1:48:021 hora, 48 minutos e 2 segundosali, coloca essa palavra aqui, troca isso aqui por isso aqui." Ou você faz manualmente, né? Você vai lá e edita, né? Você vem aqui, digita manualmente.
+1:48:141 hora, 48 minutos e 14 segundosEh, 4.3, modelo aprovado. Um, refrão amplo.
+1:48:201 hora, 48 minutos e 20 segundosEstrutura mais tradicional com refrão desenvolvido e loop final obrigatório.
+1:48:231 hora, 48 minutos e 23 segundosIsso aqui é para poder a música se repetir. Assim, ó.
+1:48:301 hora, 48 minutos e 30 segundosÓ, essa parte onde tem pontilhado aqui, ó. A música se repete nesse pedaço aqui, tá? Isso aqui tá igual lá em cima, ó. Tá
+1:48:381 hora, 48 minutos e 38 segundosigual esse verso um aqui, ó. Então é uma parte da minha regra.
+1:48:451 hora, 48 minutos e 45 segundosModelo aprovado, refrão curto e repetitivo. Usar quando salmo pedir algo mais congregacional, memorável, seu liberativo. O que que
+1:48:531 hora, 48 minutos e 53 segundosacontece? Às vezes ele começa a fazer letra muito grande que bateu 7 minutos de música. Falei: "Não, tá muito grande, cara. Eu quero três, 4 minutos de
+1:49:011 hora, 49 minutos e 1 segundomúsica". Aí eu fui trouxe essa regra aqui. Então as coisas vão acontecendo naturalmente. Como ficou muito grande a letra, eu tive que reduzir ali e assim vai.
+1:49:121 hora, 49 minutos e 12 segundosUsar anáfora em bloco próprio. Próprio, combinar com salmo. Anáfora é é esse início aqui, ó.
+1:49:211 hora, 49 minutos e 21 segundosÓ. Tu és a força, tu és a âncora, tu és a rocha, tu és o alto refúgio. Esse essa repetição chama-se anáfora
+1:49:291 hora, 49 minutos e 29 segundose eu gosto disso. Mande elei criar com a anáfara, entendeu? Então as regras t a ver com a gente, tem a ver com a nossa personalidade, o que a gente gosta, o que a gente quer fazer, o que tem a ver
+1:49:381 hora, 49 minutos e 38 segundoscom o projeto, o que que não tem a ver com o projeto.
+1:49:411 hora, 49 minutos e 41 segundosApenas referências de padrão, não copiar em todas as músicas. Isso aqui é uma referência. Louvai, louvai, louvai, louvai ao Senhor. Só o teu nome é
+1:49:491 hora, 49 minutos e 49 segundosmaravilhoso. Seu nome é santo, teu nome é belo,
+1:49:561 hora, 49 minutos e 56 segundosteu nome é poderoso. Essa música ficou linda demais, tá? Louvai ao Senhor. Aqui, ó. Essa aqui, ó.
+1:50:051 hora, 50 minutos e 5 segundosCadê? Louvai ao Senhor.
+1:50:151 hora, 50 minutos e 15 segundosLouvai ao Senhor desde o céu. Louvai-o nas alturas.
+1:50:351 hora, 50 minutos e 35 segundosLouvai-o todos os seus anjos. Louvai-o todas as suas hostes.
+1:50:441 hora, 50 minutos e 44 segundosLouvai o sol e lua. Louvai-o.
+1:50:511 hora, 50 minutos e 51 segundosEstrelas luzes. Louvai-o.
+1:50:541 hora, 50 minutos e 54 segundosCéus dos céus e as águas que estão sobre os céus.
+1:51:031 hora, 51 minutos e 3 segundosEle deu ordem e logo foram criados.
+1:51:071 hora, 51 minutos e 7 segundosEstabeleceu para todo sempre e fique só um limite que nenhum deles ultrapassará.
+1:51:181 hora, 51 minutos e 18 segundosLouvai, louvai, louvai, louvai ao Senhor. Só o teu nome é maravilhoso.
+1:51:281 hora, 51 minutos e 28 segundosSeu nome é santo, seu nome é belo, seu nome é poderoso.
+1:51:381 hora, 51 minutos e 38 segundosSeu nome Então é isso.
+1:51:421 hora, 51 minutos e 42 segundosEntão esse trecho aqui fez parte da minha m da das minhas regras, né? Então eu vim aqui, cadê regras aqui, ó. Aqui
+1:51:491 hora, 51 minutos e 49 segundosó. Louvar e louvar e louvar o Senhor. Tá vendo? Só o teu nome é maravilhoso. É santo, é belo, poderoso.
+1:51:551 hora, 51 minutos e 55 segundosAqui, ó. Por que funciona? Build crescente com reticências. Anáfora, seu nome é, entendeu? Eu tive que explicar para ele como funciona. Para quê? Para ele poder criar isso aqui em próximas
+1:52:031 hora, 52 minutos e 3 segundosmúsicas. Se você não der essas regras para ele, não der esses macetes para ele, ele não vai criar. E é por isso que algumas algumas músicas são ruins, são
+1:52:111 hora, 52 minutos e 11 segundossimplesmente ruins, são muito padrão, muito bobinho, entendeu?
+1:52:171 hora, 52 minutos e 17 segundosPara funcionar tem que ter essas regras legais aqui, tá? Regra seis, encerramento. Então você vai criar suas regras, tá?
+1:52:261 hora, 52 minutos e 26 segundosAqui, ó, final cantada. A sessão final cantada deve ser concluída no final, geralmente boto isso aqui, ó.
+1:52:331 hora, 52 minutos e 33 segundosGlória a Deus. Aleluias. Isso aqui é para fechar e uma assinatura. Toda honra e toda glória a Cristo.
+1:52:391 hora, 52 minutos e 39 segundosO projeto antes chamava Bíblia cantada e agora passou a ser a escritura cantada. Por isso que tá a Bíblia cantada aqui. Tem até que trocar.
+1:52:471 hora, 52 minutos e 47 segundosEntão é isso. Essa aqui são as minhas regras. Tem aqui, ó, sete, dicção e pronúncia. Oito, arquivo markdown. Isso aqui já é mais técnico, tá? Isso aqui é
+1:52:551 hora, 52 minutos e 55 segundosoutra coisa aqui. Tem a ver com a tem a ver com essa parte aqui, ó. Como é que ele vai guardar aqui os arquivos aqui, tá?
+1:53:021 hora, 53 minutos e 2 segundosEntão é isso, passei para você toda minha estrutura aqui. Aí com essa estrutura ele monta. Agora eu vou fazer o seguinte, eu vou mandar essa já, já que esse cara sabe minha estrutura, né,
+1:53:091 hora, 53 minutos e 9 segundosque agora ele já sabe, ó, que ele falou na parte principal separei cada regra, no final síntese numérica. Ó, se quiser
+1:53:191 hora, 53 minutos e 19 segundosajustar, eh, e lembrando, o prazo do Suno, dia 22, aí sempre me lembra, ele tem memória das coisas que eu falo com ele. Então, vamos
+1:53:281 hora, 53 minutos e 28 segundoslá. Crie então, crie então, eh, deixa eu falar diretamente por aqui, né?
+1:53:381 hora, 53 minutos e 38 segundosDeixa eu ver qual que tá faltando aqui na Vamos pegar um salmo que tá faltando aqui, ó. Acho que é o 52. É 52.
+1:53:461 hora, 53 minutos e 46 segundosVamos lá no Suno. Vamos conferir se 52 tá lá, ó. Você vem aqui na pesquisa aqui, ó, lockspa.
+1:53:521 hora, 53 minutos e 52 segundosVou vir aqui no meu salmo e vou botar aqui na pesquisa aqui, ó.
+1:53:581 hora, 53 minutos e 58 segundosEh, qual é o salmo em 52, né? 052. Vamos ver se tem.
+1:54:021 hora, 54 minutos e 2 segundosNão deve ter. Tá vendo? 51 tem que ter, ó. Ó, 51 tem. Tá vendo? 51 já tem, mas 52 não tem. Beleza? Então, vamos fazer o
+1:54:111 hora, 54 minutos e 11 segundossalmo 52 agora ao vivo com vocês aqui, ó.
+1:54:141 hora, 54 minutos e 14 segundosÓ, esse aqui é o processo que eu faço, tá? Exatamente assim, ó. Vou falar para ele assim, ó.
+1:54:211 hora, 54 minutos e 21 segundosEntão tá, já que você tá no embalo aí, vamos criar agora o salmo número 52, usando as minhas regras. Pode ser,
+1:54:341 hora, 54 minutos e 34 segundospessoal, tô criando exatamente como eu faço, tá? Aqui é exatamente assim. Eu tenho minhas regras, ele cria com as
+1:54:411 hora, 54 minutos e 41 segundosminhas regras e essas regras eu posso colocar em qualquer IA. Qualquer uma, qualquer uma, seja essa aqui, seja chat
+1:54:491 hora, 54 minutos e 49 segundosGPT, seja o Gemini, qualquer uma, eu vou lá. Cada um vai, logicamente vai ter um resultado, né? Se eu pegar minhas regras e colocar nesse outro aqui, ó, cadê?
+1:54:571 hora, 54 minutos e 57 segundosVamos fazer isso. Vamos fazer para testar. Vamos lá fazer junto com vocês aqui.
+1:55:041 hora, 55 minutos e 4 segundosPegar as regras aqui, ó.
+1:55:171 hora, 55 minutos e 17 segundosCadê indicção?
+1:55:261 hora, 55 minutos e 26 segundosTá, vamos botar tudo lá que deixa que eles se virem lá. Vamos lá.
+1:55:381 hora, 55 minutos e 38 segundosRegra operacional, tá? Vamos pegar daqui, ó. Agora eu vou vir aqui nesse nesse.
+1:55:461 hora, 55 minutos e 46 segundosLembra que a gente fez a musiquinha aqui no no Google E Studio com Gemini? Esse aqui, ó, Gemini 3.1 Pro preview. Então,
+1:55:531 hora, 55 minutos e 53 segundosvou vir aqui, vou botar as regras, falar assim, ó. Use, faça, refaça com refaça a
+1:56:011 hora, 56 minutos e 1 segundomúsica com minhas regras.
+1:56:071 hora, 56 minutos e 7 segundosPronto. Agora ele vai refazer aquela música que ele fez aqui em cima. Essa música aqui, ó.
+1:56:141 hora, 56 minutos e 14 segundosEssa música ele vai refazer agora com as regras, tá?
+1:56:191 hora, 56 minutos e 19 segundosEssa música aqui, ó, que a gente tinha feito lá no iniciozinho do nosso curso, já tá criando, já. Quer ver, ó. Aí já tá criando.
+1:56:331 hora, 56 minutos e 33 segundosEntão nós estamos criando agora duas músicas ao mesmo tempo, ó. Estamos criando, refazendo aquela música inicial, né?
+1:56:401 hora, 56 minutos e 40 segundosÓ, compreendido perfeitamente. Apliquei todas as suas regras de essência para transformar seu desejo em uma obra profunda, teologicamente correta,
+1:56:481 hora, 56 minutos e 48 segundoscristocêntrica e ao mesmo tempo totalmente pronta para aquele clíma exclusivo. Uhu! Senhor no sono. Vamos lá. Vamos ver como é que ficou.
+1:56:571 hora, 56 minutos e 57 segundosÓ, Spoken Santo, santo, santo é o Senhor dos Exércitos. Aqui, aqui ele trouxe o, obviamente, o texto lá de lá de
+1:57:071 hora, 57 minutos e 7 segundosApocalipse, não é isso? Deixa eu ver aqui, ó. Vamos conferir aqui se não é isso. Apocalipse. Não, isso aqui é Isaías.
+1:57:161 hora, 57 minutos e 16 segundosIsaías.
+1:57:201 hora, 57 minutos e 20 segundosUé, ele trouxe da onde aquilo ali?
+1:57:291 hora, 57 minutos e 29 segundosVamos ver esse pedaço inicial só. Ah, Isaías capítulo 6.
+1:57:401 hora, 57 minutos e 40 segundosVamos conferir aqui. Isaíaias capítulo 6.
+1:58:001 hora e 58 minutosCadê?
+1:58:051 hora, 58 minutos e 5 segundosÉ aqui fala santo, santo, santo. Não tô lembrando isso não.
+1:58:111 hora, 58 minutos e 11 segundosSanto não fala lá, não fala lá em Então ele misturou, tá? que ele acabou misturando, ele não fez exatamente o que eu queria, tá?
+1:58:201 hora, 58 minutos e 20 segundosApesar de que eu não lembro de ter pedido aqui o o na minha regra, tá para tá para botar o o agora agora não tô lembrando se eu vi aqui na regra.
+1:58:401 hora, 58 minutos e 40 segundosEu não lembro se eu pedi na minha regra.
+1:58:451 hora, 58 minutos e 45 segundosa parte de eh recebida
+1:58:531 hora, 58 minutos e 53 segundosaqui, ó. Usar sempre tradução do domínio público com almeia recebida. Aqui, ó, texto literal obrigatório.
+1:59:021 hora, 59 minutos e 2 segundosEh, toda música deve começar com spoken, espalhar dois, três ganchos literais. Ó, ó, isso aqui tá a regra, tá vendo? E ele não cumpriu essa regra, ó.
+1:59:121 hora, 59 minutos e 12 segundosAí que aí que é importante, a gente a gente tem que conferir, tá? Tem que conferir. Aí eu vou eu vou questionar ele lá. Vou falar assim, ó, vem cá.
+1:59:211 hora, 59 minutos e 21 segundosVou falar assim, ó, meu amigo, eh, a parte inicial que você colocou lá,
+1:59:301 hora, 59 minutos e 30 segundoso a parte falada, tá? Eu quero que você fale para mim em português do Brasil, tá bom? E a parte falada que você colocou na música, Santo, Santo é o Senhor dos
+1:59:381 hora, 59 minutos e 38 segundosExércitos. Você tirou isso da onde? Você tirou da Almeida recebida? Lembra que na regra tá escrito isso, né?
+1:59:441 hora, 59 minutos e 44 segundosQuando você colocar lá o spoken ou a parte falada, né? Tem que ser em eh tirada da da versão Almeida recebida, tá bom?
+2:00:012 horas e 1 segundoÓ, ele acabou botando em inglês. Tudo bem, vou deixar em inglês mesmo, mas enfim, vai funcionar porque exatamente o que eu
+2:00:102 horas e 10 segundosfalei, mas só que ele traduz, ele traduziu pro inglês, ó. Santo, santo, santo,
+2:00:212 horas e 21 segundosó. Tu és santo, rei Emanuel, tá vendo aqui, ó? Anáfara aqui, ó. Seu nome é santo, seu nome é inigualável, seu nome
+2:00:282 horas e 28 segundosé majestoso. Isso aqui é anáfa, então tá aqui a anáfora eh o spoken. Eu sou alfa e ô, princípio, fim. Entendeu?
+2:00:372 horas e 37 segundosVamos ver. Vamos ver, vamos ver o que ele falou aqui, ó.
+2:00:412 horas e 41 segundosCadê? Você tem toda a razão. Peço perdão pela confusão. Tá vendo? Eu acabei me aqui, ó. Olha aqui, ó, que eu falei para você, ó. Eu acabei misturando
+2:00:502 horas e 50 segundosuma mistura da Almeida recebida com atualizada. Não pode fazer isso. É uma regra que eu falei, ó, aqui, ó. e usou a arque também
+2:00:582 horas e 58 segundosque Isaí clamava um pelos outros. Santo, santo, santo é o Senhor dos Exércitos.
+2:01:012 horas, 1 minuto e 1 segundoTá vendo aqui, ó? Então assim, você tem que ter atenção nisso, tá?
+2:01:082 horas, 1 minuto e 8 segundosNão quer dizer que você deu a regra, ele vai seguir a regra. Ele pode seguir, pode não seguir.
+2:01:132 horas, 1 minuto e 13 segundosEh, um projeto mais avançado, que que que é feito, tá? É feito uma IA gera a música e tem uma outra IA que avalia a música que foi gerada pela primeira IA.
+2:01:232 horas, 1 minuto e 23 segundosEntão, é como se fossem dois funcionários, tá? um e um funcionário ele vai criar a música. O segundo funcionário vai revisar a música. Se tiver dentro das regras, tá OK? Passou.
+2:01:332 horas, 1 minuto e 33 segundosSe tiver fora, joga a música fora e recria de novo. Ou ajusta as regras, manda alguém ajustar. Pode ser um terceiro, uma terceira e a para ajustar.
+2:01:432 horas, 1 minuto e 43 segundosOu pode ser a segunda, pode ser a primeira mesmo, mas tem que pedir para ajustar. Beleza? Então essa maneira
+2:01:502 horas, 1 minuto e 50 segundosautomatizada. Vantagem. Depois que que você faz depois depois que criou lá, ó.
+2:01:552 horas, 1 minuto e 55 segundosVê, vê lá agora. Vamos ver agora a música. Foi a música, a música criada aqui. Vamos ver, ó. Ele criou aqui, ó. Vamos ler.
+2:02:072 horas, 2 minutos e 7 segundosEh, Oliveira Verde na casa de Deus. Ele deu esse nome aqui, ó. Tá certinho. Versão 1.1.
+2:02:142 horas, 2 minutos e 14 segundosPor que te glorias na malícia, ó poderoso? A bondade de Deus subsiste continuamente. Da onde tirou isso? Vamos ver. Vou copiar tudo e vou jogar na internet. Tem, tem que tá certinho lá.
+2:02:232 horas, 2 minutos e 23 segundosVamos ver. Ó, Salmo 52 da Bíblia, tá vendo?
+2:02:292 horas, 2 minutos e 29 segundosVamos lá no Salmo 52. Vamos lá. Salmo 52.
+2:02:402 horas, 2 minutos e 40 segundosEh, que que falou? Por que te glorias da malícia? Vamos ver, ó. Olha aqui, ó. Tá certinho.
+2:02:472 horas, 2 minutos e 47 segundosEsse obedeceu, tá? Esse obedeceu, subsiste continuamente
+2:02:552 horas, 2 minutos e 55 segundosou não, né? Ó, ó, ó, poderoso. Pois a bondade de Deus subsiste em todo tempo.
+2:03:012 horas, 3 minutos e 1 segundoÓ, ele botou continuamente, ele não botou em todo o tempo.
+2:03:062 horas, 3 minutos e 6 segundosAí eu vou confrontar ele de novo. Então isso aqui, pessoal, é uma parte importante, tá? Porque a IA ela erra, entendeu? A IA ela erra. Antó, você
+2:03:142 horas, 3 minutos e 14 segundosfalou que você falou que ele era mais inteligente. Sim, mesmo mais inteligente ele erra também.
+2:03:192 horas, 3 minutos e 19 segundosExatamente. Por isso que a gente tem que que a gente tem que você não respeitou a regra.
+2:03:302 horas, 3 minutos e 30 segundosEh, e você confronta ele. Aí você vai ver, ele vai falar: "Ah, realmente, me desculpa, realmente eu vi que eu acabei
+2:03:372 horas, 3 minutos e 37 segundosmudando ali sem querer querendo, né?" E assim vai. E isso aí são as IAJ, tá? A Z faz esse tipo de coisa mesmo.
+2:03:462 horas, 3 minutos e 46 segundosEntão, qual é teu qual é a teu o a tua função? É você vai criar, tá? Ó lá, olha o que ele falou aqui, ó. Tem razão aqui,
+2:03:542 horas, 3 minutos e 54 segundosó. Texto literal da tradução domínio público. E eu alterei a palavra erro meu. Tá vendo? Ele assumiu o erro. Tá certo, cara? Ele tem que assumir mesmo.
+2:04:022 horas, 4 minutos e 2 segundosPor isso que a gente tem que confrontar.
+2:04:042 horas, 4 minutos e 4 segundosE aí o A ele só falou que tá aí, corrija.
+2:04:132 horas, 4 minutos e 13 segundosEh, o que acontece depois dessa etapa, tá? Depois da criação com a IA. Então, a IA criou.
+2:04:222 horas, 4 minutos e 22 segundosVamos, vamos botar aqui, ó. Criou aqui, tá? Aí, qual é a próxima etapa agora? É você olhar a letra da música e você ir
+2:04:292 horas, 4 minutos e 29 segundoscantando assim mentalmente. Você vai falando: "Ah, vem em mim, Senhor, e toca meu coração. Faz de mim um vale de honra em tuas mãos". Já ficou legal. Tá vendo?
+2:04:372 horas, 4 minutos e 37 segundosEu tô cantando, imaginando lá o suno, né?
+2:04:402 horas, 4 minutos e 40 segundosE eu me reno a tua graça aos pés da cruz. Me leva a presença do meu amado Jesus.
+2:04:492 horas, 4 minutos e 49 segundosEh, pois não há outro Deus no céu e mar. A tua ressurreição me chamou para adorar.
+2:04:562 horas, 4 minutos e 56 segundosO vé rasgado abriu o caminho para mim. O teu amor inabalável não tem fim.
+2:05:002 horas e 5 minutosAparentemente ficou legal. Então agora agora é jogar na no sono e botar para rodar lá. Tá
+2:05:092 horas, 5 minutos e 9 segundosque ele fez anáfora, fez os spoken. Tu és santo, rei de Israel.
+2:05:172 horas, 5 minutos e 17 segundosSanto, santo, santo. É o Senhor aqui, ó. Santo, santo, santo. Vem em mim, Senhor.
+2:05:242 horas, 5 minutos e 24 segundosGlória a Deus. Aleluias. Aqui eh a regra, né? A regra que eu falei de final, ó. Tá? E aqui no final a letra da
+2:05:332 horas, 5 minutos e 33 segundosmúsica, o o isso aqui é o nome da música, eu mandei ele botar no final e ele respeitou, tá?
+2:05:422 horas, 5 minutos e 42 segundosEle botou no início, no final.
+2:05:452 horas, 5 minutos e 45 segundosEra para colocar só no final que eu pedi, mas tudo bem, são detalhes que eles acabam errando.
+2:05:522 horas, 5 minutos e 52 segundosEntão, beleza. Então, é isso aí. Você altera o que tiver que alterar, joga lá no Suno e você cria tua música. Então
+2:06:002 horas e 6 minutosvocê pode criar dessa forma como eu criei aqui. Você pode pedir para ir a fazer um pedaço e fazer a outra, como a gente viu. Deixa eu abrir aqui o o
+2:06:092 horas, 6 minutos e 9 segundosdocumento inicial aqui. Então, ó, a gente viu eh o que que a IA representa o cenário atual, se é possível criar
+2:06:162 horas, 6 minutos e 16 segundosgratuitamente. Sim, é possível. Eh, o valor o valor pago é R$ 50 por mês, tá?
+2:06:222 horas, 6 minutos e 22 segundosSe você quiser ter esse monte de crédito que eu tenho aí, eu acho que vale a pena, porque os modelos eh pago são um
+2:06:312 horas, 6 minutos e 31 segundospouco melhores, né? Para criar as músicas ficam um pouco melhores, mas também não tem problema. Já criei muita música, mais de 150 músicas gratuita, tá? Mais do que bem mais do que isso.
+2:06:422 horas, 6 minutos e 42 segundosA gente começou aqui, ó, fazendo uma música instrumental. Tô só relembrando algumas coisas que a gente viu, né?
+2:06:472 horas, 6 minutos e 47 segundosEh, a letra de cabeça, aquela letra que a gente fez de cabeça, letra automatizada por IA. Vale a pena ou não?
+2:06:522 horas, 6 minutos e 52 segundosEu acho que não vale automatizar totalmente. Você pode automatizar um pouco, mas você tem que estar revisando, tem que tá vendo, tem que tá falando que
+2:07:002 horas e 7 minutostá errado. Tem muita coisa que ela erra, tem que corrigir algumas coisas ali.
+2:07:032 horas, 7 minutos e 3 segundosVocê tem que adicionar coisa da tua cabeça. É importante não deixar só ir fazer tudo sozinho que fica estranho. Às
+2:07:102 horas, 7 minutos e 10 segundosvezes fica até bom, mas eu não gosto muito de fazer dessa forma não.
+2:07:152 horas, 7 minutos e 15 segundosAí eu já dei exemplo para você, música automatizada, música de cabeça também.
+2:07:202 horas, 7 minutos e 20 segundosOu seja, de cabeça é assim, eu sei escrever do teu jeito, né? Você escreve a caneta ali e tal no caderno ou aqui, ó, você abre aqui, como eu te falei
+2:07:282 horas, 7 minutos e 28 segundosaqui, ó, abre um negócio novo, digita docs dessa forma aqui, barracate, dá enter e aqui nesse papel aqui você vai
+2:07:372 horas, 7 minutos e 37 segundosdigitando tua música, tá bom? É possível. Você pode também usar a ferramenta aqui e falando aqui, ó, digitação por voz.
+2:07:472 horas, 7 minutos e 47 segundosSanto, santo é inigualável.
+2:07:532 horas, 7 minutos e 53 segundosÉ santo, é poderoso, santo de Israel.
+2:08:022 horas, 8 minutos e 2 segundosE assim vai. Aí você vai ditando e ele vai fazendo para você.
+2:08:102 horas, 8 minutos e 10 segundosBem legal, né?
+2:08:142 horas, 8 minutos e 14 segundosAí você dá stop aqui. Pronto, fecha. Vai em ferramentas. Você tá perguntando onde é que eu fui, ó, eu leio somente, ó.
+2:08:212 horas, 8 minutos e 21 segundosCadê? Brincadeira. Digitação por voz. É que geralmente a pessoa pergunta, né? Onde é que ele foi mesmo, hein? É ali.
+2:08:292 horas, 8 minutos e 29 segundosFerramenta digitação por voz. Tá tranquilo?
+2:08:332 horas, 8 minutos e 33 segundosAí você aperta aqui, vai digitando. Ou você digita no teclado mesmo, ou pega uma canetinha, vai no papel, que é muito bom também, né? Você pega um papelzinho
+2:08:422 horas, 8 minutos e 42 segundosali, faz tua letra, ou você pega uma uma redação que você já fez. Cara, dá para fazer muita coisa, tá? Muita, muita, muita coisa mesmo.
+2:08:522 horas, 8 minutos e 52 segundosV fechar essa telinha aqui.
+2:08:572 horas, 8 minutos e 57 segundosEh, eu já mostrei para você o meu método, tá bom? Esse é o meu método, é você criar uma regra. Você faz a tua
+2:09:042 horas, 9 minutos e 4 segundosregra. Vantagem. Que regra mesmo você falou, hein? Essa regra aqui, ó.
+2:09:132 horas, 9 minutos e 13 segundosA sua regra.
+2:09:152 horas, 9 minutos e 15 segundosVocê vem regra número um, quero assim. Regra número dois, quero que seja isso. Regra número três, entendeu? Você vai criando
+2:09:232 horas, 9 minutos e 23 segundostuas regras. Essas aqui são as minhas regras. Você usa as suas regras. Você vai criando. Pant. Como é que eu crio regra? É só sentar e criar. Pode ser
+2:09:312 horas, 9 minutos e 31 segundosassim. Eu acho que é melhor você criando conforme você vai evoluindo na música.
+2:09:352 horas, 9 minutos e 35 segundosVocê faz a música, aí você pensa assim: "Ah, eu quero que tenha isso aqui. Ah, toda música eu gostaria que fosse assim". Aí você vai estruturando tuas
+2:09:432 horas, 9 minutos e 43 segundosregras. El elas vão crescendo com o tempo. Não, ela não nasce assim. Essa, pelo menos a minha não nasceu pronta, tá? Eu fui construindo elas ao longo do tempo. Eu
+2:09:522 horas, 9 minutos e 52 segundosfui construindo, construindo, construindo. Fui construindo as minhas regras.
+2:10:022 horas, 10 minutos e 2 segundosDeixa eu fechar essa telinha aqui para não ficar tanta coisa aberta. Já tem tanta coisa aberta, deixar menos coisas,
+2:10:132 horas, 10 minutos e 13 segundostá? Vamos agora ver o outro artefato aqui.
+2:10:212 horas, 10 minutos e 21 segundosVamos ver se ele se ele corrigiu. Corrigido.
+2:10:302 horas, 10 minutos e 30 segundosEstilo musical. Spoken verso um. Pré-refrão.
+2:10:362 horas, 10 minutos e 36 segundosEh, tua língua é navalha afiada, palavra envenenada, destruição tramada. Amaste a mentira mais que a verdade. Tua boca devora sem piedade. Cara, não gostei
+2:10:442 horas, 10 minutos e 44 segundosmuito. Isso aqui ficou muito bom. Mas Deus vai te arrancar da tua tenda. Desarraigiar da terra dos viventes.
+2:10:522 horas, 10 minutos e 52 segundosEu floreço. Eu floreço como oliveira vez na casa de Deus. Na tua misericórdia confio. Assim te louvarei.
+2:11:092 horas, 11 minutos e 9 segundosFicou bem legal, hein?
+2:11:152 horas, 11 minutos e 15 segundosMas ele criou um negócio que eu não gostaria. Ó, ele ele fez aqui, ó. Ele ele deu as explicações. Isso aqui é isso aqui é um pedido minha. Isso aqui é regra minha, tá? Eu quero eu quero entender o que ele tá fazendo na música.
+2:11:262 horas, 11 minutos e 26 segundosA língua como navalha, tá? Em Thago. Escreve a língua como fogo indomável.
+2:11:302 horas, 11 minutos e 30 segundosJesus mesmo foi alvo de línguas traiçoeiras no sine. Tá vendo? Oliveira vez na casa de Deus. Tá em Romanos 11:17. Paulo usa exatamente essa
+2:11:372 horas, 11 minutos e 37 segundoslinguagem da oliveira para descrever como gentis são enxertados na nova aliança e assim vai. Então isso aqui é a
+2:11:452 horas, 11 minutos e 45 segundosexplicação que ele usou para poder criar a letra, entendeu? Para fazer sentido.
+2:11:492 horas, 11 minutos e 49 segundosSenão ele cria qualquer qualquer coisa, nada a ver. Aí não é isso que eu quero.
+2:11:532 horas, 11 minutos e 53 segundosEntão vou dar um contrtrol C aqui. Vamos lá criar nossa última musiquinha aqui.
+2:12:002 horas e 12 minutosAh, tá acabando. Não fique triste. Tá acabando.
+2:12:072 horas, 12 minutos e 7 segundosNó veremos em outros momentos. Com certeza, se Deus permitir.
+2:12:132 horas, 12 minutos e 13 segundosÓ aqui. Aí depois o estilo. Ele deu um estilo lá, não deu? Vamos ver o estilo que ele falou.
+2:12:232 horas, 12 minutos e 23 segundosVamos lá. Ó, estilo, ó, dramático, não sei quê.
+2:12:292 horas, 12 minutos e 29 segundosCadê? Eu quero. Eu quero quero em português. Cadê português?
+2:12:362 horas, 12 minutos e 36 segundosUé, português. Sugestão de voz. Meio voz explicação.
+2:12:442 horas, 12 minutos e 44 segundosO salmo tem a tensão dramática. Ué, cadê? Cadê?
+2:12:482 horas, 12 minutos e 48 segundosTá, vou pegar em Já já que ele não botou em Ah, tá aqui, ó. Tags em português.
+2:12:532 horas, 12 minutos e 53 segundosAdoração masculina.
+2:13:012 horas, 13 minutos e 1 segundoPronto. Aqui, ó. Até aqui. Vamos, vamos, vamos fazer esse teste aqui. Vamos lá.
+2:13:092 horas, 13 minutos e 9 segundosE qual o nome da música aí deu? Ele deu algum nome? Tem que dar, né? O nome tá aqui, ó.
+2:13:182 horas, 13 minutos e 18 segundosaqui o nome aqui. Aí eu pego aqui, arranco daqui e jogo lá embaixo.
+2:13:252 horas, 13 minutos e 25 segundosPronto. Fiz fiz uma um salmo junto com vocês aí, ó. Oliveira vez na casa de Deus. Esse é o salmo. Salmo 52. Vamos criar ele.
+2:13:352 horas, 13 minutos e 35 segundosPronto, criamos o Salmo 52 juntos. Agora tá certo, ó. Workspace, salmo. Tá dentro do salmo certinho. Vamos lá.
+2:13:442 horas, 13 minutos e 44 segundosAinda tem 2800 créditos.
+2:13:472 horas, 13 minutos e 47 segundosVai acabar sobrando minha minha assinatura tá acabando já. Bem, vamos dar play aqui.
+2:13:562 horas, 13 minutos e 56 segundosPor que te glórias na malícia, homem poderoso?
+2:13:592 horas, 13 minutos e 59 segundosÓ, já deu um problema aqui, tá? Tem um problema.
+2:14:032 horas, 14 minutos e 3 segundosSeria glorias. Aí ele falou: "Por que te glórias?" Ou seja, ele botou o assento no ó sozinho. Aqui eu teria que mudar.
+2:14:132 horas, 14 minutos e 13 segundosOlha o que eu teria que fazer. Eu teria que corrigir aquele negócio que eu falei com vocês de assento, ó. Não tem jeito. Aqui eu teria que fazer isso aqui, ó.
+2:14:202 horas, 14 minutos e 20 segundosPronto, botei um assento. Glorias. Tá, acontece isso. Tá bom. Deixa eu dar um conttrl F aqui. Deixa eu ver se tem mais glorias aqui.
+2:14:342 horas, 14 minutos e 34 segundosNão, agora t glória a Deus. Tá certo.
+2:14:372 horas, 14 minutos e 37 segundosÉ, geralmente quando é verba assim ele se enrola, mas enfim, quando acontecer vai ter que criar de novo, botar para criar de novo a música, tá?
+2:14:452 horas, 14 minutos e 45 segundosSó por causa daquele Glorias ali.
+2:14:472 horas, 14 minutos e 47 segundosAntóio, tem como editar? Olha só, tem como editar, mas é complicado. Quando é uma palavrinha só assim, eu nem gosto de mexer.
+2:14:542 horas, 14 minutos e 54 segundosEntão, já nem nem vejo a música restante. Pronto, já faço de novo e acabou.
+2:15:002 horas e 15 minutosPor que te glorias na malícia, viu? Homem poderoso? Pois a bondade de Deus subsiste.
+2:15:102 horas, 15 minutos e 10 segundosEnquanto tá cantando, eu vou entrar num negócio aqui. Só um minutinho.
+2:15:302 horas, 15 minutos e 30 segundosTua língua é navalha afiada.
+2:15:352 horas, 15 minutos e 35 segundosPalavra envenenada, destruição tramada.
+2:15:432 horas, 15 minutos e 43 segundosA marcha mentira mais que a verdade.
+2:15:492 horas, 15 minutos e 49 segundosTua boca devora sem piedade, mas Deus vai te arrancar da tua tenda.
+2:16:032 horas, 16 minutos e 3 segundosDesarraigar da terra dos viventes.
+2:16:102 horas, 16 minutos e 10 segundosEu floresço.
+2:16:132 horas, 16 minutos e 13 segundosEu floresço como oliveira verde na casa de Deus.
+2:16:242 horas, 16 minutos e 24 segundosConfio na tua misericórdia. Confio na tua misericórdia.
+2:16:332 horas, 16 minutos e 33 segundosPara sempre te louvarei.
+2:16:402 horas, 16 minutos e 40 segundosEis aqui o homem que não pôs em Deus a sua fortaleza, antes confiou na abundância das suas riquezas e se fortaleceu.
+2:16:502 horas, 16 minutos e 50 segundosVamos ver esse trecho aqui. Tá na íntegra lá de novo, porque eu não confio nesse cara não. Salmo 52 verso 7. Tem que ver.
+2:16:592 horas, 16 minutos e 59 segundosVamos ver se é o verso 7 mesmo, ó. Ah, tá certinho agora. Beleza. Então, tá bem. Eu faço isso, tá? Eu confiro aqui.
+2:17:102 horas, 17 minutos e 10 segundosTem que conferir. Às vezes eu esqueço, na verdade, né, que às vezes eu faço muita música de uma vez, às vezes eu acabo esquecendo, acaba passando. Na verdade, não é que eu esqueço, eu tenho
+2:17:182 horas, 17 minutos e 18 segundosessa coisa na mente de conferir, mas eu acabo esquecendo de conferir, entendeu?
+2:17:232 horas, 17 minutos e 23 segundosEu sei que eu devo conferir. Tô falando a regra, não esqueço. Eu só que eu esqueço às vezes em uma música ou outra. É isso que eu quero dizer.
+2:17:312 horas, 17 minutos e 31 segundosA regra, eu sei que tem que fazer isso, mas às vezes passa batido.
+2:17:362 horas, 17 minutos e 36 segundosÓ, sobre o plano do sono, tá? O plano do sono é R$ 50 por mês. Eu acho que vale muito a pena. Você ganha R$ 2.500 crédito, tá? Você consegue fazer 500
+2:17:442 horas, 17 minutos e 44 segundosmúsicas no mês. É uma coisa assim absurda. Pode criar 10 músicas por dia, entendeu? É fantástico. Quase 10 músicas, né? 10 músicas por dia, daria eh 300, não é isso?
+2:17:562 horas, 17 minutos e 56 segundosEnfim, dá muita música, tá? É muita, muita, muita música. Tanta música você não consegue nem criar tudo isso no durante o mês.
+2:18:042 horas, 18 minutos e 4 segundosE para fechar, eu vou editar uma coisinha com você aqui na na música, tá bom?
+2:18:092 horas, 18 minutos e 9 segundosPor exemplo, ó, vamos supor que você quer, você não quer recriar tudo, tá?
+2:18:132 horas, 18 minutos e 13 segundosVamos supor que você quer fazer uma edição aqui, ó. Vamos lá. Cadê?
+2:18:232 horas, 18 minutos e 23 segundosQual que a gente pode fazer fazer para edição? Deixa pensar aqui uma, tá? Já sei o que eu vou fazer.
+2:18:352 horas, 18 minutos e 35 segundosVamos lá.
+2:18:402 horas, 18 minutos e 40 segundosNa sua, clica aqui nessa nas três três três bolinhas, né? A red sense aqui do lado aqui, ó.
+2:18:502 horas, 18 minutos e 50 segundosDeixa eu, deixa eu marcar para você ver, ó. Aqui nessa coisinha aqui, ó. Clicou.
+2:18:592 horas, 18 minutos e 59 segundosVai que aqui calma, calma, calma, calma, cal. Foi sozinho.
+2:19:052 horas, 19 minutos e 5 segundosEditar. Aí você vem aqui embaixo, ó, na última opção, ó, disponível assim que a música for
+2:19:142 horas, 19 minutos e 14 segundosgerada, tá? Tem tem que esperar a música terminar aqui de ser gerada, tá? 99%.
+2:19:192 horas, 19 minutos e 19 segundosPara que que serve essa edição? Essa edição é para você poder editar a música. Você edita triste, você troca coisa dentro da música.
+2:19:282 horas, 19 minutos e 28 segundosÓ, open in editor. Aperta ali. Ali vai abrir um editor e aqui você consegue editar a música.
+2:19:372 horas, 19 minutos e 37 segundosÉ bom para quando assim sa alguma coisa errada, alguma coisa, quer trocar alguma coisa pontual, tá?
+2:19:442 horas, 19 minutos e 44 segundosPor exemplo, eu quero ver aqui embaixo aqui, ó. Vou trocar essa parte aqui, ó.
+2:19:552 horas, 19 minutos e 55 segundosEsse projeto, cadê essa parte aqui, ó? Replace Lyrics.
+2:20:022 horas, 20 minutos e 2 segundosRep L Jesus. E é
+2:20:142 horas, 20 minutos e 14 segundoscomo é que eu tinha colocado na outra lá, cara? Aí é, ai meu Deus. Tá, deixa eu ver aqui na cor aqui, ó. Aqui tá certinho. Eu vou copiar e colar daqui que é mais fácil.
+2:20:242 horas, 20 minutos e 24 segundosCadê?
+2:20:282 horas, 20 minutos e 28 segundosE é realizado aqui, ó. Copiar, colar.
+2:20:372 horas, 20 minutos e 37 segundosBoto, clico em replace, conttrl V. Pronto.
+2:20:442 horas, 20 minutos e 44 segundosSe você não viu o que eu fiz, deixa eu voltar aqui, ó.
+2:20:542 horas, 20 minutos e 54 segundosEu não sei se eu consigo voltar daqui. Deixa eu ver se dá para voltar. Tirar essa parte aqui de novo.
+2:21:042 horas, 21 minutos e 4 segundosAcho que não vai dar. Deixa eu atualizar a tela aqui.
+2:21:162 horas, 21 minutos e 16 segundosBem, nosso curso tá terminando, tá? Tá no finalzinho aqui.
+2:21:282 horas, 21 minutos e 28 segundosAí eu venho aqui, ó, desço até lá embaixo que eu quero trocar essa parte final aqui. Então eu vou na parte que eu quero trocar, que é esse pedacinho aqui,
+2:21:362 horas, 21 minutos e 36 segundosseleciono ele, venho aqui, ó, faço a seleção com
+2:21:432 horas, 21 minutos e 43 segundoscuidado aqui até aqui. Pronto. Aí eu boto esse replace aqui, ó. Rep lyrics quer dizer é trocar a música, tá?
+2:21:532 horas, 21 minutos e 53 segundosApago esse pedaço aqui e aqui eu boto o que eu quiser. Aí eu vou dar um conttrl V aqui, ó. Esse projeto não se no coração de Jesus e é realizado por Fábio
+2:22:012 horas, 22 minutos e 1 segundoPantóia. Aí fala: "Eu eu só quero trocar essa palavra executada por realizado e trocar a Bíblia cantada por a escritura cantada, que é esse finalzinho aqui, ó.
+2:22:102 horas, 22 minutos e 10 segundosDaqui para lá eu quero trocar". Aí você fala assim: "Pantó, não seria só trocar esse pedacinho?" Sim, mas pela experiência que eu tenho aqui, um pedacinho tão pequenininho dá problema.
+2:22:192 horas, 22 minutos e 19 segundosEntão é, o ideal é é trocar assim mesmo.
+2:22:222 horas, 22 minutos e 22 segundosAqui eu tô usando a tecla control mais a rodinha no teclado, tá? E aqui embaixo é o movimento, ó, para poder chegar aqui
+2:22:312 horas, 22 minutos e 31 segundosno final da música. Aqui eu vou esticar essa parte até o final aqui, ó. Assim, ó. Estiquei até até encostar ali.
+2:22:372 horas, 22 minutos e 37 segundosPronto, encostou, eu solto para que esse aqui é o três que vai ser vai ser alterado aqui, ó. Esse trecho aqui, ó, é o trecho que vai ser alterado, tá?
+2:22:512 horas, 22 minutos e 51 segundosEntão, vamos lá. Aí eu aperto o botão replace, ele vai gastar quatro créditos.
+2:22:562 horas, 22 minutos e 56 segundosSó tenho muito crédito, tenho 2000, poucos créditos, então vai gastar só quatro. Para cada música, ele gasta 10 créditos, tá? Para criar uma música
+2:23:032 horas, 23 minutos e 3 segundosinteira. E nessa edição aqui ele gastou quatro. Quando a edição é muito grande, ele gasta 10 também na edição, tá? Se eu pegar assim um bloco bem grande da música, ele vai gastar 10 créditos.
+2:23:142 horas, 23 minutos e 14 segundosAí você espera um pouquinho, tá carregando aqui, ó, loading, ou seja, tá criando a música, né? Tá recriando esse trecho aí.
+2:23:232 horas, 23 minutos e 23 segundosÀs vezes ele não permite edição, tá?
+2:23:252 horas, 23 minutos e 25 segundosQuando não permitir, tu vai ter que criar a música de novo. Aí tu vai lá e recria ela de novo. Só isso. Bem simples.
+2:23:332 horas, 23 minutos e 33 segundosMas mas a maioria das vezes deixa deixa editar.
+2:23:442 horas, 23 minutos e 44 segundosE ele sempre faz duas versões, como sempre, né? Ele coloca duas versões aqui.
+2:23:572 horas, 23 minutos e 57 segundosVou dar um play.
+2:24:002 horas e 24 minutosToda honra e toda glória sejam dadas a Cristo. Este projeto nasceu no coração
+2:24:112 horas, 24 minutos e 11 segundosde Jesus e é realizado por Fábio Pantoja.
+2:24:212 horas, 24 minutos e 21 segundosA escritura cantada.
+2:24:262 horas, 24 minutos e 26 segundosÉ isso aí, ficou top. Vamos ver o outro agora. Toda honra e toda glória sejam dadas a
+2:24:382 horas, 24 minutos e 38 segundostoda honra e toda glória sejam dadas a Cristo. Este projeto nasceu no coração
+2:24:482 horas, 24 minutos e 48 segundosde Jesus e é realizado por Fábio Pantoja a Escritura cantada.
+2:25:032 horas, 25 minutos e 3 segundosTop, top, top. Aí quando você eh quando você aqui para mover aqui por baixo, tá?
+2:25:102 horas, 25 minutos e 10 segundosEssa mãozinha ali, ó. Ó, aqui embaixo, ó. Arrasta pra direita e pra esquerda, tá bom? Eu encostei aqui na direita. Aí
+2:25:172 horas, 25 minutos e 17 segundosaqui você tem um controle de fade. Aqui você aperta esse botãozinho de fade.
+2:25:232 horas, 25 minutos e 23 segundosAí ele consegue. Cadê? Cadê? Cadê o fade?
+2:25:272 horas, 25 minutos e 27 segundosÉ porque não é agora não também, né? É depois.
+2:25:302 horas, 25 minutos e 30 segundosVamos apertar esse botão com aqui, ó. Ó, esse aqui, ó. O comit é para poder ele passar pr pra música de verdade, tá?
+2:25:402 horas, 25 minutos e 40 segundosA que você escolheu, você aperta esse botão aqui. Então, eu gostei dessa aqui. Vou clicar.
+2:25:462 horas, 25 minutos e 46 segundosCom isso, ele passou, ele passou por cima, ó. Tá, tá vendo uma agulhinha cinza aqui, ó? Deixa eu mostrar para você por aqui.
+2:25:562 horas, 25 minutos e 56 segundosEssa agulha cinza aqui. Aqui é teu mouse. Você vai clicar com o mouse ali.
+2:26:002 horas e 26 minutosDepois, depois você aperta, você clica e aperta espaço.
+2:26:072 horas, 26 minutos e 7 segundosQuando você faz isso e toca a música. Ó, toda honra e toda glória sejam dadas a
+2:26:162 horas, 26 minutos e 16 segundosBeleza. Então, já tá lá, né? Eu já apertei o o comet ali. Então, ele passou por cima. Abre o Pantoja, a escritura cantada.
+2:26:262 horas, 26 minutos e 26 segundosEntão, tava escrito a Bíblia cantada, agora tá a escritura cantada. Ou seja, a gente fez uma alteração. Beleza? Aí depois que faz isso, você bota lá com aí você tem que apertar esse botão aqui, ó.
+2:26:382 horas, 26 minutos e 38 segundosSalvar a nova música, tá? Tem que salvar de novo.
+2:26:422 horas, 26 minutos e 42 segundosPronto, fez isso, ele vai salvar a música nova, tá? Apertei.
+2:26:482 horas, 26 minutos e 48 segundosPronto, tá salva música salva. Ele criou essa música e no final ele botou editada.
+2:26:542 horas, 26 minutos e 54 segundosTá lá na minha galeria do Sun. Eu posso voltar aqui. Cadê?
+2:26:592 horas, 26 minutos e 59 segundosVem aqui na na minha biblioteca.
+2:27:162 horas, 27 minutos e 16 segundosOlha aqui, ó. Edit. Tá vendo?
+2:27:252 horas, 27 minutos e 25 segundosE é realizado por Fábio Pantoja, a escritura cantada.
+2:27:362 horas, 27 minutos e 36 segundosSe você clicar aqui, ó, se você clicar em cima da letra aqui, aí aparece nesse formato.
+2:27:402 horas, 27 minutos e 40 segundosPor te glorias na malícia, homem poderoso? Fizemos junto uma música de Deus.
+2:27:492 horas, 27 minutos e 49 segundosEntão, ó, Salmo 52, Oliveira Verde, é o nome que a Iade deu, versão 1.1, Salmo 52,
+2:27:572 horas, 27 minutos e 57 segundoseh, versão um, edit. Esse edit aqui, essa música foi editada, tá?
+2:28:022 horas, 28 minutos e 2 segundosAí, tá aqui a letra dela, toda a letra dela aí, e a parte final, a assinatura que a
+2:28:102 horas, 28 minutos e 10 segundosgente colocou e acabamos de editar agora. Beleza? Aqui você poderia botar um, sei lá, uma coisinha qualquer aqui, botar um olhinho, né?
+2:28:202 horas, 28 minutos e 20 segundosVocê bota comentário e tal. É porque a ideia aqui é que seja uma rede social de música, né? As pessoas geralmente não usam dessa forma não. Aí do lado aqui
+2:28:282 horas, 28 minutos e 28 segundostem músicas similares. Aqui tá escrito similar, ó. Similar e by Fab Pantoja, que aí seriam minhas músicas, né? Se eu clicar
+2:28:372 horas, 28 minutos e 37 segundosem by Fab Pantoja, essas músicas aqui fui eu que fiz. Então quando acabar essa música aqui, vai entrar aquela ali.
+2:28:452 horas, 28 minutos e 45 segundosVai entrar esse aqui, ó. Amor primeiro.
+2:28:472 horas, 28 minutos e 47 segundosVai entrar as minhas músicas, né? Se tiver em similar, que geralmente tá em similar, vai entrar música de outras pessoas. Morias na malícia.
+2:28:542 horas, 28 minutos e 54 segundosHomem poderoso, entendeu? Por que te glórias na malícia?
+2:29:052 horas, 29 minutos e 5 segundosÉ, deveria entrar aqui outra música.
+2:29:062 horas, 29 minutos e 6 segundosacabou não entrando, mas eu posso clicar nessas aqui.
+2:29:112 horas, 29 minutos e 11 segundosQuer ver? Ó, mostrar vocês só de curiosidade aqui, ó. A primeira música que eu criei na vida aqui, ó.
+2:29:172 horas, 29 minutos e 17 segundosBiblioteca, workspaces. Botar song mesmo. Song. Aí vou botar aqui
+2:29:242 horas, 29 minutos e 24 segundosno filtro. Aqui nessa parte de filtro eu vou mudar o filtro ali, tá? Fica atento aí, ó.
+2:29:312 horas, 29 minutos e 31 segundosVou botar aqui no oldest. Oldest quer dizer a mais velha. A mais velha é essa aqui, ó. Rise and Shiny. Essa aqui foi a primeira música que eu fiz aqui dentro do sistema.
+2:30:002 horas e 30 minutosBem, a nostalgia é são só 40 segundos. Na época só podia fazer 40 segundos.
+2:30:042 horas, 30 minutos e 4 segundosOlha, olha a data que foi, ó. Dia 11 de março de 2024, às 11:34 da manhã.
+2:30:152 horas, 30 minutos e 15 segundosNa versão 2.0. Na versão 2. Nós já estamos na versão 5.5.
+2:30:232 horas, 30 minutos e 23 segundosQuando você tiver criando, tá? Quando você tiver criando aqui em cima é a versão, tá vendo, ó? Versão 5.5.
+2:30:332 horas, 30 minutos e 33 segundosTem a C, tem a 4.5, 4.5 Pro, 4.5 all.
+2:30:382 horas, 30 minutos e 38 segundosEsse aqui é que você vai usar no modelo gratuito, ó. Esse aqui, ó, 4.5. Só que eu tô usando a 5. Você vê que a diferença é de um 4.5 para 5. Aqui eu usei a 5.5.
+2:30:512 horas, 30 minutos e 51 segundosSe você pagar, você consegue usar a 5.5, mas sem pagar você vai usar só essa aqui, ó, 4.5, que é muito boa, tá? Eu já criei várias músicas legais com essa
+2:30:592 horas, 30 minutos e 59 segundosaqui. Como eu falei, eu já criei música com essa aqui, ó, com a versão dois. Tem a dois, tem a três, 3.5, 4, 4.5. Já já criei música com todas essas aqui.
+2:31:092 horas, 31 minutos e 9 segundosEu te garanto que você vai criar uma música boa aí, tá? Muito boa mesmo.
+2:31:152 horas, 31 minutos e 15 segundosDeixa eu ver se tem alguma música para para eu mostrar a você, ó. Ó, por exemplo, essa música da minha mãe aqui, ó. Ela tava até aqui em casa, eu criei junto com ela. Olha quanta versão eu
+2:31:232 horas, 31 minutos e 23 segundoscriei. Criei aqui. Vamos pegar a última, né? É que é essa aqui, ó.
+2:31:332 horas, 31 minutos e 33 segundosÓ, vári An, seja bem-vindo a Arrael da Vivi.
+2:31:402 horas, 31 minutos e 40 segundosYuhu, eba. Vamos lá. Isso aqui fiz tudo de cabeça, tá? De cabeça, de cabeça, de cabeça, de cabeça, de cabeça. Fui embora. Aí chegou uma hora, eu falei assim, ó, agora vou jogar na IA, né? né?
+2:31:502 horas, 31 minutos e 50 segundosJoguei na inteligência artificial e ela desenvolveu um pedaço da música para mim e eu fui modificando, fui ajustando, como como eu falei para você, né? Na
+2:31:582 horas, 31 minutos e 58 segundosmaneira que eu ensinei vocês aqui, fui ajustando, fui mexendo e foi indo. E cara, minha mãe ficou super feliz, tá?
+2:32:062 horas, 32 minutos e 6 segundosEh, aniversário de 70 anos dela, ela ficou feliz, gostou da música, achou bonita e tal, música alegre, entendeu?
+2:32:142 horas, 32 minutos e 14 segundosArraiada vive la vivera e logo depois quem vemando
+2:32:212 horas, 32 minutos e 21 segundosa multidão. Tem balão enfeitando céu estrelado. Tem Roberto e Viv dançando lado a lado. Tão alegre, companheiro
+2:32:292 horas, 32 minutos e 29 segundosinteligente, sem igual. Hoje a festa é toda sua, dona Viv é fenomenal.
+2:32:362 horas, 32 minutos e 36 segundosE a grande novidade eu vou contar para vocês. Ela voltou a estudar e aprendeu até inglês terminou. Primeiro grau é dia
+2:32:442 horas, 32 minutos e 44 segundosde comemorar. O segundo grau começa, ninguém pode segurar. 70 anos de idade com diploma na mão. É o orgulho da
+2:32:522 horas, 32 minutos e 52 segundosfamília e do nosso coração.
+2:32:582 horas, 32 minutos e 58 segundosBem, é isso. Então, criei a música para ela. Tem uma música também da da menina também que tá, eu, deixa eu ver se eu lembro essa música aqui. Deixa eu ver se eu acho para vocês aqui. É a Sofia.
+2:33:102 horas, 33 minutos e 10 segundosCara, essa música muito legal da Sofia. Sou. É assim que escreve Sofia. Ué, é Sofia.
+2:33:182 horas, 33 minutos e 18 segundosUé, não tá aqui não. Tem que tá aqui. Newest oldest aqui, ó. Muito legal essa música, ó.
+2:33:282 horas, 33 minutos e 28 segundosVersão 3.5. Tá
+2:33:402 horas, 33 minutos e 40 segundosa menina doce com sorriso encantador brinca de bonecas em seu mundo de amor.
+2:33:502 horas, 33 minutos e 50 segundosAcorda tarde, sonha alto, gosta de viver. Seu coração acelera quando um gatinho vê.
+2:34:002 horas e 34 minutosSofia princesa como Cinderela rodar. Com seu vestido no reino dos sonhos a
+2:34:092 horas, 34 minutos e 9 segundosbrilhar. Ama lasanha pula de alegria sem fim. 100 dias de som o seu jardim.
+2:34:202 horas, 34 minutos e 20 segundosMig carismática com a força sem igual.
+2:34:242 horas, 34 minutos e 24 segundosEntão é isso assim para você ver, versão 3.5, uma versão que dia 30 de agosto de 2024, você vê que já tem 2 anos já e
+2:34:342 horas, 34 minutos e 34 segundosquase 2 anos, né? Praticamente 2 anos. E olha, olha que interessante que ficou.
+2:34:392 horas, 34 minutos e 39 segundosFicou uma música bem legal. Na versão 3.5 você vai usar a versão 4.5, a versão ainda melhor. Se você pagar, você vai pagar, vai pegar a versão 5.5, que é a versão que a gente tá usando aqui hoje.
+2:34:502 horas, 34 minutos e 50 segundosEntão assim, eu acho que vale muito a pena. Se você puder, obviamente, né? São R$ 50, tem que pagar, mas você pode pagar uma vez e fazer quantas músicas
+2:34:582 horas, 34 minutos e 58 segundosvocê quiser depois parar de pagar, entendeu? Faz uma vez, faz um monte de música.
+2:35:022 horas, 35 minutos e 2 segundosNão é necessário você assinar e ficar assinando todos os meses. Você assina um mês só, faz a música que você quer fazer e pronto.
+2:35:102 horas, 35 minutos e 10 segundosÉ possível trabalhar com isso também, né? Apesar de que não, as pessoas não têm tanto interesse assim, né? Não sei.
+2:35:182 horas, 35 minutos e 18 segundosEh, então dá para você trabalhar assim também, se você quiser, se você achar um público aí. E já ensinei como é que faz
+2:35:272 horas, 35 minutos e 27 segundospara baixar a música. Não ensinei. Deixa eu ver aqui. Vamos voltar para biblioteca.
+2:35:372 horas, 35 minutos e 37 segundosUma outra coisa interessante também, vamos supor que uma coisa muito importante que eu não falei aqui, mas eu quero comentar
+2:35:462 horas, 35 minutos e 46 segundosque é o seguinte, deixa eu botar os workspace aqui. Vamos entrar de novo na nossa.
+2:35:552 horas, 35 minutos e 55 segundosCadê? Aqui, ó. A gente criou 25 músicas hoje, hein?
+2:36:012 horas, 36 minutos e 1 segundoEh, vamos supor que você gostou de uma música que ela ficou muito boa.
+2:36:252 horas, 36 minutos e 25 segundosOh. Oh.
+2:36:532 horas, 36 minutos e 53 segundosTá, vamos supor o seguinte, vamos supor que eu quero essa aqui. Essa música eu quero uma igual a essa.
+2:37:002 horas e 37 minutosIgual não, parecida, né? Quero fazer uma parecida com essa. Eu posso vir aqui e arrastar ela para cá, ó, assim, e
+2:37:092 horas, 37 minutos e 9 segundossoltar. Com isso, ele vai se basear nessa música aqui. Tanto é que ele já até trouxe a letra, tá vendo? Ele trouxe
+2:37:162 horas, 37 minutos e 16 segundosa letra, trouxe tudo. Ou seja, vamos supor que eu quero, tipo, recriar essa música, tipo assim, ela tá muito boa, mas falta um detalhezinho. Eu quero, eu quero recriar ela poder melhorar.
+2:37:272 horas, 37 minutos e 27 segundosIsso é uma maneira de fazer isso. Você puxa, ele vai trazer a letra, aí ele traz também eh o estilo aqui, ó, pisadinha gospel porque a gente fez lá atrás. Fez bem iníciozinho da aula.
+2:37:372 horas, 37 minutos e 37 segundosTá vendo? Ele traz tudo muito parecido.
+2:37:392 horas, 37 minutos e 39 segundosAí você pode alterar aqui, ó. Vou botar 1.2 aqui, 1.3 no caso, né? 1.2 já tem.
+2:37:462 horas, 37 minutos e 46 segundosEh, aí eu vou lá e crio de novo. Ele vai criar baseado nessa música, tá? Tanto que tem mais opções aqui, ó. Você pode fazer esse esquema aqui, ó. Ó, influência do estilo. Tá vendo?
+2:37:572 horas, 37 minutos e 57 segundosE aqui a influência do áudio, o áudio que eu mandei para ele agora, esse áudio aqui, eu posso aumentar para ficar mais influente ainda. Eu aperto o botão
+2:38:052 horas, 38 minutos e 5 segundoscriar. Então ele vai criar uma música baseada nessa aqui, que é muito parecido com a ideia que a gente grava a nossa voz. Lembra que a gente lá no início a
+2:38:122 horas, 38 minutos e 12 segundosgente gravou a nossa voz? Só para relembrar aqui onde foi, ó.
+2:38:172 horas, 38 minutos e 17 segundosA gente veio aqui, ó, na parte de voz aqui tem aquela, tem um áudio também que é parecido, né? Você pode gravar aqui, apertar o botão gravar e tem a voz, você
+2:38:242 horas, 38 minutos e 24 segundoscria uma voz padrão para poder usar sempre o áudio. Você tem, você vai gravar a voz, depois que gravou uma vez, a voz fica aqui, ó. Ela fica num tipo
+2:38:322 horas, 38 minutos e 32 segundosum, como fosse uma biblioteca de vozes aqui, ó. Tá? Eu gravei uma voz nossa aqui.
+2:38:402 horas, 38 minutos e 40 segundosEntão, já criou uma música. Vamos dar um play aqui, ó. Ele criou a versão 1.3, ó.
+2:38:512 horas, 38 minutos e 51 segundosViu que tá muito parecido. Por que tá parecido? Porque a gente arrastou a música para cá. Se você quiser tirar ela, tem que apertar o essa essa
+2:39:002 horas e 39 minutosessa lixeirinha aqui, ó. Aperta a lixeirinha, aí some. Aí você pode puxar uma outra, ó.
+2:39:102 horas, 39 minutos e 10 segundosÓ, vem aqui e solta. É, por que que não tá?
+2:39:192 horas, 39 minutos e 19 segundosNão entendi. Não grudou. Tá, daqui a pouco eu tento de novo.
+2:39:402 horas, 39 minutos e 40 segundosAqui a influência do áudio, 50%.
+2:39:442 horas, 39 minutos e 44 segundosPlanta em mim. Teu amor, faz raiz no meu interior.
+2:39:512 horas, 39 minutos e 51 segundosQuando o medo quiser falar, teu espírito vai me guiar. Faz nascer mansidão.
+2:39:592 horas, 39 minutos e 59 segundosEntão é isso. Então você consegue eh trazer ali outra maneira também de fazer é o seguinte. Você clica no botão direito, não. Você clica nessa setinha
+2:40:082 horas, 40 minutos e 8 segundosaqui, né? Setinha não. Caramba, confusão na minha cabeça. Calma. nesses três pontinhos aqui. Pronto. Aqui assim. Aí
+2:40:152 horas, 40 minutos e 15 segundosvocê bota aqui, ó, eh, remix, né? Remixar. Aí você bota reutilizar o prompt. Apertou aqui, ele
+2:40:242 horas, 40 minutos e 24 segundosvai jogar para cá, tá? É porque já tava nela, né? Vamos pegar uma outra aqui, ó. Pegar esse santo aqui, ó.
+2:40:302 horas, 40 minutos e 30 segundosPegar os atributos de Deus que a gente criou. Cadê esse aqui?
+2:40:392 horas, 40 minutos e 39 segundosIsso. Vou vir aqui botar remix, reutilizar prompt. Aí eu aperto aqui, ó lá. Ele mudou o prompt aqui, ó. Mudou.
+2:40:482 horas, 40 minutos e 48 segundosEle pega essa partezinha estilos também, ó. Então ele joga tudo para cá, tá?
+2:40:582 horas, 40 minutos e 58 segundosIsso aí, isso aí é reutilizar o prompt. Para quê? Para criar música de novo.
+2:41:022 horas, 41 minutos e 2 segundosIsso aqui é muito comum, tá? Você ficar criando música novamente, tá? Muito comum mesmo.
+2:41:072 horas, 41 minutos e 7 segundosOu você pode usar a música como inspiração, aperta, usar como inspiração.
+2:41:122 horas, 41 minutos e 12 segundosAí ele joga ela aqui, ó. Para quê? Para para que ele faz isso? Quando você bota usar como inspiração, ele joga ela para cá.
+2:41:222 horas, 41 minutos e 22 segundosVocê pode usar até quatro faixas de inspiração. Então são músicas que deram certo, tá? Música que funcionou, você quer muito parecida, fala: "Pô, essa
+2:41:302 horas, 41 minutos e 30 segundosmúsica é muito boa, quero mais ou menos nesse ritmo aqui, nesse estilo de música". Então você usa como inspiração.
+2:41:362 horas, 41 minutos e 36 segundosVocê pode usar, botar essa aqui. Vamos botar uma outra aqui, ó. Pegar essa santa aqui, ó.
+2:41:432 horas, 41 minutos e 43 segundosVou arrastar para cá, ó. Tem duas já. Pegar mais uma.
+2:41:512 horas, 41 minutos e 51 segundosPegar esse aqui, ó. Três. Essa panto funciona? funciona.
+2:41:582 horas, 41 minutos e 58 segundosEle ele vai pegar um pouquinho de cada uma e vai criar uma nova música baseada naquelas ali que ele chama de inspiração, tá? Aí você bota aqui
+2:42:062 horas, 42 minutos e 6 segundosinfluência do áudio, aumenta um pouquinho aqui. Você pode deixar o estilo ou não, você pode até tirar isso aqui, tá? Ah,
+2:42:142 horas, 42 minutos e 14 segundospode deixar o estilo vazio, pode, ué, tem problema não. Ainda mais assim, quando tá baseado em em outras músicas
+2:42:202 horas, 42 minutos e 20 segundosassim, é até bom que tire de eu boto criar.
+2:42:292 horas, 42 minutos e 29 segundosna pantoja. E antes se eu podia lá no iniciozinho botar sem estilo nenhuma, pode também. Ele mesmo se encarrega de colocar um estilo, tá? Quando se diz
+2:42:372 horas, 42 minutos e 37 segundosestilo vazio, ele dá um jeito, que ele é uma Iá muito inteligente. Isso i aqui é uma IA feita para criar música. Então ele vai dar um jeito de criar uma música boa.
+2:43:032 horas, 43 minutos e 3 segundosVem em mim, Senhor, e toca meu coração.
+2:43:142 horas, 43 minutos e 14 segundosLevar abça, né? Então, a gente mudou aqui, ó. Botamos três, três músicas.
+2:43:192 horas, 43 minutos e 19 segundosEntão, tá, ele tá se inspirando em três músicas, três músicas anteriores para criar uma próxima música. Legal. E aqui eu posso
+2:43:262 horas, 43 minutos e 26 segundostambém de novo mexer na letra, mudar a letra. Eu posso bem aqui a criatividade é infinita, né? Dá para fazer milhares
+2:43:342 horas, 43 minutos e 34 segundosde coisas. Dá para você também ir lá de novo na no robozinho, pedir coisa aqui, ó, pedir outra letra e assim vai. Você pode mudar
+2:43:432 horas, 43 minutos e 43 segundosmanualmente no Suno, né? Mudar a letra manualmente.
+2:43:502 horas, 43 minutos e 50 segundosQue mais que eu tenho te mostrar aqui que é interessante aqui? Acho que eu já mostrei tudo já, tá? Tudo que tinha no sono aqui. Não, tudo tudo, tá? Tem muita coisa para mostrar ainda. Como eu falei,
+2:43:582 horas, 43 minutos e 58 segundoseu precisaria mais ou menos de umas, deixa eu ver, a gente tá com quase 3 horas aqui de de curso. Então, quase 3 horas. Precisaria de uma, como eu falei
+2:44:052 horas, 44 minutos e 5 segundospara você, umas 5 horas para mostrar todo todo o sono. Mas independente, tá, o que eu te mostrei é mais que
+2:44:132 horas, 44 minutos e 13 segundossuficiente. Você já consegue fazer muita, muita, muita, muita coisa aqui agora. Eh, você consegue criar músicas
+2:44:212 horas, 44 minutos e 21 segundosincríveis paraa sua família, para seus amigos, para você mesmo, eh, para Deus, né? Se criar música para Deus, assim como está criando aqui, eu acho muito
+2:44:302 horas, 44 minutos e 30 segundoslegal assim atributo de Deus. Eu eu criei coisas que eu gosto de criar, tá?
+2:44:342 horas, 44 minutos e 34 segundosCom vocês aqui. Eu gosto dos atributos de Deus, gosto também do fruto do espírito. Eh, tem esse projeto também dos salmos que eu tô fazendo, né? Mas
+2:44:422 horas, 44 minutos e 42 segundosaqui não é só salmo, né? Aqui eu comecei com salmos. Aqui a ideia é falar da Bíblia mesmo, de modo geral.
+2:44:482 horas, 44 minutos e 48 segundosbotar passagens bíblicas aqui, são marcantes. E é isso.
+2:44:552 horas, 44 minutos e 55 segundosDeixa eu ver se tem mais alguma coisa para falar do curso que eu não não posso esquecer.
+2:44:592 horas, 44 minutos e 59 segundosEh, melhor LLM, já falei. Aí a cria sozinha cria, mas não é legal. Fazer edições pontuais, acabei de mostrar.
+2:45:062 horas, 45 minutos e 6 segundosEdição, mixagem, como aproveitar uma boa música usando a própria voz. A gente fez também
+2:45:122 horas, 45 minutos e 12 segundoscriar um padrão. Fizemos também salvando a música MP3. Também salvando
+2:45:192 horas, 45 minutos e 19 segundosMP4. MP4 não salvei, mas MP4 é é só quem só quem tá pagando que pode fazer.
+2:45:282 horas, 45 minutos e 28 segundosÉ isso. Acho que fizemos tudo, tudo, tudo. Uau, bastante coisa, né? Vi muita coisa, muita coisa mesmo.
+2:45:362 horas, 45 minutos e 36 segundosDepois você reveja esse curso todinho, vê tudo novo. Fica brincando no sono aí.
+2:45:412 horas, 45 minutos e 41 segundosAbre ele, testa, cria, cria, cria, cria de novo. Cria um monte de música. Todo
+2:45:472 horas, 45 minutos e 47 segundosdia você vai poder criar música. Cadê a
+2:45:572 horas, 45 minutos e 57 segundosMP4 que eu queria ver? Acabei esquecendo. Deixa eu voltar aqui. Suno.
+2:46:032 horas, 46 minutos e 3 segundosEntão, se você quiser, por exemplo, pegar esse atributo de Deus aqui, eu quero download.
+2:46:122 horas, 46 minutos e 12 segundosAqui, ó, MP4 é esse vídeo aqui, ó, só que só na versão Pro, tá vendo?
+2:46:152 horas, 46 minutos e 15 segundosAntigamente ele deixava baixar sem ser na versão Pro, mas agora é só versão Pro. Não tem problema, você quer a letra
+2:46:222 horas, 46 minutos e 22 segundosda você quer só música mesmo. Aí ele faz assim, ó. Generate vídeo. V vídeo be download automaticamente após
+2:46:322 horas, 46 minutos e 32 segundosa geração, tá? Ele vai baixar assim que gerar que tá gerando o vídeo.
+2:46:382 horas, 46 minutos e 38 segundosO vídeo é uma coisa um pouquinho mais demorada, mas daqui a pouco tá pronto.
+2:46:412 horas, 46 minutos e 41 segundosDeixa eu ver se eu posso te mostrar mais alguma coisinha aqui antes da gente terminar.
+2:46:462 horas, 46 minutos e 46 segundosEh, aqui, ó, vídeo generation download. Tá vendo? Ó o vídeo aí, ó. Que ali. Aí, amor inabalável vive em mim.
+2:47:002 horas e 47 minutosTu és santo, rei de Israel.
+2:47:062 horas, 47 minutos e 6 segundosVocê consegue acompanhar a letra, apesar de que tá meio apagado, né?
+2:47:202 horas, 47 minutos e 20 segundosMas enfim, ele criou cria aquele negocinho ali. Eu posso publicar essa música, eu posso compartilhar com pessoas, compartilhar o
+2:47:282 horas, 47 minutos e 28 segundoslink, eu posso baixar, eu posso adicionar a fila, eu posso adicionar uma playlist, uma fazer uma playlist para mim aqui, ó. Aperto
+2:47:372 horas, 47 minutos e 37 segundosplaylist, aí eu crio uma, tenho várias playlists, tá vendo? Aí eu posso botar aqui uma playlist, crio, não, tipo assim, músicas lentas, músicas rápidas,
+2:47:452 horas, 47 minutos e 45 segundosmúsica da igreja, música não sei de quê, música não sei o que lá. Você vai criando eh músicas de cliente, aí você vai ali
+2:47:532 horas, 47 minutos e 53 segundosfazer uma playlist, mover para lixeiro. Você pode jogar no lixo.
+2:48:032 horas, 48 minutos e 3 segundosÉ isso. Publicar a música. Aqui eu posso estender a música, posso recortar.
+2:48:092 horas, 48 minutos e 9 segundosHum. Que mais? ajustar a velocidade dela. Fade in fade out são efeitos aqui.
+2:48:152 horas, 48 minutos e 15 segundosÉ você mudar essa seleção aqui. Eu posso pegar essa esse trecho aqui, ó.
+2:48:252 horas, 48 minutos e 25 segundosAqui, ó. Dá um substituir nesse trecho.
+2:48:272 horas, 48 minutos e 27 segundosAí aperto aí.
+2:48:352 horas, 48 minutos e 35 segundosAí eu faço substituição dele e assim vai. Posso remover também, abrir
+2:48:432 horas, 48 minutos e 43 segundosno estúdio. Só que o estúdio, o problema do estúdio é o seguinte, o estúdio ele ele ele é uma versão ainda mais cara, tá vendo? Ele é 120 por mês. Então ele nem nem cheguei a abrir esse estúdio ainda.
+2:48:532 horas, 48 minutos e 53 segundosNão cheguei a pagar esse esse recurso mais avançado não.
+2:49:122 horas, 49 minutos e 12 segundosSubstituir trecho.
+2:49:152 horas, 49 minutos e 15 segundosOu seja, é um, esse programa aqui é um programa incrível, um programa grande, um programa que tem bem complexo, bem completo, muito completo mesmo.
+2:49:262 horas, 49 minutos e 26 segundosE e é isso. Espero que tenha gostado.
+2:49:292 horas, 49 minutos e 29 segundosEspero que você tenha aprendido alguma coisa. Espero que você tenha possa criar músicas, muitas músicas para você, paraa sua família, paraos seus amigos.
+2:49:432 horas, 49 minutos e 43 segundosE é isso.
+2:49:452 horas, 49 minutos e 45 segundosVocê vai receber também, você já já deve estar, né, com sua com seu PDF aí, com seu com seu material.
+2:49:522 horas, 49 minutos e 52 segundosNós chegamos aqui a praticamente 3 horas, que foi o tempo que eu imaginei que ia que ia demorar, 2:49.
+2:50:002 horas e 50 minutosEntão, esse é o nosso curso de Suno.
+2:50:012 horas, 50 minutos e 1 segundoEspero que você tenha gostado. Deus abençoe sua vida e nós nos vemos aí em breve.
+2:50:092 horas, 50 minutos e 9 segundosUm grande abraço. Fique com Deus. Deus abençoe sua vida e sua família em nome de Jesus. Amém. Tchau. Tchau.
+2:50:212 horas, 50 minutos e 21 segundosÉ eterno.
+2:50:232 horas, 50 minutos e 23 segundosLouvai, louvai, louvai ao Senhor. Louvai ao Senhor desde a terra. Vós monstros
+2:50:322 horas, 50 minutos e 32 segundosmarinhos e todos os abismos.
+2:50:372 horas, 50 minutos e 37 segundosLouvai desde a terra monstros marinhos e todos os abismos. Fogo e saraiva, neve e
+2:50:442 horas, 50 minutos e 44 segundosvapor, vento tempestuoso que executa a sua palavra.
+2:50:532 horas, 50 minutos e 53 segundosMontes e todos os árvores frutíferas e todos os cedros,
+2:51:032 horas, 51 minutos e 3 segundose todo o gado, repiteis e aves voadoras, reis da terra e todos os povos,
+2:51:112 horas, 51 minutos e 11 segundospríncipes e todos os juízes, mancebos e donzelas, velhos e crianças.
+2:51:232 horas, 51 minutos e 23 segundosLouvai, louvai, louvai, louvai ao Senhor.
+2:51:292 horas, 51 minutos e 29 segundosO seu nome é maravilhoso.
+
+Sincronizar com o momento do vídeo

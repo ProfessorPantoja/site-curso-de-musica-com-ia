@@ -1,0 +1,181 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Validação das Transcrições — Curso Músicas Cristãs com IA</title>
+<style>
+  :root{
+    --bg:#0f1117; --card:#1a1d27; --card2:#222634; --line:#2e3344;
+    --txt:#e7e9ee; --muted:#9aa3b5; --accent:#7c5cff; --green:#3ecf8e;
+    --amber:#f5b850; --red:#ff6b6b; --blue:#5aa9ff;
+  }
+  *{box-sizing:border-box}
+  body{margin:0;background:var(--bg);color:var(--txt);
+    font-family:"Segoe UI",system-ui,-apple-system,sans-serif;line-height:1.6;
+    padding:32px 16px;}
+  .wrap{max-width:980px;margin:0 auto}
+  h1{font-size:1.9rem;margin:0 0 4px}
+  .sub{color:var(--muted);margin:0 0 28px}
+  h2{font-size:1.3rem;margin:38px 0 14px;padding-bottom:8px;border-bottom:1px solid var(--line)}
+  .card{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:20px 22px;margin:14px 0}
+  .verdict{background:linear-gradient(135deg,#1c2a22,#16241d);border:1px solid #2c5a44}
+  .verdict h2{border:0;margin-top:0;color:var(--green)}
+  .pill{display:inline-block;font-size:.78rem;font-weight:700;padding:3px 11px;border-radius:999px;letter-spacing:.3px}
+  .pill.win{background:#143527;color:var(--green);border:1px solid #2c5a44}
+  .pill.bak{background:#33291a;color:var(--amber);border:1px solid #5a4a2c}
+  table{width:100%;border-collapse:collapse;margin:8px 0;font-size:.93rem}
+  th,td{text-align:left;padding:10px 12px;border-bottom:1px solid var(--line);vertical-align:top}
+  th{color:var(--muted);font-weight:600;font-size:.82rem;text-transform:uppercase;letter-spacing:.4px}
+  tr:last-child td{border-bottom:0}
+  .ok{color:var(--green);font-weight:700}
+  .bad{color:var(--red)}
+  .mut{color:var(--muted)}
+  code{background:#0c0e14;padding:2px 7px;border-radius:6px;font-size:.86em;color:#cdd3e0}
+  .grid{display:grid;grid-template-columns:1fr 1fr;gap:14px}
+  @media(max-width:680px){.grid{grid-template-columns:1fr}}
+  .q{background:var(--card2);border-left:3px solid var(--accent);padding:10px 14px;border-radius:0 8px 8px 0;margin:8px 0;font-style:italic;color:#cfd4e2}
+  ul{margin:8px 0 8px 0;padding-left:20px}
+  li{margin:5px 0}
+  .opt{border:1px solid var(--line);border-radius:12px;padding:16px 18px;margin:10px 0;background:var(--card2)}
+  .opt h3{margin:0 0 6px;font-size:1.05rem}
+  .rec{border-color:#2c5a44;background:#15241d}
+  .rec h3 .pill{margin-left:8px}
+  .foot{color:var(--muted);font-size:.85rem;margin-top:34px;text-align:center}
+  .big{font-size:1.05rem}
+  .tag{font-size:.72rem;color:var(--muted)}
+</style>
+</head>
+<body>
+<div class="wrap">
+
+  <h1>Validação das Transcrições do Curso</h1>
+  <p class="sub">Curso "Músicas Cristãs com IA" — comparação das duas fontes • 19/06/2026</p>
+
+  <!-- VEREDITO -->
+  <div class="card verdict">
+    <h2>✅ Veredito rápido</h2>
+    <p class="big" style="margin:0 0 10px">
+      Use a transcrição do <strong>AI Studio</strong> (<code>curso-ai-studio.md</code>) como fonte
+      <strong>oficial e única</strong> para qualquer coisa do site. Ela é a melhor — disparado.
+    </p>
+    <p style="margin:0">
+      A do YouTube (<code>curso-youtube.txt</code>) <strong>não está faltando conteúdo</strong>, mas é uma legenda
+      automática cheia de erros. Guardamos ela só como <strong>backup e referência de timestamps exatos</strong>.
+      <strong>Não precisa criar uma versão consolidada</strong> — o AI Studio já está completo. (Detalhes e a
+      única ressalva no fim.)
+    </p>
+  </div>
+
+  <!-- A DÚVIDA -->
+  <h2>1. Sua intuição estava certa — e eu investiguei</h2>
+  <div class="card">
+    <p class="q">"É impossível das duas estar idêntica… algo vai estar diferente ali."</p>
+    <p>Exatamente. Achei <strong>uma diferença que parecia grave</strong> e fui atrás:</p>
+    <ul>
+      <li>A transcrição do AI Studio vem em <strong>7 partes</strong> (você gravou 7 áudios), e o tempo
+        <strong>reinicia em <code>[00:00]</code> a cada parte</strong>.</li>
+      <li>A <strong>Parte 4 dura só ~15 min</strong>, enquanto as outras têm ~24 min. Isso acendeu um alerta:
+        <em>será que faltou um pedaço do curso ali?</em></li>
+      <li><strong>Conclusão após cruzar as duas fontes: NÃO faltou nada.</strong> Conferi as "emendas" entre as
+        partes contra a linha do tempo do YouTube e <strong>tudo encaixa em sequência, sem buraco</strong>.
+        A Parte 4 é só um áudio que você cortou mais curto.</li>
+    </ul>
+    <p class="tag">Prova das emendas (mesma fala aparece no fim de uma parte e no começo da seguinte):</p>
+    <table>
+      <tr><th>Emenda</th><th>Fala de ligação</th><th>Posição no YouTube</th></tr>
+      <tr><td>P3 → P4</td><td>"…ele não colocou estilo" / "Tá, não criou o estilo…"</td><td class="ok">contínuo</td></tr>
+      <tr><td>P4 → P5</td><td>"esse tal de antigravity da Google… vale a pena estudar"</td><td>1:39:57</td></tr>
+      <tr><td>P5 → P6</td><td>"jogar no Suno e botar pra rodar… ele fez anáfora, spoken"</td><td>2:05:00</td></tr>
+      <tr><td>P6 → P7</td><td>"aqui em cima é a versão… Versão 5.5… 4.5 All"</td><td>2:30:23</td></tr>
+      <tr><td>Fim P7</td><td>"chegamos a 2h49… que Deus abençoe… tchau, tchau" + música final</td><td>~2:51 (fim)</td></tr>
+    </table>
+    <p style="margin-bottom:0">As duas fontes cobrem <strong>o curso inteiro</strong>, do
+      <em>"Cantai ao Rei"</em> de abertura até o <strong>louvor do Salmo 148</strong> no encerramento (~2h51).</p>
+  </div>
+
+  <!-- COMPARATIVO QUALIDADE -->
+  <h2>2. Qual está melhor — e por quê</h2>
+  <div class="card">
+    <table>
+      <tr><th>Critério</th><th>AI Studio <span class="pill win">FONTE OFICIAL</span></th><th>YouTube <span class="pill bak">backup</span></th></tr>
+      <tr><td>Cobertura do curso</td><td class="ok">Completa (~2h51)</td><td class="ok">Completa (~2h51)</td></tr>
+      <tr><td>Pontuação e parágrafos</td><td class="ok">Texto corrido, legível</td><td class="bad">Quebra a cada ~8 s</td></tr>
+      <tr><td>Nomes próprios / marcas</td><td class="ok">Suno, Udio, Gemini, Pantoja</td><td class="bad">"Yudio", "Geminai", "Pantia"</td></tr>
+      <tr><td>Trechos cantados / instrumentais</td><td class="ok">Marcados (46 marcações)</td><td class="bad">Misturados na fala</td></tr>
+      <tr><td>Fidelidade da letra das músicas</td><td class="ok">Correta</td><td class="bad">Distorcida (ex. abaixo)</td></tr>
+      <tr><td>Honestidade da transcrição</td><td class="ok">5 relatórios de "palavras inferidas"</td><td class="mut">—</td></tr>
+      <tr><td>Timestamps</td><td class="mut">Por parte (reinicia)</td><td class="ok">Absolutos e granulares</td></tr>
+    </table>
+
+    <p class="tag" style="margin-top:18px">Exemplos reais lado a lado (mesmo trecho):</p>
+    <div class="grid">
+      <div class="opt">
+        <h3 style="color:var(--green);font-size:.95rem">AI Studio ✔</h3>
+        <p style="margin:6px 0">"…mas tu não desististe, <strong>cuidaste de nós</strong>."</p>
+        <p style="margin:6px 0">"Tem um <strong>mural</strong> aqui, um quadro aqui…"</p>
+        <p style="margin:6px 0">"A Escritura Cantada <strong>versículo</strong>"</p>
+      </div>
+      <div class="opt">
+        <h3 style="color:var(--red);font-size:.95rem">YouTube ✘</h3>
+        <p style="margin:6px 0">"…mas tu não <strong>desistinho aqui de nós</strong>."</p>
+        <p style="margin:6px 0">"Tem um <strong>moral</strong> aqui, um quadro aqui…"</p>
+        <p style="margin:6px 0">"A escritura cantada <strong>Versel</strong>"</p>
+      </div>
+    </div>
+  </div>
+
+  <!-- CONSOLIDAR? -->
+  <h2>3. Precisa de uma versão consolidada?</h2>
+  <div class="card">
+    <p class="q">"Isso vai fazer uma versão consolidada? Não sei, eu estou aqui pensando."</p>
+    <p><strong>Minha recomendação honesta: não vale a pena fundir as duas.</strong> O AI Studio já é completo e
+      limpo; juntar com a versão cheia de erros do YouTube só daria trabalho e poluiria a fonte boa. Mas, se você
+      quiser, existe <strong>uma melhoria pequena e útil</strong>. Três caminhos:</p>
+
+    <div class="opt rec">
+      <h3>A) Deixar como está <span class="pill win">RECOMENDADO</span></h3>
+      <p style="margin:0">AI Studio = fonte oficial. YouTube = backup. Seguimos direto para extrair o conteúdo
+        para o site. <strong>Custo: zero. É o que eu faria.</strong></p>
+    </div>
+
+    <div class="opt">
+      <h3>B) Gerar 1 arquivo "master" enxuto</h3>
+      <p style="margin:0">Pego o AI Studio e produzo uma versão limpa com <strong>timestamps absolutos contínuos</strong>
+        (sem reiniciar a cada parte) e corrijo meia dúzia de nomes. Bom se você for reusar a transcrição em outros
+        lugares. <span class="tag">Custo: baixo.</span></p>
+    </div>
+
+    <div class="opt">
+      <h3>C) Consolidação completa palavra a palavra</h3>
+      <p style="margin:0">Fundir as duas linha a linha buscando o "melhor de cada". <strong>Não recomendo</strong> —
+        muito trabalho, ganho mínimo, e arrisca introduzir os erros do YouTube na fonte boa.
+        <span class="tag">Custo: alto.</span></p>
+    </div>
+  </div>
+
+  <!-- RESSALVA -->
+  <h2>4. A única ressalva honesta</h2>
+  <div class="card">
+    <p style="margin-top:0">O AI Studio <strong>"limpa" a fala</strong>: remove vícios de linguagem e arruma tropeços.
+      Isso é ótimo para legibilidade (e perfeito para virar copy do site), mas significa que ele é
+      <strong>levemente menos literal</strong> que o YouTube. Nos pontos que conferi, a fidelidade foi alta e o
+      modelo foi conservador (declarou de 0 a 3 "palavras inferidas" por parte). Para o nosso objetivo —
+      melhorar o site — isso é uma <strong>vantagem</strong>, não um problema. Só registro para você saber.</p>
+  </div>
+
+  <!-- PROXIMO -->
+  <h2>5. Próximo passo</h2>
+  <div class="card">
+    <p style="margin-top:0">Validação concluída: <strong>temos uma fonte confiável e completa</strong>. Quando você
+      decidir o caminho da seção 3, sigo para o que combinamos antes — <strong>ler o AI Studio a fundo e destilar
+      o "kit de matéria-prima"</strong> (ementa real, histórias, frases na sua voz, objeções) para alimentar a copy
+      da landing.</p>
+    <p style="margin-bottom:0" class="mut">Nada foi commitado ainda. Os arquivos estão organizados em
+      <code>docs/transcricoes/</code> e tudo é reversível.</p>
+  </div>
+
+  <p class="foot">Relatório gerado por Claude Code • Método Pantoja — site curso de música com IA</p>
+</div>
+</body>
+</html>

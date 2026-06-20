@@ -1,0 +1,250 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Kit de Matéria-Prima — Curso Músicas Cristãs com IA (Método Pantoja)</title>
+<style>
+  :root{
+    --bg:#0f1117; --card:#1a1d27; --card2:#222634; --line:#2e3344;
+    --txt:#e7e9ee; --muted:#9aa3b5; --accent:#7c5cff; --green:#3ecf8e;
+    --amber:#f5b850; --red:#ff6b6b; --blue:#5aa9ff; --pink:#ff7eb6;
+  }
+  *{box-sizing:border-box}
+  body{margin:0;background:var(--bg);color:var(--txt);
+    font-family:"Segoe UI",system-ui,-apple-system,sans-serif;line-height:1.62;padding:32px 16px;}
+  .wrap{max-width:1000px;margin:0 auto}
+  header.hero{background:linear-gradient(135deg,#241a3a,#16202e);border:1px solid #34304f;
+    border-radius:16px;padding:26px 28px;margin-bottom:10px}
+  h1{font-size:1.9rem;margin:0 0 6px}
+  .sub{color:var(--muted);margin:0}
+  .toc{display:flex;flex-wrap:wrap;gap:8px;margin:18px 0 6px}
+  .toc a{font-size:.83rem;color:var(--txt);text-decoration:none;background:var(--card2);
+    border:1px solid var(--line);padding:6px 12px;border-radius:999px}
+  .toc a:hover{border-color:var(--accent)}
+  h2{font-size:1.32rem;margin:42px 0 6px;display:flex;align-items:center;gap:10px}
+  h2 .ic{width:30px;height:30px;display:inline-grid;place-items:center;border-radius:9px;font-size:1rem}
+  .lead{color:var(--muted);margin:2px 0 14px;font-size:.95rem}
+  .card{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:18px 20px;margin:12px 0}
+  h3{margin:0 0 8px;font-size:1.05rem}
+  ul{margin:6px 0;padding-left:20px}
+  li{margin:5px 0}
+  table{width:100%;border-collapse:collapse;font-size:.92rem;margin:6px 0}
+  th,td{text-align:left;padding:9px 11px;border-bottom:1px solid var(--line);vertical-align:top}
+  th{color:var(--muted);font-weight:600;font-size:.78rem;text-transform:uppercase;letter-spacing:.4px}
+  tr:last-child td{border-bottom:0}
+  .step{display:flex;gap:14px;margin:0 0 2px;padding:12px 0;border-bottom:1px solid var(--line)}
+  .step:last-child{border-bottom:0}
+  .num{flex:0 0 34px;height:34px;border-radius:9px;background:#241a3a;border:1px solid #4a3d77;
+    color:#c5b8ff;font-weight:700;display:grid;place-items:center}
+  .step .body{flex:1}
+  .step .body b{display:block;margin-bottom:2px}
+  .step .body span{color:var(--muted);font-size:.9rem}
+  blockquote{margin:10px 0;padding:12px 16px;border-left:3px solid var(--accent);
+    background:var(--card2);border-radius:0 8px 8px 0;font-style:italic}
+  blockquote.q2{border-color:var(--pink)}
+  .quote-grid blockquote{margin:8px 0}
+  .tag{display:inline-block;font-size:.72rem;font-weight:700;padding:2px 9px;border-radius:999px;margin-left:6px}
+  .t-prova{background:#143527;color:var(--green);border:1px solid #2c5a44}
+  .t-obj{background:#33291a;color:var(--amber);border:1px solid #5a4a2c}
+  .t-dado{background:#10283f;color:var(--blue);border:1px solid #244a6e}
+  .grid2{display:grid;grid-template-columns:1fr 1fr;gap:12px}
+  @media(max-width:720px){.grid2{grid-template-columns:1fr}}
+  .obj{background:var(--card);border:1px solid var(--line);border-left:3px solid var(--amber);
+    border-radius:0 10px 10px 0;padding:12px 16px;margin:8px 0}
+  .obj .pq{color:var(--amber);font-weight:600}
+  .obj .resp{color:var(--txt);margin-top:4px}
+  .big-num{font-size:1.5rem;font-weight:800;color:var(--green)}
+  .pill{display:inline-block;font-size:.78rem;font-weight:700;padding:3px 11px;border-radius:999px;
+    background:#241a3a;color:#c5b8ff;border:1px solid #4a3d77}
+  .note{background:#10283f;border:1px solid #244a6e;border-radius:12px;padding:14px 18px;margin:14px 0}
+  .foot{color:var(--muted);font-size:.85rem;margin-top:40px;text-align:center}
+  code{background:#0c0e14;padding:1px 6px;border-radius:5px;font-size:.85em;color:#cdd3e0}
+  .src{color:var(--muted);font-size:.78rem;font-style:normal}
+</style>
+</head>
+<body>
+<div class="wrap">
+
+  <header class="hero">
+    <h1>🎵 Kit de Matéria-Prima do Curso</h1>
+    <p class="sub">Tudo que extraí das ~3h de aula ("Músicas Cristãs com IA" / Método Pantoja) para alimentar a copy da landing — na sua própria voz.</p>
+    <div class="toc">
+      <a href="#voz">1. A sua voz</a>
+      <a href="#ementa">2. Ementa real</a>
+      <a href="#provas">3. Histórias &amp; provas</a>
+      <a href="#frases">4. Frases citáveis</a>
+      <a href="#objecoes">5. Objeções já respondidas</a>
+      <a href="#dados">6. Dados concretos</a>
+      <a href="#metodo">7. O Método/Fórmula</a>
+      <a href="#uso">Como usar no site</a>
+    </div>
+  </header>
+
+  <div class="note">
+    <strong>O que é isto (e o que não é):</strong> isto é <em>combustível</em> para a copy — citações reais, provas e
+    ângulos tirados da transcrição oficial (AI Studio). <strong>Não é o texto final do site.</strong> O próximo passo é
+    escolher daqui o que entra na landing. Tudo aqui tem lastro na fala real do curso.
+  </div>
+
+  <!-- 1. VOZ -->
+  <h2 id="voz"><span class="ic" style="background:#241a3a">🗣️</span> 1. A sua voz (tom que a copy deve ter)</h2>
+  <p class="lead">A landing precisa soar como você falando — esse é o maior ativo da transcrição.</p>
+  <div class="card grid2">
+    <div>
+      <h3>Como você fala</h3>
+      <ul>
+        <li><strong>Caloroso e didático</strong> — "pra facilitar tua vida", "fica focado comigo aqui".</li>
+        <li><strong>Antecipa a dúvida do aluno</strong> em 1ª pessoa: <em>"Pantoja, como é que eu faço minha primeira música?"</em></li>
+        <li><strong>Honesto e humilde</strong> — admite erros ao vivo ("dei mole aqui"), "minha voz é horrível, mas tudo bem".</li>
+        <li><strong>Empático</strong> — "eu também sou aluno, sei a dificuldade que o aluno passa".</li>
+        <li><strong>Cristocêntrico</strong> — "Toda honra e toda glória seja dada a Cristo".</li>
+      </ul>
+    </div>
+    <div>
+      <h3>Bordões / expressões</h3>
+      <ul>
+        <li>"tá?", "beleza?", "vamos lá", "anota isso aí"</li>
+        <li>"coisa linda", "para caramba", "top, top, top"</li>
+        <li>"que coisa incrível!", "legal à beça"</li>
+        <li>"com certeza", "sim ou não? Com certeza"</li>
+      </ul>
+      <p class="src">Sugestão: manter esse registro coloquial e acolhedor nos textos, sem engessar em "linguagem de marketing".</p>
+    </div>
+  </div>
+
+  <!-- 2. EMENTA -->
+  <h2 id="ementa"><span class="ic" style="background:#10283f">📚</span> 2. Ementa real do curso (em ordem)</h2>
+  <p class="lead">O que você de fato ensina — base para a seção "O que você vai aprender" / módulos.</p>
+  <div class="card">
+    <div class="step"><div class="num">1</div><div class="body"><b>Introdução: a IA no cenário atual</b><span>"Na era da IA, eu virei produtor musical." É possível criar de graça? As ferramentas que existem.</span></div></div>
+    <div class="step"><div class="num">2</div><div class="body"><b>As ferramentas e por que o Suno</b><span>Udio, Gemini, Google Flow Music — e por que o Suno é a melhor IA pra música. Mostra o projeto "A Escritura Cantada".</span></div></div>
+    <div class="step"><div class="num">3</div><div class="body"><b>Primeira música no Suno</b><span>Login, idioma português, aba "Criar", créditos, workspaces (organização por projeto/ocasião).</span></div></div>
+    <div class="step"><div class="num">4</div><div class="body"><b>As formas de criar</b><span>Direta (digitar), por prompt (a IA escreve), gravando a própria voz/beatbox (o Suno detecta o BPM), e instrumental.</span></div></div>
+    <div class="step"><div class="num">5</div><div class="body"><b>Baixar e compartilhar</b><span>MP3, WAV, vídeo (MP4). Mandar no WhatsApp, pen drive, caixinha de som.</span></div></div>
+    <div class="step"><div class="num">6</div><div class="body"><b>Criar com a sua própria voz</b><span>Gravar a voz, regular a influência (%), criar uma "persona" de voz reutilizável.</span></div></div>
+    <div class="step"><div class="num">7</div><div class="body"><b>Criar a letra do seu jeito (método misto)</b><span>Brainstorm, parte você faz, parte a IA — conduzindo a IA, sem deixar ela fazer tudo.</span></div></div>
+    <div class="step"><div class="num">8</div><div class="body"><b>Escolher o melhor modelo de IA</b><span>Como comparar modelos no Arena.ai (escrita criativa). Gratuito: Gemini 3.1 Pro (AI Studio). Também Claude e GPT.</span></div></div>
+    <div class="step"><div class="num">9</div><div class="body"><b>A Fórmula Pantoja — "A Escritura Cantada"</b><span>O sistema de regras: trecho bíblico no início (Almeida Recebida, domínio público), <em>spoken</em>, anáfora, teologia cristocêntrica, assinatura final.</span></div></div>
+    <div class="step"><div class="num">10</div><div class="body"><b>Automatização (avançado)</b><span>Criar muitas músicas; o conceito de uma IA que gera + outra que revisa. Mas sempre nascendo do manual primeiro.</span></div></div>
+    <div class="step"><div class="num">11</div><div class="body"><b>Conferência e teologia</b><span>Confrontar a IA, conferir os versículos, corrigir erros — a parte mais importante.</span></div></div>
+    <div class="step"><div class="num">12</div><div class="body"><b>Edição no Suno</b><span>Editor, trocar trechos de letra (replace), fade, commit, salvar nova versão.</span></div></div>
+    <div class="step"><div class="num">13</div><div class="body"><b>Reaproveitar músicas</b><span>Usar uma música como referência/inspiração (até 4 faixas), remix, reutilizar prompt.</span></div></div>
+  </div>
+
+  <!-- 3. PROVAS -->
+  <h2 id="provas"><span class="ic" style="background:#143527">💚</span> 3. Histórias &amp; provas reais</h2>
+  <p class="lead">Prova social autêntica — para depoimentos, "o que dá pra fazer" e quebra de objeção emocional.</p>
+
+  <div class="card">
+    <h3>A menininha de 7 anos (Vila Velha) <span class="tag t-prova">PROVA · EMOÇÃO</span></h3>
+    <p>Fez uma música de presente para a filha de uma vizinha que fez 7 anos. A menina gostou tanto que queria ouvir todo dia.</p>
+    <blockquote>"A menina gostou tanto que ela queria ouvir todo dia: 'Mãe, mãe, bota aquela música, bota a minha música, bota a minha música'."</blockquote>
+  </div>
+
+  <div class="card">
+    <h3>A mãe de 70 anos — em família <span class="tag t-prova">PROVA · FAMÍLIA</span></h3>
+    <p>Criou uma música de aniversário de 70 anos da mãe, ali em casa, junto com o pai, o irmão e a mãe. ("Arraiá da Vivi")</p>
+    <blockquote>"A gente foi e fez junto aqui — eu, meu pai e minha mãe. Um negócio legal pra caramba. Dá pra você interagir com a família, que coisa incrível! A minha mãe ficou super feliz."</blockquote>
+  </div>
+
+  <div class="grid2">
+    <div class="card">
+      <h3>A música da Sofia <span class="tag t-prova">PROVA</span></h3>
+      <p>Outra criança que ganhou a própria música — "muito legal essa música da Sofia".</p>
+    </div>
+    <div class="card">
+      <h3>"A Escritura Cantada" <span class="tag t-prova">AUTORIDADE</span></h3>
+      <p>Projeto próprio musicando os Salmos (Salmo 1, 7, 8, 18, 36…), antes "Bíblia Cantada". <strong>387 músicas</strong> no workspace de Salmos.</p>
+    </div>
+  </div>
+
+  <div class="card">
+    <h3>Autoridade / experiência <span class="tag t-prova">AUTORIDADE</span></h3>
+    <ul>
+      <li>Já criou <strong>centenas de músicas</strong> — "mais de 150 músicas gratuitas", e bem mais que isso.</li>
+      <li>Usa o Suno <strong>desde março de 2024</strong> (versão 2.0) — acompanhou todas as versões até a 5.5.</li>
+      <li>Testa e compara vários modelos de IA (Claude, Gemini, GPT, DeepSeek, Meta) — sabe o que funciona na prática.</li>
+    </ul>
+  </div>
+
+  <!-- 4. FRASES -->
+  <h2 id="frases"><span class="ic" style="background:#3a1a2e">✍️</span> 4. Frases citáveis (literais, na sua voz)</h2>
+  <p class="lead">Candidatas a headline, subtítulo e destaques. Todas são falas reais do curso.</p>
+  <div class="card quote-grid">
+    <blockquote>"Na era da inteligência artificial, eu virei produtor musical."</blockquote>
+    <blockquote class="q2">"O segredo é: nunca deixe a IA sozinha. Você vai conduzir a IA. Conduzir."</blockquote>
+    <blockquote>"Eu já criei centenas de músicas — centenas de músicas gratuitas. Já dei de presente…"</blockquote>
+    <blockquote class="q2">"Você vai ficar muito feliz o dia que você fizer uma música de cabeça, no caderno, passar pra IA, e a IA cantar a sua música — a sua, que você criou da sua cabeça."</blockquote>
+    <blockquote>"O que você colocar aqui, ele canta."</blockquote>
+    <blockquote class="q2">"Eu tô ensinando vocês a humanizar a letra. Porque se você deixar a IA fazer, ela não faz esse tipo de coisa."</blockquote>
+    <blockquote>"Dá pra você interagir com a família — que coisa incrível!"</blockquote>
+    <blockquote class="q2">"Toda honra e toda glória seja dada a Cristo."</blockquote>
+  </div>
+
+  <!-- 5. OBJECOES -->
+  <h2 id="objecoes"><span class="ic" style="background:#33291a">🛡️</span> 5. Objeções que você já responde no curso</h2>
+  <p class="lead">Pronto para virar FAQ e blocos de quebra de objeção — e você já tem a resposta na sua voz.</p>
+
+  <div class="obj"><span class="pq">"É possível criar músicas de graça?"</span><div class="resp">Sim, com certeza. Letra de graça no Gemini 3.1 Pro (AI Studio) e ~10 músicas/dia no Suno gratuito. Ele criou +150 músicas grátis.</div></div>
+  <div class="obj"><span class="pq">"Preciso saber cantar ou ter conhecimento musical?"</span><div class="resp">Não. Ele mesmo diz "minha voz é horrível" e se declara iniciante. O método não exige técnica vocal.</div></div>
+  <div class="obj"><span class="pq">"Vou ter que pagar todo mês?"</span><div class="resp">Não. Dá pra pagar um mês só, criar um monte de músicas e cancelar. "Não é necessário ficar assinando todos os meses."</div></div>
+  <div class="obj"><span class="pq">"A IA não faz tudo sozinha? Por que preciso de um método?"</span><div class="resp">Faz, mas fica robótico e sem alma. O diferencial é conduzir a IA e humanizar — é isso que o curso ensina.</div></div>
+  <div class="obj"><span class="pq">"Não é muito técnico/complicado?"</span><div class="resp">É passo a passo, com tudo marcado na tela ("gosto de marcar com a canetinha vermelha pra facilitar tua vida").</div></div>
+  <div class="obj"><span class="pq">"Dá pra trabalhar com isso / ganhar dinheiro?"</span><div class="resp">Dá. É possível achar um público e fazer músicas para clientes (playlist "músicas de clientes").</div></div>
+  <div class="obj"><span class="pq">"Vale os R$ 50 do Suno?"</span><div class="resp">Dá ~500 músicas no mês. "Eu acho que vale muito a pena."</div></div>
+
+  <!-- 6. DADOS -->
+  <h2 id="dados"><span class="ic" style="background:#10283f">📊</span> 6. Dados concretos <span class="tag t-dado" style="margin-left:8px">conferir antes de publicar</span></h2>
+  <p class="lead">Números reais ditos no curso. Úteis em FAQ/comparativos — confirme valores atuais antes de publicar, pois mudam.</p>
+  <div class="card">
+    <table>
+      <tr><th>Item</th><th>O que foi dito no curso</th></tr>
+      <tr><td>Suno pago</td><td><span class="big-num">R$ 50</span>/mês → 2500 créditos → ~500 músicas/mês</td></tr>
+      <tr><td>Custo por música</td><td>10 créditos por música; edição ~4 créditos (10 se for grande)</td></tr>
+      <tr><td>Suno gratuito</td><td>~10 músicas/dia (5 criações × 2 versões); modelo "4.5 All"</td></tr>
+      <tr><td>Letra de graça</td><td>Gemini 3.1 Pro via <code>aistudio.google.com</code></td></tr>
+      <tr><td>Suno Estúdio</td><td>R$ 120/mês (recurso avançado — ele nem usa)</td></tr>
+      <tr><td>Duração do curso</td><td>~3 horas ("2h49")</td></tr>
+      <tr><td>Tradução bíblica usada</td><td>Almeida Recebida (domínio público, sem direitos autorais)</td></tr>
+    </table>
+  </div>
+
+  <!-- 7. METODO -->
+  <h2 id="metodo"><span class="ic" style="background:#241a3a">⭐</span> 7. O Método / Fórmula (o diferencial vendável)</h2>
+  <p class="lead">Aqui mora o valor do curso: não é "use o Suno", é o <em>jeito Pantoja</em> de fazer música com alma e teologia correta.</p>
+  <div class="card">
+    <h3>Os 3 pilares que aparecem o curso inteiro</h3>
+    <ul>
+      <li><strong>Conduzir, não automatizar</strong> — "nunca deixe a IA sozinha". Método misto: parte sua, parte da IA.</li>
+      <li><strong>Humanizar a letra</strong> — anáfora, repetições, <em>spoken</em> (parte falada), quebras — coisas que a IA sozinha não faz.</li>
+      <li><strong>Teologia correta e cristocêntrica</strong> — conferir versículos, confrontar a IA quando erra, apontar para Cristo.</li>
+    </ul>
+    <h3 style="margin-top:14px">A "Fórmula da Escritura Cantada" (sistema de regras dele)</h3>
+    <ul>
+      <li>Idioma 100% Brasil · Criatividade (moderno + poético, sem exagero erudito)</li>
+      <li>Abrir com <em>spoken</em> tirado da Bíblia (Almeida Recebida) · estrutura com anáfora</li>
+      <li>Encerrar com louvor + assinatura: "Toda honra e toda glória seja dada a Cristo"</li>
+      <li><em>Insight vendável:</em> "Essas regras não nasceram prontas — fui construindo com o tempo." → o curso entrega o atalho.</li>
+    </ul>
+  </div>
+
+  <!-- COMO USAR -->
+  <h2 id="uso"><span class="ic" style="background:#143527">🎯</span> Como eu usaria isto no site</h2>
+  <div class="card">
+    <table>
+      <tr><th>Seção da landing</th><th>De onde puxar</th></tr>
+      <tr><td>Headline / herói</td><td>Frases citáveis (§4) + 3 pilares (§7)</td></tr>
+      <tr><td>"O que você vai aprender"</td><td>Ementa real (§2)</td></tr>
+      <tr><td>Prova social / depoimentos</td><td>Histórias reais (§3) — menininha, mãe, Sofia, Escritura Cantada</td></tr>
+      <tr><td>Diferencial / por que este curso</td><td>O Método/Fórmula (§7)</td></tr>
+      <tr><td>FAQ / quebra de objeção</td><td>Objeções já respondidas (§5)</td></tr>
+      <tr><td>Comparativo / transparência</td><td>Dados concretos (§6)</td></tr>
+    </table>
+    <p class="src" style="margin-top:10px">Próximo passo sugerido: você escolhe quais blocos quer atacar primeiro e eu transformo o material em copy aplicada na landing, mudança por mudança.</p>
+  </div>
+
+  <p class="foot">Kit gerado por Claude Code a partir de <code>docs/transcricoes/curso-ai-studio.md</code> • Método Pantoja</p>
+</div>
+</body>
+</html>
