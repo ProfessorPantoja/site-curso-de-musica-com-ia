@@ -1,40 +1,45 @@
 @import "tailwindcss";
 
 :root {
-  --background: #07040f;
-  --foreground: #f1edfb;
-  --muted: #a99fc4;
-  --card: #130b22;
-  --border: #2a1d40;
-  --primary: #8b5cf6;
-  --primary-foreground: #ffffff;
-  --accent: #22d3ee;
-  --pink: #ec4899;
+  /* Paleta Direção B — clara, editorial, acolhedora */
+  --background: #faf7f2; /* creme */
+  --foreground: #33312c; /* texto principal */
+  --ink: #2b2a28; /* títulos */
+  --muted: #6c665c; /* texto secundário */
+  --soft: #8a8378; /* legendas */
+  --card: #ffffff;
+  --border: #eadfce;
+  --line: #f0e7da;
+  --navy: #34507a; /* azul (marca) */
+  --navy-deep: #2b3a52; /* rodapé */
+  --terra: #d99a6c; /* terracota (CTA) */
+  --terra-deep: #b06a3f; /* marrom (destaques de texto) */
+  --beige: #f2e6dc;
+  --beige-2: #f3ece2;
+  --sand: #e7b78f; /* dourado claro (sobre fundo azul) */
 }
 
 @theme inline {
   --color-background: var(--background);
   --color-foreground: var(--foreground);
+  --color-ink: var(--ink);
   --color-muted: var(--muted);
+  --color-soft: var(--soft);
   --color-card: var(--card);
   --color-border: var(--border);
-  --color-primary: var(--primary);
-  --color-primary-foreground: var(--primary-foreground);
-  --color-accent: var(--accent);
-  --color-pink: var(--pink);
+  --color-line: var(--line);
+  --color-navy: var(--navy);
+  --color-navy-deep: var(--navy-deep);
+  --color-terra: var(--terra);
+  --color-terra-deep: var(--terra-deep);
+  --color-beige: var(--beige);
+  --color-beige-2: var(--beige-2);
+  --color-sand: var(--sand);
+
+  --font-serif: var(--font-serif), ui-serif, Georgia, serif;
   --font-sans: var(--font-sans), ui-sans-serif, system-ui, sans-serif;
 
-  --animate-aurora: aurora 18s ease-in-out infinite;
-  --animate-float: float 6s ease-in-out infinite;
-  --animate-float-slow: float 9s ease-in-out infinite;
-  --animate-shimmer: shimmer 2.5s linear infinite;
-  --animate-spin-slow: spin 14s linear infinite;
-  --animate-pulse-ring: pulse-ring 2.4s ease-out infinite;
-  --animate-marquee: marquee 28s linear infinite;
-}
-
-* {
-  border-color: var(--border);
+  --animate-equalize: equalize 1.1s ease-in-out infinite;
 }
 
 html {
@@ -45,143 +50,46 @@ body {
   background: var(--background);
   color: var(--foreground);
   font-family: var(--font-sans);
-  overflow-x: hidden;
+  line-height: 1.5;
+  -webkit-font-smoothing: antialiased;
 }
 
-/* ── Keyframes ─────────────────────────────────────────────── */
-@keyframes aurora {
-  0%,
-  100% {
-    transform: translate3d(0, 0, 0) scale(1);
-    opacity: 0.55;
-  }
-  50% {
-    transform: translate3d(4%, -3%, 0) scale(1.15);
-    opacity: 0.8;
-  }
+::selection {
+  background: var(--terra);
+  color: #fff;
 }
 
-@keyframes float {
-  0%,
-  100% {
-    transform: translateY(0);
-  }
-  50% {
-    transform: translateY(-14px);
-  }
+.font-serif {
+  font-family: var(--font-serif);
 }
 
-@keyframes shimmer {
-  0% {
-    background-position: -200% 0;
-  }
-  100% {
-    background-position: 200% 0;
-  }
-}
-
-@keyframes pulse-ring {
-  0% {
-    transform: scale(0.9);
-    opacity: 0.7;
-  }
-  70% {
-    transform: scale(1.6);
-    opacity: 0;
-  }
-  100% {
-    opacity: 0;
-  }
-}
-
-@keyframes marquee {
-  0% {
-    transform: translateX(0);
-  }
-  100% {
-    transform: translateX(-50%);
-  }
-}
-
-/* ── Reveal on scroll ──────────────────────────────────────── */
+/* ── Reveal on scroll (sutil, combinando com o tom editorial) ── */
 .reveal {
   opacity: 0;
-  transform: translateY(28px);
-  filter: blur(6px);
+  transform: translateY(22px);
   transition:
     opacity 0.7s cubic-bezier(0.22, 1, 0.36, 1),
-    transform 0.7s cubic-bezier(0.22, 1, 0.36, 1),
-    filter 0.7s cubic-bezier(0.22, 1, 0.36, 1);
+    transform 0.7s cubic-bezier(0.22, 1, 0.36, 1);
   will-change: opacity, transform;
 }
-
 .reveal.is-visible {
   opacity: 1;
   transform: translateY(0);
-  filter: blur(0);
 }
 
-/* ── Texto com gradiente animado ───────────────────────────── */
-.text-gradient {
-  background: linear-gradient(
-    100deg,
-    var(--primary),
-    var(--accent),
-    var(--pink),
-    var(--primary)
-  );
-  background-size: 250% auto;
-  -webkit-background-clip: text;
-  background-clip: text;
-  color: transparent;
-  animation: shimmer 6s linear infinite;
+/* ── Mini equalizador (barras animadas no card de música) ───── */
+@keyframes equalize {
+  0%,
+  100% {
+    transform: scaleY(0.35);
+  }
+  50% {
+    transform: scaleY(1);
+  }
 }
-
-/* ── Borda/CTA com brilho ──────────────────────────────────── */
-.btn-glow {
-  position: relative;
-  isolation: isolate;
-}
-.btn-glow::after {
-  content: "";
-  position: absolute;
-  inset: 0;
-  border-radius: inherit;
-  padding: 1px;
-  background: linear-gradient(120deg, var(--accent), var(--primary), var(--pink));
-  -webkit-mask:
-    linear-gradient(#000 0 0) content-box,
-    linear-gradient(#000 0 0);
-  -webkit-mask-composite: xor;
-  mask-composite: exclude;
-  opacity: 0;
-  transition: opacity 0.3s ease;
-  z-index: -1;
-}
-.btn-glow:hover::after {
-  opacity: 1;
-}
-
-/* ── Spotlight (brilho que segue o mouse nos cards) ────────── */
-.spotlight {
-  position: relative;
-}
-.spotlight::before {
-  content: "";
-  position: absolute;
-  inset: 0;
-  border-radius: inherit;
-  background: radial-gradient(
-    260px circle at var(--mx, 50%) var(--my, 50%),
-    color-mix(in srgb, var(--primary) 22%, transparent),
-    transparent 70%
-  );
-  opacity: 0;
-  transition: opacity 0.35s ease;
-  pointer-events: none;
-}
-.spotlight:hover::before {
-  opacity: 1;
+.eq-bar {
+  transform-origin: bottom;
+  animation: var(--animate-equalize);
 }
 
 /* ── Acessibilidade: respeita quem prefere menos movimento ─── */
@@ -199,6 +107,5 @@ body {
   .reveal {
     opacity: 1;
     transform: none;
-    filter: none;
   }
 }

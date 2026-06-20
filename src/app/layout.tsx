@@ -1,21 +1,30 @@
 import type { Metadata } from "next";
-import { Inter } from "next/font/google";
+import { Newsreader, Mulish } from "next/font/google";
 import "./globals.css";
 import { site, SITE_URL, SEO_KEYWORDS } from "@/lib/site";
-import { Background } from "@/components/Background";
-import { MouseGlow } from "@/components/ui/MouseGlow";
 
-const inter = Inter({
+const mulish = Mulish({
   variable: "--font-sans",
   subsets: ["latin"],
+  weight: ["400", "500", "600", "700", "800"],
   display: "swap",
 });
+
+const newsreader = Newsreader({
+  variable: "--font-serif",
+  subsets: ["latin"],
+  style: ["normal", "italic"],
+  weight: ["400", "500", "600"],
+  display: "swap",
+});
+
+const titulo = `${site.marca} — ${site.tagline}`;
 
 export const metadata: Metadata = {
   metadataBase: new URL(SITE_URL),
   title: {
-    default: `${site.nome} — ${site.tagline}`,
-    template: `%s | ${site.nome}`,
+    default: `Curso Música como Presente com IA — ${site.marca} | ${site.tagline}`,
+    template: `%s | ${site.marca}`,
   },
   description: site.descricaoCurta,
   keywords: SEO_KEYWORDS,
@@ -28,13 +37,13 @@ export const metadata: Metadata = {
     type: "website",
     locale: "pt_BR",
     url: SITE_URL,
-    siteName: site.nome,
-    title: `${site.nome} — ${site.tagline}`,
+    siteName: site.marca,
+    title: titulo,
     description: site.descricaoCurta,
   },
   twitter: {
     card: "summary_large_image",
-    title: `${site.nome} — ${site.tagline}`,
+    title: titulo,
     description: site.descricaoCurta,
   },
   robots: {
@@ -56,10 +65,11 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html lang="pt-BR" className={`${inter.variable} h-full antialiased`}>
+    <html
+      lang="pt-BR"
+      className={`${mulish.variable} ${newsreader.variable} h-full antialiased`}
+    >
       <body className="min-h-full flex flex-col bg-background text-foreground">
-        <Background />
-        <MouseGlow />
         {children}
       </body>
     </html>

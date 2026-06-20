@@ -1,55 +1,64 @@
 /**
- * Configuração central do site.
+ * Configuração central do site — Curso "Método Pantoja" (presente musical com IA).
  *
- * EDITE ESTE ARQUIVO para personalizar o curso sem precisar mexer no resto do
- * código: nome, preço, instrutor, links de checkout/WhatsApp, depoimentos etc.
- * Tudo que aparece na landing page e no SEO sai daqui.
+ * EDITE ESTE ARQUIVO para personalizar tudo sem mexer no resto do código:
+ * textos, preço, link de checkout, músicas, FAQ e SEO.
  */
 
 /**
  * URL pública do site (sem barra no final).
- * Em produção, defina a variável de ambiente NEXT_PUBLIC_SITE_URL com o domínio real.
+ * Em produção, defina NEXT_PUBLIC_SITE_URL com o domínio real.
  */
 export const SITE_URL = (
-  process.env.NEXT_PUBLIC_SITE_URL ?? "https://www.musicacomia.com.br"
+  process.env.NEXT_PUBLIC_SITE_URL ?? "https://fabiopantoja.com.br"
 ).replace(/\/$/, "");
 
 export const site = {
   // ── Identidade ──────────────────────────────────────────────
-  nome: "Música com IA",
-  tagline: "Crie suas próprias músicas com Inteligência Artificial",
+  marca: "Método Pantoja",
+  sobrescrita: "Música feita com amor",
+  tagline: "Um presente que fica para sempre",
+  // Frase de descrição usada no SEO e no Open Graph
   descricaoCurta:
-    "Curso online que ensina, do zero, a compor, produzir e finalizar músicas profissionais usando ferramentas de Inteligência Artificial — mesmo sem saber teoria musical.",
+    "Crie uma música única para quem você ama — mãe, pai, um amigo, sua igreja. Em 3 horas, do zero, você aprende o Método Pantoja de criação musical com inteligência artificial.",
   url: SITE_URL,
-  // E-mail e telefone de contato (aparecem no rodapé)
-  email: "contato@musicacomia.com.br",
+  email: "contato@fabiopantoja.com.br",
   whatsapp: "5500000000000", // só números, com DDI e DDD. Ex: 5511988887777
 
   // ── Oferta ──────────────────────────────────────────────────
   oferta: {
-    precoDe: "R$ 997",
-    precoPor: "R$ 497",
-    parcelas: "12x de R$ 49,70",
+    // Mude para false para esconder o preço e só captar interesse (lista de espera)
+    mostrarPreco: true,
+    precoDe: "R$ 197",
+    moedaSimbolo: "R$",
+    precoNumeroInteiro: "97",
+    precoNumerico: "97.00", // usado no SEO (structured data)
     moeda: "BRL",
-    precoNumerico: "497.00", // usado no SEO (structured data)
-    // Cole aqui o link do seu checkout (Hotmart, Kiwify, Eduzz, Stripe...)
-    linkCheckout: "#inscricao",
-    garantiaDias: 7,
+    formaPagamento: "à vista no Pix · valor de lançamento",
+    // Cole aqui o link do seu checkout (Pix, Hotmart, Kiwify...)
+    linkCheckout: "#oferta",
+    duracao: "3 horas",
   },
 
   // ── Instrutor ───────────────────────────────────────────────
   instrutor: {
-    nome: "Seu Nome",
-    titulo: "Produtor musical e especialista em IA aplicada à música",
-    bio: "Há anos produzindo música e, mais recentemente, mergulhado nas ferramentas de IA que estão transformando a indústria. Já ajudei centenas de alunos a tirarem suas ideias da cabeça e transformá-las em faixas reais.",
+    nome: "Fábio Pantoja",
+    titulo: "Criador do Método Pantoja e do projeto Escritura Cantada",
+    bio: "Criei um método próprio de transformar histórias, versículos e memórias em música — e o apliquei no projeto Escritura Cantada, com mais de 10 canções inspiradas na Bíblia. Quando compus a música dos 10 anos da minha igreja e vi a reação das pessoas, percebi que esse método podia estar nas mãos de qualquer um. Este curso nasceu disso.",
   },
 
-  // ── Prova social rápida (números do hero) ───────────────────
-  numeros: [
-    { valor: "+1.200", rotulo: "alunos" },
-    { valor: "4,9/5", rotulo: "avaliação média" },
-    { valor: "+40", rotulo: "aulas práticas" },
-  ],
+  // ── Projeto-prova: Escritura Cantada ────────────────────────
+  escrituraCantada: {
+    titulo: "Escritura Cantada",
+    subtitulo: "10 músicas inspiradas na Bíblia",
+    link: "https://a-escritura-cantada.vercel.app/",
+    // Algumas faixas de amostra (edite/atualize com as reais)
+    faixas: [
+      { nome: "Salmo do Caminho", duracao: "3:24" },
+      { nome: "Graça que me Encontrou", duracao: "4:01" },
+      { nome: "Luz nas Sombras", duracao: "2:58" },
+    ],
+  },
 
   // ── Redes sociais (deixe vazio para esconder) ───────────────
   social: {
@@ -61,151 +70,90 @@ export const site = {
 
 /** Palavras-chave para SEO. Ajuste conforme sua pesquisa de termos. */
 export const SEO_KEYWORDS = [
-  "curso de música com IA",
+  "presente musical personalizado",
+  "música para o dia das mães",
+  "criar música para presente",
+  "música cristã com IA",
+  "método pantoja",
+  "homenagem em música",
+  "presente de aniversário diferente",
   "criar música com inteligência artificial",
-  "produção musical com IA",
-  "compor música com IA",
-  "fazer música com inteligência artificial",
-  "curso de produção musical online",
-  "música com inteligência artificial",
-  "Suno IA",
-  "Udio",
+  "música personalizada para igreja",
 ];
 
-/** Módulos / conteúdo programático do curso. */
-export const MODULOS = [
+/** Ocasiões para presentear (seção "para cada pessoa que importa"). */
+export const OCASIOES = [
+  {
+    emoji: "🌷",
+    titulo: "Dia das Mães",
+    descricao: "A homenagem que ela vai guardar para sempre.",
+  },
+  {
+    emoji: "🎂",
+    titulo: "Aniversários",
+    descricao: "Um presente que nenhuma loja consegue vender.",
+  },
+  {
+    emoji: "⛪",
+    titulo: "Sua igreja",
+    descricao: "Um hino para uma data, um culto, um aniversário.",
+  },
+  {
+    emoji: "💛",
+    titulo: "Quem você ama",
+    descricao: "Pai, filho, amigo, irmão — qualquer história vira canção.",
+  },
+];
+
+/** Os 4 degraus do Método Pantoja. O último é o destaque (IA completa). */
+export const METODO = [
   {
     numero: "01",
-    titulo: "Fundamentos da música com IA",
+    titulo: "O tema e a base instrumental",
     descricao:
-      "Entenda o panorama das ferramentas de IA musical e como elas funcionam por trás dos panos. Você sai com clareza total de por onde começar.",
-    topicos: [
-      "Como a IA gera música hoje",
-      "Mapa das principais ferramentas (Suno, Udio e mais)",
-      "Montando seu setup gratuito ou de baixo custo",
-    ],
+      "A ideia primeiro. A partir de um tema simples você cria a base sobre a qual a música nasce.",
   },
   {
     numero: "02",
-    titulo: "Da ideia ao prompt perfeito",
+    titulo: 'A letra "de cabeça", com o Google Docs',
     descricao:
-      "O segredo de músicas boas com IA está no prompt. Aprenda a descrever estilo, instrumentos, clima e estrutura para obter resultados profissionais.",
-    topicos: [
-      "Anatomia de um prompt musical",
-      "Controlando gênero, andamento e emoção",
-      "Escrevendo letras que a IA canta bem",
-    ],
+      "Meu método de escrever uma música inteira só com a sua mente e uma ferramenta gratuita.",
   },
   {
     numero: "03",
-    titulo: "Produção e refinamento",
+    titulo: "Metade você, metade inteligência artificial",
     descricao:
-      "Transforme a saída bruta da IA em uma faixa coesa: cortes, transições, mixagem básica e camadas para dar identidade à sua música.",
-    topicos: [
-      "Editando e remontando trechos",
-      "Mixagem essencial para iniciantes",
-      "Combinando IA com gravações reais",
-    ],
+      "Você dá a alma e a história, a IA ajuda na forma. O equilíbrio que destrava qualquer pessoa.",
   },
   {
     numero: "04",
-    titulo: "Publicação e monetização",
+    titulo: "A IA criando dezenas de músicas para você",
     descricao:
-      "Coloque suas músicas no mundo: distribuição em Spotify e demais plataformas, direitos autorais e formas reais de ganhar com isso.",
-    topicos: [
-      "Distribuindo nas plataformas de streaming",
-      "Direitos autorais e uso comercial de IA",
-      "Caminhos para monetizar suas faixas",
-    ],
-  },
-];
-
-/** Benefícios / diferenciais do curso. */
-export const BENEFICIOS = [
-  {
-    titulo: "Do zero, sem teoria musical",
-    descricao:
-      "Você não precisa saber tocar nenhum instrumento nem ler partitura. O caminho é prático desde a primeira aula.",
-  },
-  {
-    titulo: "100% prático e atualizado",
-    descricao:
-      "Aulas curtas e diretas, sempre com as ferramentas mais atuais do mercado de IA musical.",
-  },
-  {
-    titulo: "Acesso vitalício",
-    descricao:
-      "Estude no seu ritmo, quando e quantas vezes quiser, incluindo todas as atualizações futuras.",
-  },
-  {
-    titulo: "Comunidade e suporte",
-    descricao:
-      "Tire dúvidas e troque experiências com outros alunos que estão na mesma jornada.",
-  },
-  {
-    titulo: "Certificado de conclusão",
-    descricao:
-      "Receba um certificado ao finalizar o curso para comprovar seu novo conhecimento.",
-  },
-  {
-    titulo: "Garantia incondicional",
-    descricao:
-      "Experimente sem risco. Se não for para você, devolvemos 100% do valor.",
-  },
-];
-
-/** Depoimentos de alunos. Substitua pelos seus reais. */
-export const DEPOIMENTOS = [
-  {
-    nome: "Marina Alves",
-    papel: "Criadora de conteúdo",
-    texto:
-      "Eu nunca tinha feito música na vida. Em uma semana já tinha minha primeira faixa publicada no Spotify. Surreal!",
-  },
-  {
-    nome: "Rafael Souza",
-    papel: "Empreendedor",
-    texto:
-      "Uso as músicas que crio nos meus vídeos e anúncios. Economizei uma fortuna em trilhas e o resultado ficou profissional.",
-  },
-  {
-    nome: "Juliana Lima",
-    papel: "Professora de música",
-    texto:
-      "Mesmo já sendo da área, a IA abriu um mundo novo pra mim. O curso é didático e direto ao ponto.",
+      "Quando quer escala: a inteligência artificial gera músicas completas a partir do seu direcionamento — sem perder o toque pessoal.",
+    destaque: true,
   },
 ];
 
 /** Perguntas frequentes. */
 export const FAQ = [
   {
-    pergunta: "Preciso saber tocar algum instrumento ou ter conhecimento musical?",
+    pergunta: "Preciso saber tocar algum instrumento?",
     resposta:
-      "Não. O curso foi desenhado para iniciantes absolutos. A IA cuida da parte técnica e você aprende a guiá-la para obter o resultado que quer.",
+      "Não. O curso foi feito para quem entra sabendo zero. Você usa a sua história e ferramentas simples.",
   },
   {
-    pergunta: "Preciso de um computador potente?",
+    pergunta: "A música precisa ser religiosa?",
     resposta:
-      "Não. A maior parte das ferramentas roda no navegador. Você consegue acompanhar até pelo celular na maioria das etapas.",
+      "Não. Serve para qualquer presente: aniversário, Dia das Mães, homenagem a um amigo ou à sua igreja. Você escolhe o tema.",
   },
   {
-    pergunta: "As ferramentas de IA são pagas?",
+    pergunta: "Vou realmente sair com uma música pronta?",
     resposta:
-      "Há ótimas opções gratuitas para começar, e mostramos quando vale a pena investir em planos pagos. Você não precisa gastar nada para fazer suas primeiras músicas.",
+      "Sim. As 3 horas são pensadas para você terminar com uma música criada do começo ao fim, com o método aplicado em tempo real.",
   },
   {
-    pergunta: "Por quanto tempo tenho acesso ao curso?",
+    pergunta: "Preciso de equipamento ou programas caros?",
     resposta:
-      "O acesso é vitalício. Você assiste no seu ritmo e recebe todas as atualizações futuras sem pagar nada a mais.",
-  },
-  {
-    pergunta: "Posso vender ou monetizar as músicas que criar?",
-    resposta:
-      "Sim, e tem um módulo inteiro sobre isso: distribuição, direitos autorais e formas de monetização.",
-  },
-  {
-    pergunta: "E se eu não gostar do curso?",
-    resposta:
-      "Você tem 7 dias de garantia incondicional. Se não for para você, basta pedir o reembolso integral, sem burocracia.",
+      "Não. Usamos ferramentas gratuitas ou acessíveis, como o Google Docs e inteligência artificial. Um computador ou celular já basta.",
   },
 ];
