@@ -43,20 +43,20 @@ export const site = {
   // ── Instrutor ───────────────────────────────────────────────
   instrutor: {
     nome: "Fábio Pantoja",
-    titulo: "Criador do Método Pantoja e do projeto Escritura Cantada",
-    bio: "Criei um método próprio de transformar histórias, versículos e memórias em música — e o apliquei no projeto Escritura Cantada, com mais de 10 canções inspiradas na Bíblia. Quando compus a música dos 10 anos da minha igreja e vi a reação das pessoas, percebi que esse método podia estar nas mãos de qualquer um. Este curso nasceu disso.",
+    titulo: "Criador do Método Pantoja e do projeto A Escritura Cantada",
+    bio: "Eu já criei centenas de músicas. Fiz para a minha mãe nos 70 anos dela, fiz para a minha irmã — que se emocionou —, fiz para a pequena Sofia, que passou a pedir para ouvir a “música dela” todo dia. E criei o projeto A Escritura Cantada, transformando os Salmos e a Palavra em canção. Foi vendo a reação das pessoas que eu entendi uma coisa: o segredo não é a inteligência artificial — é o jeito de conduzir ela. Eu reviso, eu refino, eu mentalizo a música como se já estivesse cantando, crio repetições que dão alma à letra. Isso a IA não faz sozinha. É exatamente esse método que eu te ensino aqui.",
   },
 
   // ── Projeto-prova: Escritura Cantada ────────────────────────
   escrituraCantada: {
-    titulo: "Escritura Cantada",
-    subtitulo: "10 músicas inspiradas na Bíblia",
+    titulo: "A Escritura Cantada",
+    subtitulo: "Os Salmos e a Palavra transformados em canção",
     link: "https://a-escritura-cantada.vercel.app/",
-    // Algumas faixas de amostra (edite/atualize com as reais)
+    // Faixas reais do projeto. Adicione mais conforme o site da Escritura Cantada.
     faixas: [
-      { nome: "Salmo do Caminho", duracao: "3:24" },
-      { nome: "Graça que me Encontrou", duracao: "4:01" },
-      { nome: "Luz nas Sombras", duracao: "2:58" },
+      { nome: "Salmo 1" },
+      { nome: "Salmo 8" },
+      { nome: "Salmo 18" },
     ],
   },
 
@@ -109,27 +109,27 @@ export const OCASIOES = [
 export const METODO = [
   {
     numero: "01",
-    titulo: "O tema e a base instrumental",
+    titulo: "Comece pela emoção, não pela técnica",
     descricao:
-      "A ideia primeiro. A partir de um tema simples você cria a base sobre a qual a música nasce.",
+      "Tudo nasce de uma ideia simples e verdadeira — um nome, uma história, um sentimento. É daí que sai uma música que toca de verdade.",
   },
   {
     numero: "02",
-    titulo: 'A letra "de cabeça", com o Google Docs',
+    titulo: "A letra que vem de você",
     descricao:
-      "Meu método de escrever uma música inteira só com a sua mente e uma ferramenta gratuita.",
+      "Meu jeito de transformar o que você sente em letra — sem depender de talento musical, com ferramentas que qualquer pessoa já tem na mão.",
   },
   {
     numero: "03",
     titulo: "Metade você, metade inteligência artificial",
     descricao:
-      "Você dá a alma e a história, a IA ajuda na forma. O equilíbrio que destrava qualquer pessoa.",
+      "Você dá a alma e a história; a IA ajuda na forma. É o equilíbrio que destrava qualquer pessoa — e o ponto exato onde a maioria erra, deixando a IA fazer tudo sozinha.",
   },
   {
     numero: "04",
-    titulo: "A IA criando dezenas de músicas para você",
+    titulo: "A inteligência artificial trabalhando no seu comando",
     descricao:
-      "Quando quer escala: a inteligência artificial gera músicas completas a partir do seu direcionamento — sem perder o toque pessoal.",
+      "Quando você quer ir além: a IA gera músicas completas a partir do seu direcionamento — sempre conduzida por você, nunca solta. É aí que mora o toque que ninguém copia.",
     destaque: true,
   },
 ];
@@ -140,6 +140,11 @@ export const FAQ = [
     pergunta: "Preciso saber tocar algum instrumento?",
     resposta:
       "Não. O curso foi feito para quem entra sabendo zero. Você usa a sua história e ferramentas simples.",
+  },
+  {
+    pergunta: "Preciso ter voz boa ou saber cantar?",
+    resposta:
+      "Não precisa cantar nada. Quem canta é a inteligência artificial. Você traz a história e a emoção — a voz e a melodia ficam por conta da ferramenta.",
   },
   {
     pergunta: "A música precisa ser religiosa?",
