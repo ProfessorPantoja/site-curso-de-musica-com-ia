@@ -6,20 +6,23 @@ import { site, SITE_URL, FAQ } from "@/lib/site";
  * resultados de busca (rich results) e o ranqueamento.
  */
 export function JsonLd() {
+  const courseName = `${site.marca} — curso de criação musical com IA`;
+
   const data = {
     "@context": "https://schema.org",
     "@graph": [
       {
         "@type": "Organization",
         "@id": `${SITE_URL}/#organization`,
-        name: site.nome,
+        name: site.marca,
         url: SITE_URL,
         email: site.email,
+        founder: { "@type": "Person", name: site.instrutor.nome },
       },
       {
         "@type": "Course",
         "@id": `${SITE_URL}/#course`,
-        name: site.nome,
+        name: courseName,
         description: site.descricaoCurta,
         url: SITE_URL,
         inLanguage: "pt-BR",
@@ -35,7 +38,7 @@ export function JsonLd() {
         hasCourseInstance: {
           "@type": "CourseInstance",
           courseMode: "online",
-          courseWorkload: "PT20H",
+          courseWorkload: "PT3H",
           instructor: {
             "@type": "Person",
             name: site.instrutor.nome,

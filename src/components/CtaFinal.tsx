@@ -3,32 +3,22 @@ import { Reveal } from "@/components/ui/Reveal";
 
 export function CtaFinal() {
   return (
-    <section className="mx-auto max-w-5xl px-5 py-24">
+    <section className="bg-background px-6 py-20 text-center sm:py-24">
       <Reveal>
-        <div className="relative overflow-hidden rounded-3xl border border-border bg-gradient-to-br from-primary/20 via-card/80 to-accent/10 p-10 text-center backdrop-blur-md sm:p-16">
-          <div
-            aria-hidden
-            className="pointer-events-none absolute -left-16 top-0 h-64 w-64 animate-aurora rounded-full bg-pink/20 blur-3xl"
-          />
-          <div
-            aria-hidden
-            className="pointer-events-none absolute -right-16 bottom-0 h-64 w-64 animate-aurora rounded-full bg-accent/20 blur-3xl [animation-delay:-8s]"
-          />
-          <div className="relative">
-            <h2 className="text-balance text-3xl font-bold tracking-tight sm:text-4xl">
-              A sua próxima música começa agora
-            </h2>
-            <p className="mx-auto mt-4 max-w-xl text-muted">
-              Pare de adiar a ideia que está na sua cabeça. Em poucos dias você
-              pode ter sua primeira faixa pronta para o mundo ouvir.
-            </p>
-            <a
-              href={site.oferta.linkCheckout}
-              className="btn-glow mt-8 inline-block rounded-full bg-primary px-8 py-4 text-base font-semibold text-primary-foreground shadow-xl shadow-primary/30 transition-transform hover:scale-105"
-            >
-              Quero criar minhas músicas — {site.oferta.precoPor}
-            </a>
-          </div>
+        <div className="mx-auto max-w-2xl">
+          <h2 className="font-serif text-3xl font-medium leading-tight text-ink sm:text-[2.8rem]">
+            Alguém que você ama merece ouvir isso.
+          </h2>
+          <p className="mx-auto mt-5 max-w-xl text-lg leading-relaxed text-muted">
+            Daqui a {site.oferta.duracao}, você pode ter criado a música. Daqui a
+            uma vida, ela ainda vai estar tocando o coração de quem a recebeu.
+          </p>
+          <a
+            href={site.oferta.linkCheckout}
+            className="mt-8 inline-flex items-center gap-2.5 rounded-full bg-terra px-10 py-4 text-[17px] font-extrabold text-white shadow-[0_14px_30px_rgba(217,154,108,0.4)] transition-transform hover:-translate-y-0.5 hover:brightness-[1.04]"
+          >
+            Quero criar minha música <span aria-hidden>→</span>
+          </a>
         </div>
       </Reveal>
     </section>

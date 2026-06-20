@@ -1,65 +1,38 @@
-"use client";
-
-import { useState } from "react";
 import { FAQ } from "@/lib/site";
+import { Reveal } from "@/components/ui/Reveal";
 
 export function Faq() {
-  const [aberto, setAberto] = useState<number | null>(0);
-
   return (
-    <section id="faq" className="mx-auto max-w-3xl scroll-mt-20 px-5 py-24">
-      <div className="mx-auto max-w-2xl text-center">
-        <h2 className="text-3xl font-bold tracking-tight sm:text-4xl">
-          Perguntas frequentes
-        </h2>
-        <p className="mt-4 text-muted">
-          Ainda com dúvidas? Aqui estão as respostas mais comuns.
-        </p>
-      </div>
+    <section id="faq" className="bg-beige-2 px-6 py-20 sm:py-24">
+      <div className="mx-auto max-w-3xl">
+        <Reveal>
+          <div className="mb-10 text-center">
+            <span className="text-xs font-extrabold uppercase tracking-[0.18em] text-terra-deep">
+              Dúvidas comuns
+            </span>
+            <h2 className="mt-3 font-serif text-3xl font-medium text-ink sm:text-[2.3rem]">
+              Antes de você decidir
+            </h2>
+          </div>
+        </Reveal>
 
-      <div className="mt-12 space-y-3">
-        {FAQ.map((item, i) => {
-          const ativo = aberto === i;
-          return (
-            <div
-              key={item.pergunta}
-              className={`overflow-hidden rounded-2xl border bg-card/70 backdrop-blur-sm transition-colors duration-300 ${
-                ativo ? "border-primary/50" : "border-border"
-              }`}
-            >
-              <button
-                type="button"
-                onClick={() => setAberto(ativo ? null : i)}
-                aria-expanded={ativo}
-                className="flex w-full items-center justify-between gap-4 px-6 py-5 text-left font-medium"
-              >
-                {item.pergunta}
-                <span
-                  aria-hidden
-                  className={`shrink-0 text-xl text-accent transition-transform duration-300 ${
-                    ativo ? "rotate-45" : ""
-                  }`}
-                >
-                  +
-                </span>
-              </button>
-              {/* transição de altura suave via grid-rows */}
-              <div
-                className={`grid transition-all duration-300 ease-out ${
-                  ativo
-                    ? "grid-rows-[1fr] opacity-100"
-                    : "grid-rows-[0fr] opacity-0"
-                }`}
-              >
-                <div className="overflow-hidden">
-                  <p className="px-6 pb-5 text-pretty text-muted">
-                    {item.resposta}
-                  </p>
-                </div>
-              </div>
-            </div>
-          );
-        })}
+        <div className="flex flex-col gap-3">
+          {FAQ.map((item, i) => (
+            <Reveal key={item.pergunta} delay={i * 60}>
+              <details className="group rounded-2xl border border-border bg-card px-6 [&_summary]:list-none">
+                <summary className="flex cursor-pointer items-center justify-between gap-4 py-5 font-serif text-[18.5px] font-semibold text-ink">
+                  {item.pergunta}
+                  <span className="text-2xl text-terra transition-transform duration-300 group-open:rotate-45">
+                    ＋
+                  </span>
+                </summary>
+                <p className="pb-5 text-[15.5px] leading-relaxed text-muted">
+                  {item.resposta}
+                </p>
+              </details>
+            </Reveal>
+          ))}
+        </div>
       </div>
     </section>
   );

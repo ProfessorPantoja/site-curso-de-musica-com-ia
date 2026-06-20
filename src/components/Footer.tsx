@@ -5,41 +5,32 @@ export function Footer() {
   const social = Object.entries(site.social).filter(([, url]) => url);
 
   return (
-    <footer className="mt-auto border-t border-border/60 bg-card/30">
-      <div className="mx-auto max-w-6xl px-5 py-12">
-        <div className="flex flex-col items-center justify-between gap-6 sm:flex-row">
-          <div className="flex items-center gap-2 font-bold">
-            <span aria-hidden className="text-xl">🎵</span>
-            {site.nome}
-          </div>
-
-          <div className="flex flex-col items-center gap-1 text-sm text-muted sm:items-end">
-            <a
-              href={`mailto:${site.email}`}
-              className="transition-colors hover:text-foreground"
-            >
-              {site.email}
-            </a>
-            {social.length > 0 && (
-              <div className="mt-2 flex gap-4">
-                {social.map(([rede, url]) => (
-                  <a
-                    key={rede}
-                    href={url}
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    className="capitalize transition-colors hover:text-foreground"
-                  >
-                    {rede}
-                  </a>
-                ))}
-              </div>
-            )}
-          </div>
+    <footer className="mt-auto bg-navy-deep px-6 py-10 text-[#aebbd0]">
+      <div className="mx-auto flex max-w-6xl flex-wrap items-center justify-between gap-5">
+        <div className="flex items-center gap-3">
+          <span className="flex h-8 w-8 items-center justify-center rounded-full bg-terra font-serif text-[15px] text-white">
+            ♪
+          </span>
+          <span className="font-serif text-base font-semibold text-[#eef2f8]">
+            {site.marca}
+          </span>
         </div>
 
-        <div className="mt-8 border-t border-border/60 pt-6 text-center text-xs text-muted">
-          © {ano} {site.nome}. Todos os direitos reservados.
+        <div className="flex flex-wrap items-center gap-4 text-[13px]">
+          {social.map(([rede, url]) => (
+            <a
+              key={rede}
+              href={url}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="capitalize transition-colors hover:text-white"
+            >
+              {rede}
+            </a>
+          ))}
+          <span>
+            © {ano} {site.instrutor.nome} · Curso intensivo de criação musical
+          </span>
         </div>
       </div>
     </footer>
