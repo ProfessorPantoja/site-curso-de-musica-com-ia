@@ -19,8 +19,9 @@ export function Story() {
           <span className="mx-auto mt-6 block max-w-2xl text-lg leading-relaxed text-[#c3cee0]">
             O problema nunca foi falta de amor — foi não saber por onde começar.
             Você sente o que quer dizer, mas não sabe transformar isso em uma
-            canção. É exatamente essa ponte que o curso constrói com você, em uma
-            única tarde.
+            canção. E eu te garanto: quando uma letra verdadeira vira música, o
+            resultado é algo incrível. É exatamente essa ponte que o curso
+            constrói com você, em uma única tarde.
           </span>
         </Reveal>
       </div>

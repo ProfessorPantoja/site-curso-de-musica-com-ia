@@ -15,8 +15,10 @@ export function Metodo() {
               mãos.
             </h2>
             <p className="mt-4 text-lg leading-relaxed text-muted">
-              Cada degrau já entrega uma música pronta. Você sobe até onde se
-              sentir confortável — do totalmente seu ao quase mágico com a IA.
+              Cada degrau já entrega uma música pronta — você sobe até onde se
+              sentir confortável. E em todos eles está o que faz a diferença: o
+              toque humano que a inteligência artificial não consegue dar
+              sozinha.
             </p>
           </div>
         </Reveal>

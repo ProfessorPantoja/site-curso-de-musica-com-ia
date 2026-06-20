@@ -14,12 +14,13 @@ export function Prova() {
               A prova viva do método
             </span>
             <h2 className="mt-3 font-serif text-3xl font-medium leading-tight text-ink sm:text-[2.3rem]">
-              {ec.titulo}: 10 músicas que nasceram deste mesmo método.
+              {ec.titulo}: um projeto inteiro nascido deste mesmo método.
             </h2>
             <p className="mt-4 text-[16.5px] leading-relaxed text-muted">
-              No projeto {ec.titulo} eu transformei salmos e passagens da Bíblia
-              em canções. Tudo com o método que você vai aprender. Não é teoria —
-              é algo que já tocou muita gente.
+              Em {ec.titulo} eu transformei os Salmos e passagens da Bíblia em
+              canção — tudo com o método que você vai aprender. Não é teoria: são
+              músicas reais, que você pode ouvir agora e que já emocionaram muita
+              gente.
             </p>
             <a
               href={ec.link}
@@ -61,8 +62,8 @@ export function Prova() {
                 <span className="flex-1 text-[15px] font-semibold text-[#43403a]">
                   {faixa.nome}
                 </span>
-                <span className="font-serif text-xs text-[#a09889]">
-                  {faixa.duracao}
+                <span className="font-serif text-xs text-[#a09889]" aria-hidden>
+                  ♪
                 </span>
               </div>
             ))}
