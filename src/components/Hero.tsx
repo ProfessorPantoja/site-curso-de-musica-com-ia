@@ -27,15 +27,28 @@ export function Hero() {
 
           <Reveal delay={160} as="p">
             <span className="mt-6 block max-w-xl text-lg leading-relaxed text-muted">
-              Em uma única tarde, do zero, você aprende o{" "}
-              <strong className="font-bold text-navy">{site.marca}</strong> e sai
-              com um presente pronto — para a sua mãe, seu pai, um amigo ou a sua
-              igreja. Sem saber teoria, sem instrumento, com a ajuda da
-              inteligência artificial.
+              Na era da inteligência artificial, eu virei produtor musical — e em
+              uma única tarde, do zero, você também vai virar. Com o{" "}
+              <strong className="font-bold text-navy">{site.marca}</strong>, você
+              sai com um presente pronto para a sua mãe, seu pai, um amigo ou a
+              sua igreja. Sem teoria, sem instrumento, sem precisar cantar.
             </span>
           </Reveal>
 
-          <Reveal delay={240}>
+          <Reveal delay={200}>
+            <div className="mt-7 flex items-center gap-3.5 rounded-2xl border-[1.5px] border-terra/45 bg-beige px-5 py-4">
+              <span className="flex h-10 w-10 shrink-0 items-center justify-center rounded-xl bg-terra text-xl text-white">
+                📋
+              </span>
+              <p className="text-[15.5px] font-bold leading-snug text-ink">
+                Você leva o{" "}
+                <span className="text-terra-deep">método exato do Pantoja</span>{" "}
+                — é só copiar, colar e seguir.
+              </p>
+            </div>
+          </Reveal>
+
+          <Reveal delay={280}>
             <div className="mt-8 flex flex-col gap-3.5 sm:flex-row sm:flex-wrap">
               <a
                 href={site.oferta.linkCheckout}
