@@ -1,4 +1,4 @@
-import { site } from "@/lib/site";
+import { site, checkoutLinkProps } from "@/lib/site";
 import { Reveal } from "@/components/ui/Reveal";
 
 export function Oferta() {
@@ -33,7 +33,7 @@ export function Oferta() {
                 {o.formaPagamento}
               </div>
               <a
-                href={o.linkCheckout}
+                {...checkoutLinkProps}
                 className="mt-6 flex items-center justify-center gap-2.5 rounded-full bg-terra py-4 text-[17px] font-extrabold text-white shadow-[0_14px_30px_rgba(217,154,108,0.4)] transition-transform hover:-translate-y-0.5 hover:brightness-[1.04]"
               >
                 Quero garantir minha vaga <span aria-hidden>→</span>
@@ -54,7 +54,7 @@ export function Oferta() {
                 garantir sua vaga.
               </p>
               <a
-                href={o.linkCheckout}
+                {...checkoutLinkProps}
                 className="mt-6 flex items-center justify-center gap-2.5 rounded-full bg-terra py-4 text-[17px] font-extrabold text-white transition-transform hover:-translate-y-0.5 hover:brightness-[1.04]"
               >
                 Quero saber o valor e a data <span aria-hidden>→</span>

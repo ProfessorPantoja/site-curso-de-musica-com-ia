@@ -34,9 +34,11 @@ export const site = {
     precoNumeroInteiro: "97",
     precoNumerico: "97.00", // usado no SEO (structured data)
     moeda: "BRL",
-    formaPagamento: "à vista no Pix · valor de lançamento",
-    // Cole aqui o link do seu checkout (Pix, Hotmart, Kiwify...)
-    linkCheckout: "#oferta",
+    formaPagamento: "à vista no Pix · ou em até 12x no cartão",
+    // ⬇️ LINK DO CHECKOUT DA KIWIFY. Troque aqui se mudar de produto/oferta.
+    // URL "https://..." → todos os botões viram compra e abrem em nova aba.
+    // (Para voltar a só rolar até o preço, use "#oferta".)
+    linkCheckout: "https://pay.kiwify.com.br/6RBV7e9",
     duracao: "3 horas",
   },
 
@@ -67,6 +69,20 @@ export const site = {
     tiktok: "",
   },
 } as const;
+
+/**
+ * Props prontas para todos os botões de compra do site.
+ * - Se `linkCheckout` for uma URL externa (Kiwify), abre em NOVA ABA.
+ * - Se for uma âncora interna (`#oferta`), navega na própria página.
+ * Use com spread: <a {...checkoutLinkProps} className="...">…</a>
+ */
+export const checkoutLinkProps = site.oferta.linkCheckout.startsWith("http")
+  ? {
+      href: site.oferta.linkCheckout,
+      target: "_blank" as const,
+      rel: "noopener noreferrer",
+    }
+  : { href: site.oferta.linkCheckout };
 
 /** Palavras-chave para SEO. Ajuste conforme sua pesquisa de termos. */
 export const SEO_KEYWORDS = [

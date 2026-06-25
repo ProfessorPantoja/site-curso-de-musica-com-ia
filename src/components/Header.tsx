@@ -1,5 +1,5 @@
 import Link from "next/link";
-import { site } from "@/lib/site";
+import { site, checkoutLinkProps } from "@/lib/site";
 
 const navLinks = [
   { href: "#historia", label: "A ideia" },
@@ -36,7 +36,7 @@ export function Header() {
             </a>
           ))}
           <a
-            href={site.oferta.linkCheckout}
+            {...checkoutLinkProps}
             className="inline-flex items-center rounded-full bg-terra px-5 py-2.5 text-sm font-extrabold text-white shadow-[0_6px_18px_rgba(217,154,108,0.34)] transition-transform hover:-translate-y-0.5 hover:brightness-[1.04]"
           >
             Quero criar

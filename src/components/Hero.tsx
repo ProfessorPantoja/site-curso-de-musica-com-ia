@@ -1,4 +1,4 @@
-import { site } from "@/lib/site";
+import { site, checkoutLinkProps } from "@/lib/site";
 import { Reveal } from "@/components/ui/Reveal";
 import { ImageSlot } from "@/components/ui/ImageSlot";
 import { Equalizer } from "@/components/ui/Equalizer";
@@ -51,7 +51,7 @@ export function Hero() {
           <Reveal delay={280}>
             <div className="mt-8 flex flex-col gap-3.5 sm:flex-row sm:flex-wrap">
               <a
-                href={site.oferta.linkCheckout}
+                {...checkoutLinkProps}
                 className="inline-flex items-center justify-center gap-2 rounded-full bg-terra px-8 py-4 text-base font-extrabold text-white shadow-[0_14px_30px_rgba(217,154,108,0.36)] transition-transform hover:-translate-y-0.5 hover:brightness-[1.04]"
               >
                 Quero presentear com música <span aria-hidden>→</span>

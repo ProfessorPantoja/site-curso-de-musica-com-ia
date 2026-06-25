@@ -1,0 +1,77 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Pagamento — Próximos passos</title>
+<style>
+  :root{
+    --terra:#d99a6c; --terra-deep:#b9743f; --navy:#1f2d3d; --ink:#34342e;
+    --beige:#f6efe6; --ok:#2e8b57; --warn:#c97a2b; --line:#e6ddd0;
+  }
+  *{box-sizing:border-box}
+  body{margin:0;font:16px/1.6 -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif;
+    color:var(--ink);background:#faf7f2;padding:32px 18px}
+  .wrap{max-width:860px;margin:0 auto}
+  h1{font-size:1.9rem;color:var(--navy);margin:0 0 4px}
+  .sub{color:#7a746a;margin:0 0 28px;font-weight:600}
+  .card{background:#fff;border:1px solid var(--line);border-radius:16px;padding:20px 22px;margin:0 0 18px;
+    box-shadow:0 10px 26px rgba(52,52,46,.06)}
+  .card h2{margin:0 0 12px;font-size:1.15rem;display:flex;align-items:center;gap:10px}
+  .tag{font-size:.72rem;font-weight:800;text-transform:uppercase;letter-spacing:.08em;
+    padding:3px 10px;border-radius:999px;color:#fff}
+  .t-now{background:var(--terra-deep)} .t-done{background:var(--ok)} .t-next{background:var(--navy)} .t-later{background:#9b9486}
+  ul{margin:8px 0 0;padding-left:20px} li{margin:6px 0}
+  code{background:var(--beige);padding:2px 7px;border-radius:6px;font-size:.86em;color:var(--terra-deep);font-weight:700}
+  .done li{color:#5c6b5f}
+  .hl{background:#fff6ec;border-left:4px solid var(--terra);padding:12px 16px;border-radius:8px;margin-top:10px}
+  .foot{color:#a09889;font-size:.85rem;text-align:center;margin-top:26px}
+  b{color:var(--navy)}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <h1>🎵 Link de pagamento — onde estamos</h1>
+  <p class="sub">Gateway escolhido: <b>Kiwify</b> · Curso R$ 97 · até 12x · entrega automática</p>
+
+  <div class="card">
+    <h2><span class="tag t-done">Feito ✓</span> Site na agulha pro link</h2>
+    <ul class="done">
+      <li>Criado o helper <code>checkoutLinkProps</code> em <code>src/lib/site.ts</code>: se o link for uma URL <code>https://…</code> ele <b>abre o checkout em nova aba</b> (não tira a pessoa do site); se ainda for <code>#oferta</code>, só rola até o preço.</li>
+      <li>Os <b>4 pontos de compra</b> (Header, Hero, card de Oferta, CTA final) já usam esse helper — trocar o link liga o site inteiro de uma vez.</li>
+      <li>Texto da forma de pagamento atualizado para <b>"à vista no Pix · ou em até 12x no cartão"</b> (o 12x é argumento de conversão).</li>
+      <li>Validado: <code>tsc --noEmit</code> passou sem erros.</li>
+    </ul>
+  </div>
+
+  <div class="card">
+    <h2><span class="tag t-now">Agora — sua vez</span> Colar a URL do checkout</h2>
+    <ul>
+      <li>Na Kiwify: abra o <b>produto do curso → Checkout</b> e copie o <b>link de pagamento</b> (algo como <code>https://pay.kiwify.com.br/XXXXXXX</code>).</li>
+      <li>Me manda essa URL aqui. Eu colo em <code>linkCheckout</code> (1 linha) e está vendendo — ou você mesmo cola, está sinalizado com um comentário no arquivo.</li>
+    </ul>
+    <div class="hl">💡 Antes de divulgar, faça <b>1 compra-teste de verdade</b> (pode pedir reembolso depois) pra confirmar: pagamento aprovado → e-mail de acesso chega → aluno cai certo na área de membros com o curso e a apostila.</div>
+  </div>
+
+  <div class="card">
+    <h2><span class="tag t-next">Próximo</span> Conversão — minhas recomendações</h2>
+    <ul>
+      <li><b>Quantos campos pedir no formulário da isca (PDF):</b> menos = mais gente baixa. Recomendo só <b>Nome + WhatsApp</b>. O WhatsApp vale mais que e-mail pra você (remarketing 1-a-1, lembrar quem não comprou). O checkout da Kiwify já captura nome/e-mail/telefone/CPF na hora do pagamento — então não precisa duplicar isso na landing.</li>
+      <li><b>PDF como isca:</b> ótima jogada — dá autoridade e o "gostinho" de já estar aprendendo. Botão pra baixar na landing, em troca do contato. Isso vira tarefa de site quando voltarmos a lapidar.</li>
+      <li><b>Recuperação:</b> ative na Kiwify o <b>carrinho abandonado / Pix não pago</b> — recupera venda no automático.</li>
+    </ul>
+  </div>
+
+  <div class="card">
+    <h2><span class="tag t-later">Backlog</span> Pendências de site (depois do pagamento)</h2>
+    <ul>
+      <li>Implementar a captura do lead + download do PDF na landing.</li>
+      <li>Corrigir o aviso de lint pré-existente em <code>src/components/ui/Reveal.tsx</code> (<code>setState</code> dentro de <code>useEffect</code>) — não atrapalha o pagamento, mas fica anotado.</li>
+      <li>Preencher dados reais: <code>whatsapp</code> e <code>email</code> de contato ainda estão com placeholder em <code>site.ts</code>.</li>
+    </ul>
+  </div>
+
+  <p class="foot">Gerado em 24/06/2026 · Método Pantoja</p>
+</div>
+</body>
+</html>
