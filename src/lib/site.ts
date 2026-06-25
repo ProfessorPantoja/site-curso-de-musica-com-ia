@@ -54,11 +54,13 @@ export const site = {
     titulo: "A Escritura Cantada",
     subtitulo: "Os Salmos e a Palavra transformados em canção",
     link: "https://a-escritura-cantada.vercel.app/",
-    // Faixas reais do projeto. Adicione mais conforme o site da Escritura Cantada.
+    // Faixas tocáveis no player. O `src` aponta para /public/songs.
+    // Para trocar/adicionar: copie o MP3 em public/songs e ajuste aqui.
     faixas: [
-      { nome: "Salmo 1" },
-      { nome: "Salmo 8" },
-      { nome: "Salmo 18" },
+      { nome: "Salmo 7 — A Armadilha", src: "/songs/salmo-07.mp3" },
+      { nome: "Salmo 18 — O Meu Rochedo", src: "/songs/salmo-18.mp3" },
+      { nome: "Salmo 47 — Rei Sobre Toda a Terra", src: "/songs/salmo-47.mp3" },
+      { nome: "Salmo 148 — Louvai Desde os Céus", src: "/songs/salmo-148.mp3" },
     ],
   },
 

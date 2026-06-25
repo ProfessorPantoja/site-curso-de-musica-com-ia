@@ -2,6 +2,8 @@ import type { Metadata } from "next";
 import { Newsreader, Mulish } from "next/font/google";
 import "./globals.css";
 import { site, SITE_URL, SEO_KEYWORDS } from "@/lib/site";
+import { PlayerProvider } from "@/components/player/PlayerProvider";
+import { PlayerBar } from "@/components/player/PlayerBar";
 
 const mulish = Mulish({
   variable: "--font-sans",
@@ -70,7 +72,10 @@ export default function RootLayout({
       className={`${mulish.variable} ${newsreader.variable} h-full antialiased`}
     >
       <body className="min-h-full flex flex-col bg-background text-foreground">
-        {children}
+        <PlayerProvider>
+          {children}
+          <PlayerBar />
+        </PlayerProvider>
       </body>
     </html>
   );

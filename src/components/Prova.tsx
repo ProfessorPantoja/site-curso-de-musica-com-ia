@@ -1,6 +1,7 @@
 import { site } from "@/lib/site";
 import { Reveal } from "@/components/ui/Reveal";
 import { Equalizer } from "@/components/ui/Equalizer";
+import { PlayableTrack } from "@/components/player/PlayableTrack";
 
 export function Prova() {
   const ec = site.escrituraCantada;
@@ -19,8 +20,8 @@ export function Prova() {
             <p className="mt-4 text-[16.5px] leading-relaxed text-muted">
               Em {ec.titulo} eu transformei os Salmos e passagens da Bíblia em
               canção — tudo com o método que você vai aprender. Não é teoria: são
-              músicas reais, que você pode ouvir agora e que já emocionaram muita
-              gente.
+              músicas reais, que você pode ouvir agora — é só tocar play — e que
+              já emocionaram muita gente.
             </p>
             <a
               href={ec.link}
@@ -28,7 +29,7 @@ export function Prova() {
               rel="noopener noreferrer"
               className="mt-6 inline-flex items-center gap-2 text-[15.5px] font-extrabold text-navy transition-colors hover:text-terra"
             >
-              Ouvir as músicas no site <span aria-hidden>→</span>
+              Conhecer o projeto completo <span aria-hidden>→</span>
             </a>
           </div>
         </Reveal>
@@ -52,20 +53,7 @@ export function Prova() {
             </div>
 
             {ec.faixas.map((faixa) => (
-              <div
-                key={faixa.nome}
-                className="flex items-center gap-3.5 border-t border-line py-3"
-              >
-                <span className="flex h-8 w-8 shrink-0 items-center justify-center rounded-full bg-beige text-[11px] text-terra-deep">
-                  ▶
-                </span>
-                <span className="flex-1 text-[15px] font-semibold text-[#43403a]">
-                  {faixa.nome}
-                </span>
-                <span className="font-serif text-xs text-[#a09889]" aria-hidden>
-                  ♪
-                </span>
-              </div>
+              <PlayableTrack key={faixa.src} nome={faixa.nome} src={faixa.src} />
             ))}
 
             <a
@@ -74,7 +62,7 @@ export function Prova() {
               rel="noopener noreferrer"
               className="flex items-center justify-center gap-2 border-t border-line pt-4 text-sm font-extrabold text-navy transition-colors hover:text-terra"
             >
-              Ouvir todas <span aria-hidden>→</span>
+              Ver o projeto completo <span aria-hidden>→</span>
             </a>
           </div>
         </Reveal>
