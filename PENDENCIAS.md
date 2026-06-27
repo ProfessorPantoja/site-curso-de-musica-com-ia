@@ -27,4 +27,19 @@
 
 > Vou colando aqui o que você for falando, e transformando em itens acima.
 
-_(vazio por enquanto)_
+### 🎯 Rodada 1 — Topo + Hero (aguardando "pode fazer")
+
+**TOPO (barra fixa / Header)**
+- [ ] **1. Essência no topo** — trocar "Música feita com amor" por **"Crie uma música pra quem você ama"** (opção A). O topo precisa comunicar a essência para público **frio**, não depender do nome do Pantoja.
+- [ ] **2. Botão do topo = "Comprar"** — curto, direto, sempre visível ao rolar (botão de compra persistente). Substitui o atual "Quero criar".
+- [ ] **3. Ícone ♪** — provisório; Pantoja decide depois. *(pendência dele, não mexer)*
+
+**HERO**
+- [ ] **4. Remover o selo "Curso intensivo · 3 horas · do zero"** — genérico, desperdício. Ninguém quer "curso" nem "3h"; foco em **resultado + emoção** (ver quem ela ama feliz/emocionado).
+- [ ] **5. Reescrever a copy do Hero** com persuasão de altíssimo nível, palavras milimétricas, zero desperdício de espaço. Nível "melhores copywriters do mundo".
+- [ ] **6. CTA principal** — "Quero presentear com música" → **"Quero presentear quem eu amo com uma música"** (pode ser grande).
+
+**GERAL**
+- [ ] **7. Animações** — estão fracas. Reforçar efeitos, com destaque chamativo nos **botões de compra** e tudo ligado a comprar.
+
+> Regra reforçada: marcar TUDO que o Pantoja falar (destacado) e sempre devolver um resumo.
