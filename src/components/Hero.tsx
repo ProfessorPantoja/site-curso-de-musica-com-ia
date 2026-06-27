@@ -70,10 +70,12 @@ export function Hero() {
           <Reveal delay={320}>
             <div className="mt-7 flex flex-wrap items-center gap-x-6 gap-y-2 text-sm font-semibold text-soft">
               <span className="inline-flex items-center gap-2">
-                <span className="text-terra">✦</span> Sem experiência nenhuma
+                <span className="text-terra">✦</span> Em poucos minutos você cria
+                sua primeira música
               </span>
               <span className="inline-flex items-center gap-2">
-                <span className="text-terra">✦</span> Você sai com a música pronta
+                <span className="text-terra">✦</span> Sem experiência nenhuma — nem
+                em música, nem em IA
               </span>
             </div>
           </Reveal>
