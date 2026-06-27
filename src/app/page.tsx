@@ -7,6 +7,7 @@ import { Prova } from "@/components/Prova";
 import { Oferta } from "@/components/Oferta";
 import { Sobre } from "@/components/Sobre";
 import { Faq } from "@/components/Faq";
+import { CapturaLead } from "@/components/CapturaLead";
 import { CtaFinal } from "@/components/CtaFinal";
 import { Footer } from "@/components/Footer";
 import { JsonLd } from "@/components/JsonLd";
@@ -25,6 +26,7 @@ export default function Home() {
         <Oferta />
         <Sobre />
         <Faq />
+        <CapturaLead />
         <CtaFinal />
       </main>
       <Footer />

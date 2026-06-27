@@ -42,6 +42,24 @@ export const site = {
     duracao: "3 horas",
   },
 
+  // ── Isca / captura de leads (PDF gratuito) ──────────────────
+  // Formulário pede só Nome + WhatsApp e entrega o PDF na hora.
+  // Os contatos vão para a sua planilha (veja docs/configurar-planilha-leads.html).
+  leadMagnet: {
+    ativo: true, // mude para false para esconder a seção inteira
+    selo: "Amostra gratuita",
+    titulo: "Leve um aperitivo do Método — de graça",
+    subtitulo:
+      "Deixe seu nome e WhatsApp e baixe agora o guia em PDF com o primeiro passo do Método Pantoja. Direto ao ponto, sem enrolação.",
+    textoBotao: "Quero o PDF gratuito",
+    // ⬇️ Caminho do PDF dentro de /public. Troque pelo arquivo final.
+    arquivoPdf: "/iscas/metodo-pantoja-amostra.pdf",
+    // Tela exibida depois que o cadastro dá certo:
+    sucessoTitulo: "Prontinho! Seu PDF está liberado 🎉",
+    sucessoTexto: "Coloquei seu nome na lista. Baixe agora e já comece a praticar.",
+    textoDownload: "Baixar o PDF agora",
+  },
+
   // ── Instrutor ───────────────────────────────────────────────
   instrutor: {
     nome: "Fábio Pantoja",

@@ -58,9 +58,8 @@
     <section class="pend">
       <h2>⏳ Próximos passos / pendências</h2>
       <ul>
-        <li><span class="data">aguarda você</span><span class="desc"><strong>PDF isca:</strong> finalizar a capa e me enviar o arquivo (vai para <code>/public</code>). Dica de capa: fazer no <b>Canva</b> (grátis, exporta PDF) e, se precisar juntar capa + miolo, usar o "Juntar PDF" do <b>iLovePDF</b>.</span></li>
-        <li><span class="data">a definir</span><span class="desc"><strong>Onde guardar os leads</strong> (nome + WhatsApp): recomendação registrada — <b>Google Sheets via Apps Script</b> (grátis, dado é seu, fácil de ler). Decidir e ligar.</span></li>
-        <li><span class="data">a fazer</span><span class="desc"><strong>Formulário de captura + download do PDF</strong> na landing (Nome + WhatsApp). Depende do PDF e do destino dos leads.</span></li>
+        <li><span class="data">aguarda você</span><span class="desc"><strong>PDF isca:</strong> finalizar a capa e colocar o arquivo em <code>/public/iscas/metodo-pantoja-amostra.pdf</code>. Dica de capa: fazer no <b>Canva</b> (grátis, exporta PDF) e, se precisar juntar capa + miolo, usar o "Juntar PDF" do <b>iLovePDF</b>.</span></li>
+        <li><span class="data">aguarda você</span><span class="desc"><strong>Ligar a planilha de leads:</strong> seguir <code>docs/configurar-planilha-leads.html</code> (5 min) e me mandar a URL do Apps Script para eu setar <code>LEAD_WEBHOOK_URL</code>. <em>O formulário já funciona antes disso — só não grava na planilha ainda.</em></span></li>
         <li><span class="data">na Kiwify</span><span class="desc"><strong>Ativar recuperação</strong> de carrinho abandonado / Pix não pago.</span></li>
         <li><span class="data">antes de divulgar</span><span class="desc"><strong>Compra-teste real</strong> de ponta a ponta (pagamento → e-mail de acesso → área de membros com curso + apostila).</span></li>
       </ul>
@@ -69,6 +68,7 @@
     <section>
       <h2>27/06/2026</h2>
       <ul>
+        <li><span class="data">27/06/2026</span><span class="hash">captura</span><span class="desc"><span class="tag t-feat">feat</span> <strong>Formulário de captura de leads</strong> (Nome + WhatsApp) na landing, com entrega do PDF na hora. Nova seção <code>CapturaLead</code> (entre FAQ e CTA final), route handler <code>/api/lead</code> que encaminha para a planilha do Google, e guia de configuração em <code>docs/configurar-planilha-leads.html</code>. Build/lint/tsc limpos.</span></li>
         <li><span class="data">27/06/2026</span><span class="hash">site.ts</span><span class="desc"><span class="tag t-feat">feat</span> WhatsApp de contato real preenchido (27 99268-1959) no lugar do placeholder.</span></li>
         <li><span class="data">27/06/2026</span><span class="hash">b1981cc</span><span class="desc"><span class="tag t-fix">fix</span> Removido <code>setState</code> dentro de <code>useEffect</code> no <code>Reveal</code> — único erro de lint do projeto. Classe de animação passa a ser aplicada via <code>classList</code>. Projeto agora limpo em <code>eslint</code> e <code>tsc</code>.</span></li>
       </ul>
