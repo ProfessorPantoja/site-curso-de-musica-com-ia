@@ -66,15 +66,15 @@ body {
 /* ── Reveal on scroll (sutil, combinando com o tom editorial) ── */
 .reveal {
   opacity: 0;
-  transform: translateY(22px);
+  transform: translateY(38px) scale(0.97);
   transition:
-    opacity 0.7s cubic-bezier(0.22, 1, 0.36, 1),
-    transform 0.7s cubic-bezier(0.22, 1, 0.36, 1);
+    opacity 0.85s cubic-bezier(0.22, 1, 0.36, 1),
+    transform 0.9s cubic-bezier(0.22, 1, 0.36, 1);
   will-change: opacity, transform;
 }
 .reveal.is-visible {
   opacity: 1;
-  transform: translateY(0);
+  transform: translateY(0) scale(1);
 }
 
 /* ── Botões de compra: pulso de atenção (foco em conversão) ──

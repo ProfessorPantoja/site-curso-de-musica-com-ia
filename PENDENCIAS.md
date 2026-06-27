@@ -43,3 +43,14 @@
 - [x] **7. Animações** — ✅ pulso de brilho nos botões de compra (todos os CTAs). *(posso adicionar um "brilho que varre" o botão se quiser mais; e reforçar reveal das seções — me diz)*
 
 > Regra reforçada: marcar TUDO que o Pantoja falar (destacado) e sempre devolver um resumo.
+
+### 🎯 Rodada 2 — Refino do Hero
+
+- [x] **Caixinha do método** — ✅ agora cita "o mesmo método que o Pantoja usa nas músicas da Escritura Cantada".
+- [x] **Linha de provas** — ✅ "Em poucos minutos você cria sua primeira música" + "Sem experiência nenhuma — nem em música, nem em IA".
+- [x] **Animação de entrada mais clara** — ✅ reveal reforçado (mais deslocamento + leve escala). *(me diz no celular se quer ainda mais forte)*
+- ✅ Headline e subtítulo do Hero: **aprovados** pelo Pantoja.
+
+**Pendências de asset (Pantoja cria, eu integro depois):**
+- [ ] **Fundo do topo (Hero)** — imagem ou vídeo sutil dando movimento/design. Pantoja vai criar. *(testar imagem vs. vídeo)*
+- [ ] **Imagem do momento em família** (pessoa dando presente) — Pantoja ainda vai definir quem aparece. *(seção do Hero, lado direito — hoje é placeholder)*
