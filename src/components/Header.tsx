@@ -19,7 +19,7 @@ export function Header() {
             <span className="font-serif text-lg font-semibold text-navy">
               {site.marca}
             </span>
-            <span className="text-[10.5px] font-bold uppercase tracking-[0.14em] text-terra-deep">
+            <span className="text-[11px] font-semibold text-terra-deep">
               {site.sobrescrita}
             </span>
           </span>
@@ -37,9 +37,9 @@ export function Header() {
           ))}
           <a
             {...checkoutLinkProps}
-            className="inline-flex items-center rounded-full bg-terra px-5 py-2.5 text-sm font-extrabold text-white shadow-[0_6px_18px_rgba(217,154,108,0.34)] transition-transform hover:-translate-y-0.5 hover:brightness-[1.04]"
+            className="inline-flex items-center rounded-full bg-terra px-6 py-2.5 text-sm font-extrabold text-white shadow-[0_6px_18px_rgba(217,154,108,0.34)] transition-transform hover:-translate-y-0.5 hover:brightness-[1.04]"
           >
-            Quero criar
+            Comprar
           </a>
         </nav>
       </div>

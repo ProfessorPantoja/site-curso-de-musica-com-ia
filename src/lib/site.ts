@@ -16,7 +16,7 @@ export const SITE_URL = (
 export const site = {
   // ── Identidade ──────────────────────────────────────────────
   marca: "Método Pantoja",
-  sobrescrita: "Música feita com amor",
+  sobrescrita: "Crie uma música pra quem você ama",
   tagline: "Um presente que fica para sempre",
   // Frase de descrição usada no SEO e no Open Graph
   descricaoCurta:

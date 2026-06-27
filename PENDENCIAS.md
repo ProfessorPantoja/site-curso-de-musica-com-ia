@@ -30,8 +30,8 @@
 ### 🎯 Rodada 1 — Topo + Hero (aguardando "pode fazer")
 
 **TOPO (barra fixa / Header)**
-- [ ] **1. Essência no topo** — trocar "Música feita com amor" por **"Crie uma música pra quem você ama"** (opção A). O topo precisa comunicar a essência para público **frio**, não depender do nome do Pantoja.
-- [ ] **2. Botão do topo = "Comprar"** — curto, direto, sempre visível ao rolar (botão de compra persistente). Substitui o atual "Quero criar".
+- [x] **1. Essência no topo** — ✅ "Crie uma música pra quem você ama" (opção A).
+- [x] **2. Botão do topo = "Comprar"** — ✅ feito (curto e sempre visível na barra fixa).
 - [ ] **3. Ícone ♪** — provisório; Pantoja decide depois. *(pendência dele, não mexer)*
 
 **HERO**
