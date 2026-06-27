@@ -1,0 +1,106 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Registro de alterações — Método Pantoja (site)</title>
+  <style>
+    :root{
+      --bg:#0f1117; --card:#171a23; --line:#262b38; --txt:#e8eaf0;
+      --muted:#9aa3b2; --accent:#ffd166; --feat:#4ade80; --fix:#60a5fa;
+      --docs:#c084fc; --pend:#fb923c;
+    }
+    *{box-sizing:border-box}
+    body{margin:0;background:var(--bg);color:var(--txt);
+      font:16px/1.6 system-ui,-apple-system,Segoe UI,Roboto,sans-serif;padding:32px}
+    .wrap{max-width:880px;margin:0 auto}
+    header h1{font-size:26px;margin:0 0 4px}
+    header p{color:var(--muted);margin:0 0 28px}
+    .legend{display:flex;gap:10px;flex-wrap:wrap;margin-bottom:24px}
+    .tag{font-size:12px;font-weight:600;padding:3px 9px;border-radius:999px;
+      text-transform:uppercase;letter-spacing:.04em}
+    .t-feat{background:rgba(74,222,128,.15);color:var(--feat)}
+    .t-fix{background:rgba(96,165,250,.15);color:var(--fix)}
+    .t-docs{background:rgba(192,132,252,.15);color:var(--docs)}
+    .t-pend{background:rgba(251,146,60,.15);color:var(--pend)}
+    section{background:var(--card);border:1px solid var(--line);border-radius:14px;
+      padding:20px 24px;margin-bottom:18px}
+    section h2{font-size:15px;color:var(--accent);margin:0 0 14px;
+      text-transform:uppercase;letter-spacing:.05em}
+    ul{list-style:none;margin:0;padding:0}
+    li{display:flex;gap:12px;align-items:flex-start;padding:9px 0;
+      border-top:1px solid var(--line)}
+    li:first-child{border-top:none}
+    .data{color:var(--muted);font-size:13px;white-space:nowrap;min-width:78px;
+      font-variant-numeric:tabular-nums}
+    .hash{color:var(--muted);font-size:12px;font-family:ui-monospace,monospace;
+      min-width:62px}
+    .desc{flex:1}
+    .pend li{align-items:flex-start}
+    .pend .desc strong{color:var(--pend)}
+    footer{color:var(--muted);font-size:13px;text-align:center;margin-top:24px}
+  </style>
+</head>
+<body>
+  <div class="wrap">
+    <header>
+      <h1>📓 Registro de alterações — site do Método Pantoja</h1>
+      <p>Diário de bordo do desenvolvimento. Atualizado a cada mudança, em paralelo aos commits do git.</p>
+    </header>
+
+    <div class="legend">
+      <span class="tag t-feat">feat — novo</span>
+      <span class="tag t-fix">fix — correção</span>
+      <span class="tag t-docs">docs — documentação</span>
+      <span class="tag t-pend">pendente</span>
+    </div>
+
+    <section class="pend">
+      <h2>⏳ Próximos passos / pendências</h2>
+      <ul>
+        <li><span class="data">aguarda você</span><span class="desc"><strong>Telefone de contato:</strong> trocar o placeholder <code>5500000000000</code> em <code>site.ts</code> pelo seu WhatsApp real.</span></li>
+        <li><span class="data">aguarda você</span><span class="desc"><strong>PDF isca:</strong> finalizar a capa e me enviar o arquivo (vai para <code>/public</code>). Dica de capa: fazer no <b>Canva</b> (grátis, exporta PDF) e, se precisar juntar capa + miolo, usar o "Juntar PDF" do <b>iLovePDF</b>.</span></li>
+        <li><span class="data">a definir</span><span class="desc"><strong>Onde guardar os leads</strong> (nome + WhatsApp): recomendação registrada — <b>Google Sheets via Apps Script</b> (grátis, dado é seu, fácil de ler). Decidir e ligar.</span></li>
+        <li><span class="data">a fazer</span><span class="desc"><strong>Formulário de captura + download do PDF</strong> na landing (Nome + WhatsApp). Depende do PDF e do destino dos leads.</span></li>
+        <li><span class="data">na Kiwify</span><span class="desc"><strong>Ativar recuperação</strong> de carrinho abandonado / Pix não pago.</span></li>
+        <li><span class="data">antes de divulgar</span><span class="desc"><strong>Compra-teste real</strong> de ponta a ponta (pagamento → e-mail de acesso → área de membros com curso + apostila).</span></li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>27/06/2026</h2>
+      <ul>
+        <li><span class="data">27/06/2026</span><span class="hash">b1981cc</span><span class="desc"><span class="tag t-fix">fix</span> Removido <code>setState</code> dentro de <code>useEffect</code> no <code>Reveal</code> — único erro de lint do projeto. Classe de animação passa a ser aplicada via <code>classList</code>. Projeto agora limpo em <code>eslint</code> e <code>tsc</code>.</span></li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>24/06/2026</h2>
+      <ul>
+        <li><span class="data">24/06/2026</span><span class="hash">f261c84</span><span class="desc"><span class="tag t-feat">feat</span> Player de músicas da Escritura Cantada fixo no rodapé.</span></li>
+        <li><span class="data">24/06/2026</span><span class="hash">8d08c91</span><span class="desc"><span class="tag t-feat">feat</span> Checkout da Kiwify integrado nos 4 botões de compra (site já vende).</span></li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>19/06/2026</h2>
+      <ul>
+        <li><span class="data">19/06/2026</span><span class="hash">8ed824a</span><span class="desc"><span class="tag t-feat">feat</span> Hero com gancho de transformação e destaque do método copiar-e-colar.</span></li>
+        <li><span class="data">19/06/2026</span><span class="hash">b6b791c</span><span class="desc"><span class="tag t-feat">feat</span> Copy de Story, Prova e Método ajustada para a voz do Pantoja.</span></li>
+        <li><span class="data">19/06/2026</span><span class="hash">6e24bcb</span><span class="desc"><span class="tag t-feat">feat</span> Placeholders substituídos pela história real; método protegido no conteúdo central.</span></li>
+        <li><span class="data">19/06/2026</span><span class="hash">3b96d6b</span><span class="desc"><span class="tag t-docs">docs</span> Transcrições do curso, relatório de validação e kit de matéria-prima.</span></li>
+        <li><span class="data">19/06/2026</span><span class="hash">5331139</span><span class="desc"><span class="tag t-feat">feat</span> Landing da Direção B (presente musical com IA).</span></li>
+        <li><span class="data">19/06/2026</span><span class="hash">e9204c2</span><span class="desc"><span class="tag t-feat">feat</span> Projeto reposicionado para o Método Pantoja (presente musical).</span></li>
+        <li><span class="data">19/06/2026</span><span class="hash">15eef20</span><span class="desc"><span class="tag t-feat">feat</span> Redesign v2.0 da landing com movimento e profundidade.</span></li>
+        <li><span class="data">19/06/2026</span><span class="hash">c128f5c</span><span class="desc"><span class="tag t-feat">feat</span> Sistema de animações e componentes interativos (UI).</span></li>
+        <li><span class="data">19/06/2026</span><span class="hash">93dc86a</span><span class="desc"><span class="tag t-feat">feat</span> Landing page de vendas com todas as seções.</span></li>
+        <li><span class="data">19/06/2026</span><span class="hash">54e79a2</span><span class="desc"><span class="tag t-feat">feat</span> SEO técnico (metadata, sitemap, robots, OG image, JSON-LD).</span></li>
+        <li><span class="data">19/06/2026</span><span class="hash">67775db</span><span class="desc"><span class="tag t-feat">feat</span> Configuração central do site (curso, oferta, instrutor, SEO).</span></li>
+        <li><span class="data">19/06/2026</span><span class="hash">734d706</span><span class="desc"><span class="tag t-docs">docs</span> Commit inicial (Create Next App).</span></li>
+      </ul>
+    </section>
+
+    <footer>Método Pantoja · registro mantido pelo Claude Code junto ao git</footer>
+  </div>
+</body>
+</html>
