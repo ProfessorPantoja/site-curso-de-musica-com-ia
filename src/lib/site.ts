@@ -23,7 +23,7 @@ export const site = {
     "Crie uma música única para quem você ama — mãe, pai, um amigo, sua igreja. Em 3 horas, do zero, você aprende o Método Pantoja de criação musical com inteligência artificial.",
   url: SITE_URL,
   email: "contato@fabiopantoja.com.br",
-  whatsapp: "5500000000000", // só números, com DDI e DDD. Ex: 5511988887777
+  whatsapp: "5527992681959", // só números, com DDI e DDD. Ex: 5511988887777
 
   // ── Oferta ──────────────────────────────────────────────────
   oferta: {
