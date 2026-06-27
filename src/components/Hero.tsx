@@ -41,7 +41,9 @@ export function Hero() {
               </span>
               <p className="text-[15.5px] font-bold leading-snug text-ink">
                 Você leva o{" "}
-                <span className="text-terra-deep">método exato do Pantoja</span>{" "}
+                <span className="text-terra-deep">
+                  mesmo método que o Pantoja usa nas músicas da Escritura Cantada
+                </span>{" "}
                 — é só copiar, colar e seguir.
               </p>
             </div>
