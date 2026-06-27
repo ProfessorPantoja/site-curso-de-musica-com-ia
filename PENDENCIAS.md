@@ -40,6 +40,6 @@
 - [x] **6. CTA principal** — ✅ "Quero presentear quem eu amo com uma música".
 
 **GERAL**
-- [ ] **7. Animações** — estão fracas. Reforçar efeitos, com destaque chamativo nos **botões de compra** e tudo ligado a comprar.
+- [x] **7. Animações** — ✅ pulso de brilho nos botões de compra (todos os CTAs). *(posso adicionar um "brilho que varre" o botão se quiser mais; e reforçar reveal das seções — me diz)*
 
 > Regra reforçada: marcar TUDO que o Pantoja falar (destacado) e sempre devolver um resumo.

@@ -15,7 +15,7 @@ export function CtaFinal() {
           </p>
           <a
             {...checkoutLinkProps}
-            className="mt-8 inline-flex items-center gap-2.5 rounded-full bg-terra px-10 py-4 text-[17px] font-extrabold text-white shadow-[0_14px_30px_rgba(217,154,108,0.4)] transition-transform hover:-translate-y-0.5 hover:brightness-[1.04]"
+            className="btn-comprar mt-8 inline-flex items-center gap-2.5 rounded-full bg-terra px-10 py-4 text-[17px] font-extrabold text-white shadow-[0_14px_30px_rgba(217,154,108,0.4)] transition-transform hover:-translate-y-0.5 hover:brightness-[1.04]"
           >
             Quero criar minha música <span aria-hidden>→</span>
           </a>

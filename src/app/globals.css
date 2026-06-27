@@ -77,6 +77,25 @@ body {
   transform: translateY(0);
 }
 
+/* ── Botões de compra: pulso de atenção (foco em conversão) ──
+   Brilho pulsante que chama o olho para o CTA. Anima só o box-shadow
+   para não brigar com o hover:-translate-y dos botões. Pausa no hover. */
+@keyframes pulse-comprar {
+  0%,
+  100% {
+    box-shadow: 0 12px 28px rgba(217, 154, 108, 0.38);
+  }
+  50% {
+    box-shadow: 0 16px 42px rgba(217, 154, 108, 0.78);
+  }
+}
+.btn-comprar {
+  animation: pulse-comprar 2.2s ease-in-out infinite;
+}
+.btn-comprar:hover {
+  animation-play-state: paused;
+}
+
 /* ── Mini equalizador (barras animadas no card de música) ───── */
 @keyframes equalize {
   0%,

@@ -51,7 +51,7 @@ export function Hero() {
             <div className="mt-8 flex flex-col gap-3.5 sm:flex-row sm:flex-wrap">
               <a
                 {...checkoutLinkProps}
-                className="inline-flex items-center justify-center gap-2 rounded-full bg-terra px-8 py-4 text-base font-extrabold text-white shadow-[0_14px_30px_rgba(217,154,108,0.36)] transition-transform hover:-translate-y-0.5 hover:brightness-[1.04]"
+                className="btn-comprar inline-flex items-center justify-center gap-2 rounded-full bg-terra px-8 py-4 text-base font-extrabold text-white shadow-[0_14px_30px_rgba(217,154,108,0.36)] transition-transform hover:-translate-y-0.5 hover:brightness-[1.04]"
               >
                 Quero presentear quem eu amo com uma música{" "}
                 <span aria-hidden>→</span>

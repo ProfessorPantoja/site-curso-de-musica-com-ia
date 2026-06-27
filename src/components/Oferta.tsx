@@ -34,7 +34,7 @@ export function Oferta() {
               </div>
               <a
                 {...checkoutLinkProps}
-                className="mt-6 flex items-center justify-center gap-2.5 rounded-full bg-terra py-4 text-[17px] font-extrabold text-white shadow-[0_14px_30px_rgba(217,154,108,0.4)] transition-transform hover:-translate-y-0.5 hover:brightness-[1.04]"
+                className="btn-comprar mt-6 flex items-center justify-center gap-2.5 rounded-full bg-terra py-4 text-[17px] font-extrabold text-white shadow-[0_14px_30px_rgba(217,154,108,0.4)] transition-transform hover:-translate-y-0.5 hover:brightness-[1.04]"
               >
                 Quero garantir minha vaga <span aria-hidden>→</span>
               </a>
@@ -55,7 +55,7 @@ export function Oferta() {
               </p>
               <a
                 {...checkoutLinkProps}
-                className="mt-6 flex items-center justify-center gap-2.5 rounded-full bg-terra py-4 text-[17px] font-extrabold text-white transition-transform hover:-translate-y-0.5 hover:brightness-[1.04]"
+                className="btn-comprar mt-6 flex items-center justify-center gap-2.5 rounded-full bg-terra py-4 text-[17px] font-extrabold text-white transition-transform hover:-translate-y-0.5 hover:brightness-[1.04]"
               >
                 Quero saber o valor e a data <span aria-hidden>→</span>
               </a>
