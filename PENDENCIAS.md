@@ -35,9 +35,9 @@
 - [ ] **3. Ícone ♪** — provisório; Pantoja decide depois. *(pendência dele, não mexer)*
 
 **HERO**
-- [ ] **4. Remover o selo "Curso intensivo · 3 horas · do zero"** — genérico, desperdício. Ninguém quer "curso" nem "3h"; foco em **resultado + emoção** (ver quem ela ama feliz/emocionado).
-- [ ] **5. Reescrever a copy do Hero** com persuasão de altíssimo nível, palavras milimétricas, zero desperdício de espaço. Nível "melhores copywriters do mundo".
-- [ ] **6. CTA principal** — "Quero presentear com música" → **"Quero presentear quem eu amo com uma música"** (pode ser grande).
+- [x] **4. Remover o selo "Curso intensivo · 3 horas · do zero"** — ✅ virou "O presente que ninguém esquece".
+- [x] **5. Reescrever a copy do Hero** — ✅ headline "Emocione quem você ama…" + subtítulo milimétrico quebrando objeções. *(aberto a iterar quando você vir no celular)*
+- [x] **6. CTA principal** — ✅ "Quero presentear quem eu amo com uma música".
 
 **GERAL**
 - [ ] **7. Animações** — estão fracas. Reforçar efeitos, com destaque chamativo nos **botões de compra** e tudo ligado a comprar.

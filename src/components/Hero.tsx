@@ -1,4 +1,4 @@
-import { site, checkoutLinkProps } from "@/lib/site";
+import { checkoutLinkProps } from "@/lib/site";
 import { Reveal } from "@/components/ui/Reveal";
 import { ImageSlot } from "@/components/ui/ImageSlot";
 import { Equalizer } from "@/components/ui/Equalizer";
@@ -13,25 +13,24 @@ export function Hero() {
             <div className="mb-6 inline-flex items-center gap-2 rounded-full bg-beige px-4 py-1.5">
               <span className="h-1.5 w-1.5 rounded-full bg-terra" />
               <span className="text-xs font-extrabold uppercase tracking-[0.14em] text-terra-deep">
-                Curso intensivo · {site.oferta.duracao} · do zero
+                O presente que ninguém esquece
               </span>
             </div>
           </Reveal>
 
           <Reveal delay={80} as="h1">
             <span className="block font-serif text-[2.6rem] font-medium leading-[1.08] tracking-tight text-ink sm:text-[3.6rem]">
-              Dê a quem você ama uma música que{" "}
+              Emocione quem você ama com uma música que{" "}
               <em className="italic text-terra-deep">só você</em> poderia criar.
             </span>
           </Reveal>
 
           <Reveal delay={160} as="p">
             <span className="mt-6 block max-w-xl text-lg leading-relaxed text-muted">
-              Na era da inteligência artificial, eu virei produtor musical — e em
-              uma única tarde, do zero, você também vai virar. Com o{" "}
-              <strong className="font-bold text-navy">{site.marca}</strong>, você
-              sai com um presente pronto para a sua mãe, seu pai, um amigo ou a
-              sua igreja. Sem teoria, sem instrumento, sem precisar cantar.
+              Sem saber música, sem tocar nada, sem cantar. Você guia a
+              inteligência artificial do seu jeito e transforma a história de
+              vocês numa canção de verdade — o presente que ela vai querer ouvir
+              pra vida toda.
             </span>
           </Reveal>
 
@@ -54,7 +53,8 @@ export function Hero() {
                 {...checkoutLinkProps}
                 className="inline-flex items-center justify-center gap-2 rounded-full bg-terra px-8 py-4 text-base font-extrabold text-white shadow-[0_14px_30px_rgba(217,154,108,0.36)] transition-transform hover:-translate-y-0.5 hover:brightness-[1.04]"
               >
-                Quero presentear com música <span aria-hidden>→</span>
+                Quero presentear quem eu amo com uma música{" "}
+                <span aria-hidden>→</span>
               </a>
               <a
                 href="#metodo"
@@ -95,7 +95,7 @@ export function Hero() {
                   &ldquo;Para a minha mãe&rdquo;
                 </div>
                 <div className="text-xs font-semibold text-soft">
-                  criada em {site.oferta.duracao} no curso
+                  feita com a história dela
                 </div>
               </div>
               <Equalizer bars={4} className="h-6 w-6 shrink-0" />
