@@ -1,6 +1,6 @@
 "use client";
 
-import { useEffect, useRef, useState, type ElementType, type ReactNode } from "react";
+import { useEffect, useRef, type ElementType, type ReactNode } from "react";
 
 type RevealProps = {
   children: ReactNode;
@@ -19,12 +19,14 @@ type RevealProps = {
 export function Reveal({ children, delay = 0, as, className = "" }: RevealProps) {
   const Tag = (as ?? "div") as ElementType;
   const ref = useRef<HTMLElement>(null);
-  const [mounted, setMounted] = useState(false);
 
   useEffect(() => {
-    setMounted(true);
     const el = ref.current;
     if (!el) return;
+
+    // Só "esconde" para animar depois que o JS monta — sem JS (crawlers),
+    // o conteúdo já vem visível. Aplicado via classList p/ evitar setState no efeito.
+    el.classList.add("reveal");
 
     const reduce = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
     if (reduce) {
@@ -49,7 +51,7 @@ export function Reveal({ children, delay = 0, as, className = "" }: RevealProps)
   }, [delay]);
 
   return (
-    <Tag ref={ref} className={`${mounted ? "reveal" : ""} ${className}`}>
+    <Tag ref={ref} className={className}>
       {children}
     </Tag>
   );
