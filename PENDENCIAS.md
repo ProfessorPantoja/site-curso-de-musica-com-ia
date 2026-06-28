@@ -61,8 +61,9 @@
 
 ### 🎯 Rodada 4 — Isca vira a apostila completa (mudança de estratégia)
 
-- Capa da apostila aprovada (linda); **corrigir "Da Excritura ao louvor" → "Da Escritura ao louvor"** (1º bullet com ícone de livro) e reexportar.
-- [ ] **Reescrever a copy da seção de captura** (`CapturaLead` + `leadMagnet` no site.ts) — sair de "amostra/aperitivo/primeiro passo" para **"apostila completa do curso, de graça"**.
-- [ ] **Decisão: qual contato pedir** — e-mail, WhatsApp ou os dois? *(antes era WhatsApp; agora Pantoja falou e-mail)*
-- [ ] **Decisão: como entregar** — download na hora na tela (recomendado) ou envio por e-mail?
-- [ ] **Revisar a apostila** — Pantoja vai mandar o arquivo (feito no chat do Claude); eu leio inteira e devolvo ajustes (ortografia, consistência, fluidez, ganchos de conversão).
+- [x] **Capa da apostila** — ✅ corrigida ("Da Escritura ao louvor", com S) e aprovada.
+- [x] **Reescrever a copy da seção de captura** — ✅ agora "Baixe a apostila completa do curso — de graça" (16 páginas, dicas, macetes), botão "Quero a apostila grátis".
+- [x] **Decisão: qual contato pedir** — ✅ **só Nome + WhatsApp** (sem e-mail; menos campos = mais conversão).
+- [x] **Decisão: como entregar** — ✅ **download na hora** na tela (já implementado).
+- [ ] **Colocar o PDF final** em `public/iscas/apostila-completa.pdf` (depois das edições da apostila).
+- [ ] **Revisar/editar a apostila** — trazer a apostila (feita no chat do Claude) para o Claude Code e fazer os ajustes finais. *Decisão recomendada: criar a pasta `apostila/` DENTRO deste projeto (não precisa de projeto separado); editar aqui e exportar o PDF para `public/iscas/`.*

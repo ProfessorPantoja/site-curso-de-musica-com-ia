@@ -47,17 +47,18 @@ export const site = {
   // Os contatos vão para a sua planilha (veja docs/configurar-planilha-leads.html).
   leadMagnet: {
     ativo: true, // mude para false para esconder a seção inteira
-    selo: "Amostra gratuita",
-    titulo: "Leve um aperitivo do Método — de graça",
+    selo: "Apostila completa · de graça",
+    titulo: "Baixe a apostila completa do curso — de graça",
     subtitulo:
-      "Deixe seu nome e WhatsApp e baixe agora o guia em PDF com o primeiro passo do Método Pantoja. Direto ao ponto, sem enrolação.",
-    textoBotao: "Quero o PDF gratuito",
+      "São 16 páginas com o método do Pantoja condensado: o passo a passo, as dicas e os macetes que ele ensina no curso. Deixe seu nome e WhatsApp e baixe agora.",
+    textoBotao: "Quero a apostila grátis",
     // ⬇️ Caminho do PDF dentro de /public. Troque pelo arquivo final.
-    arquivoPdf: "/iscas/metodo-pantoja-amostra.pdf",
+    arquivoPdf: "/iscas/apostila-completa.pdf",
     // Tela exibida depois que o cadastro dá certo:
-    sucessoTitulo: "Prontinho! Seu PDF está liberado 🎉",
-    sucessoTexto: "Coloquei seu nome na lista. Baixe agora e já comece a praticar.",
-    textoDownload: "Baixar o PDF agora",
+    sucessoTitulo: "Prontinho! Sua apostila está liberada 🎉",
+    sucessoTexto:
+      "Aproveite cada página. E quando quiser aplicar tudo isso ao vivo, comigo te guiando, o curso te espera.",
+    textoDownload: "Baixar a apostila agora",
   },
 
   // ── Instrutor ───────────────────────────────────────────────
