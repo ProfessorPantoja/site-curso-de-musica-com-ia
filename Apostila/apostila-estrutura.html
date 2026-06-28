@@ -54,22 +54,9 @@ a{color:var(--pp700);text-decoration:none;}
 .k{font-family:'PlexMono';font-size:8.7pt;background:var(--pp50);color:var(--pp700);
    padding:1px 5px;border-radius:3px;font-weight:500;white-space:nowrap;}
 
-/* ============ CAPA ============ */
-.cover{
-  height:297mm;width:210mm;background:linear-gradient(160deg,#33205A 0%,#2A1A46 55%,#1E1335 100%);
-  color:#EFE9F8;padding:34mm 24mm 22mm;position:relative;overflow:hidden;
-}
-.cover .mark{font-family:'Cormorant';font-size:62pt;color:var(--gold);line-height:1;margin-bottom:6mm;}
-.cover .ey{font-family:'Inter';font-size:9.5pt;letter-spacing:.42em;text-transform:uppercase;color:#C8A86A;font-weight:600;margin-bottom:8mm;}
-.cover h1{font-family:'Cormorant';font-weight:600;font-size:58pt;line-height:1.02;margin:0 0 7mm;letter-spacing:.5px;color:#FBF7FF;}
-.cover h1 .it{font-style:italic;font-weight:500;color:#E7D6A8;}
-.cover .sub{font-family:'Cormorant';font-style:italic;font-size:23pt;color:#CDBEE8;margin-bottom:14mm;font-weight:500;}
-.cover .rule-g{width:54mm;height:2px;background:linear-gradient(90deg,var(--gold),transparent);margin-bottom:10mm;}
-.cover .tag{font-family:'Spectral';font-size:12pt;line-height:1.6;color:#BCAFD6;max-width:118mm;}
-.cover .foot{position:absolute;left:24mm;bottom:20mm;font-family:'Inter';font-size:9.5pt;color:#9C8FBE;letter-spacing:.04em;}
-.cover .foot b{color:#D9C9A0;font-weight:600;}
-.cover .glow{position:absolute;right:-60mm;top:-40mm;width:160mm;height:160mm;border-radius:50%;
-  background:radial-gradient(circle,rgba(168,120,15,.16),transparent 62%);}
+/* ============ CAPA (imagem full-page) ============ */
+.cover-img{width:210mm;height:297mm;overflow:hidden;}
+.cover-img img{width:100%;height:100%;object-fit:cover;display:block;}
 
 /* ============ CABEÇALHO DE SEÇÃO ============ */
 .section{break-before:page;padding-top:2mm;}
@@ -161,16 +148,9 @@ ul.clean li{margin-bottom:4px;line-height:1.5;}
 </head>
 <body>
 
-<!-- ================= CAPA ================= -->
-<div class="cover">
-  <div class="glow"></div>
-  <div class="mark">&#10022;</div>
-  <div class="ey">Apostila do curso</div>
-  <h1>Músicas Cristãs<br>com <span class="it">Inteligência</span><br>Artificial</h1>
-  <div class="sub">O método de Fábio Pantoja</div>
-  <div class="rule-g"></div>
-  <div class="tag">Da Escritura ao louvor: como deixar de apertar um botão e começar a <strong>conduzir a IA</strong> para criar música que tem alma — passo a passo, com as regras que transformam o genérico em obra.</div>
-  <div class="foot">A Escritura Cantada &nbsp;·&nbsp; por <b>Fábio Pantoja</b></div>
+<!-- ================= CAPA (imagem) ================= -->
+<div class="cover-img">
+  <img src="capa-e-book-curso-musica-crista.png" alt="Capa — Músicas Cristãs com Inteligência Artificial, o método de Fábio Pantoja · A Escritura Cantada">
 </div>
 
 <!-- ================= GUIA DE LEITURA ================= -->

@@ -61,7 +61,9 @@
 
 ### 🎯 Rodada 4 — Isca vira a apostila completa (mudança de estratégia)
 
-- [x] **Capa da apostila** — ✅ corrigida ("Da Escritura ao louvor", com S) e aprovada.
+- [x] **Capa da apostila** — ✅ corrigida ("Da Escritura ao louvor", com S) e aprovada. Integrada como página 1 da apostila (imagem full-page).
+- [x] **Fontes da apostila** — ✅ baixadas para `Apostila/fonts/` e `@font-face` em caminhos relativos.
+- [x] **Paleta da apostila** — ✅ trocada de roxo para azul-marinho + terracota + dourado (identidade da marca).
 - [x] **Reescrever a copy da seção de captura** — ✅ agora "Baixe a apostila completa do curso — de graça" (16 páginas, dicas, macetes), botão "Quero a apostila grátis".
 - [x] **Decisão: qual contato pedir** — ✅ **só Nome + WhatsApp** (sem e-mail; menos campos = mais conversão).
 - [x] **Decisão: como entregar** — ✅ **download na hora** na tela (já implementado).
