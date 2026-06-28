@@ -56,7 +56,7 @@
 - [x] **Parágrafo de proposta** — ✅ síntese da fala do Pantoja (método aberto + copiar/colar + Escritura Cantada + promessa de criar músicas para Deus/você/quem ama) adicionada na seção Sobre.
 
 **Pendências de asset (Pantoja cria, eu integro depois):**
-- [x] **Fundo do topo (Hero)** — ✅ vídeo `video-fundo-hero.mp4` como fundo (sem som, loop), **só no celular** (no PC distorcia por ser vídeo vertical). *Conferir no celular se o encaixe ficou bom e se a camada de leitura (82%) está boa.*
+- [x] **Fundo do topo (Hero)** — ✅ vídeo `video-fundo-hero.mp4` (sem som, loop), **só no celular**, aparecendo **inteiro no topo** (proporção 9:16) com esmaecimento pro creme — resolveu o corte/zoom. *Conferir no celular real e dizer se quer o vídeo mais forte/fraco ou mais alto.*
 - [ ] **(opcional) Vídeo horizontal para PC** — se quiser fundo no desktop também, criar um vídeo horizontal separado. Por ora o PC fica com fundo creme limpo.
 - [ ] **Imagem do momento em família** (pessoa dando presente) — Pantoja ainda vai definir quem aparece. *(seção do Hero, lado direito — hoje é placeholder)*
 

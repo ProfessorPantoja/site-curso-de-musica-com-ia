@@ -7,23 +7,24 @@ export function Hero() {
   return (
     <section className="relative overflow-hidden bg-background px-6 pb-20 pt-16 sm:pt-20" id="topo">
       {/* ── Vídeo de fundo (sem som) — só no celular ──
-         O vídeo é vertical; no desktop (largura grande) ele teria de dar
-         zoom e distorcer, então ele só aparece em telas pequenas. */}
-      <video
-        className="pointer-events-none absolute inset-0 h-full w-full object-cover md:hidden"
-        autoPlay
-        muted
-        loop
-        playsInline
+         O vídeo é 9:16 (vertical). Em vez de cobrir a seção inteira (que é
+         bem mais alta e cortaria as laterais), ele aparece inteiro no topo,
+         na proporção natural, esmaecendo suavemente para o creme. */}
+      <div
+        className="pointer-events-none absolute inset-x-0 top-0 md:hidden"
         aria-hidden="true"
       >
-        <source src="/video-fundo-hero.mp4" type="video/mp4" />
-      </video>
-      {/* Camada para manter o texto legível sobre o vídeo (só no celular) */}
-      <div
-        className="pointer-events-none absolute inset-0 bg-background/82 md:hidden"
-        aria-hidden="true"
-      />
+        <video
+          className="aspect-[9/16] w-full object-cover"
+          autoPlay
+          muted
+          loop
+          playsInline
+        >
+          <source src="/video-fundo-hero.mp4" type="video/mp4" />
+        </video>
+        <div className="absolute inset-0 bg-gradient-to-b from-background/25 via-background/45 to-background" />
+      </div>
 
       <div className="relative z-10 mx-auto grid max-w-6xl items-center gap-12 lg:grid-cols-[1.05fr_0.95fr] lg:gap-16">
         {/* ── Texto ── */}
