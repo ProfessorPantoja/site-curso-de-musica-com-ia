@@ -68,4 +68,7 @@
 - [x] **Decisão: qual contato pedir** — ✅ **só Nome + WhatsApp** (sem e-mail; menos campos = mais conversão).
 - [x] **Decisão: como entregar** — ✅ **download na hora** na tela (já implementado).
 - [ ] **Colocar o PDF final** em `public/iscas/apostila-completa.pdf` (depois das edições da apostila).
-- [ ] **Revisar/editar a apostila** — trazer a apostila (feita no chat do Claude) para o Claude Code e fazer os ajustes finais. *Decisão recomendada: criar a pasta `apostila/` DENTRO deste projeto (não precisa de projeto separado); editar aqui e exportar o PDF para `public/iscas/`.*
+- [x] **Apostila trazida e ajustada** — ✅ na pasta `Apostila/`. Feito: fontes resolvidas, paleta azul-marinho, capa nova, rodapé com nome+site e seção de CTA (curso + WhatsApp).
+- [ ] **Pantoja conferir o PDF `…-COM-CTA.pdf`** e aprovar (comparar com o anterior). Depois: virar o PDF oficial e remover o de comparação.
+- [ ] **Confirmar o domínio** do link na apostila/rodapé (hoje `fabiopantoja.com.br`).
+- [ ] **PDF final → site**: copiar para `public/iscas/apostila-completa.pdf` quando aprovado.
