@@ -56,7 +56,7 @@
 - [x] **Parágrafo de proposta** — ✅ síntese da fala do Pantoja (método aberto + copiar/colar + Escritura Cantada + promessa de criar músicas para Deus/você/quem ama) adicionada na seção Sobre.
 
 **Pendências de asset (Pantoja cria, eu integro depois):**
-- [ ] **Fundo do topo (Hero)** — imagem ou vídeo sutil dando movimento/design. Pantoja vai criar. *(testar imagem vs. vídeo)*
+- [x] **Fundo do topo (Hero)** — ✅ vídeo `video-fundo-hero.mp4` colocado como fundo (sem som, loop). *Conferir no ar se a camada de leitura (82%) está boa ou se clareia/escurece.*
 - [ ] **Imagem do momento em família** (pessoa dando presente) — Pantoja ainda vai definir quem aparece. *(seção do Hero, lado direito — hoje é placeholder)*
 
 ### 🎯 Rodada 4 — Isca vira a apostila completa (mudança de estratégia)

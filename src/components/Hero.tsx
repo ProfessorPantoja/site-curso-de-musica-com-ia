@@ -5,8 +5,25 @@ import { Equalizer } from "@/components/ui/Equalizer";
 
 export function Hero() {
   return (
-    <section id="topo" className="bg-background px-6 pb-20 pt-16 sm:pt-20">
-      <div className="mx-auto grid max-w-6xl items-center gap-12 lg:grid-cols-[1.05fr_0.95fr] lg:gap-16">
+    <section className="relative overflow-hidden bg-background px-6 pb-20 pt-16 sm:pt-20" id="topo">
+      {/* ── Vídeo de fundo (sem som) ── */}
+      <video
+        className="pointer-events-none absolute inset-0 h-full w-full object-cover"
+        autoPlay
+        muted
+        loop
+        playsInline
+        aria-hidden="true"
+      >
+        <source src="/video-fundo-hero.mp4" type="video/mp4" />
+      </video>
+      {/* Camada para manter o texto legível sobre o vídeo */}
+      <div
+        className="pointer-events-none absolute inset-0 bg-background/82"
+        aria-hidden="true"
+      />
+
+      <div className="relative z-10 mx-auto grid max-w-6xl items-center gap-12 lg:grid-cols-[1.05fr_0.95fr] lg:gap-16">
         {/* ── Texto ── */}
         <div>
           <Reveal>
