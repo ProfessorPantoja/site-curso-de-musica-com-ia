@@ -9,7 +9,7 @@
 
 - [ ] **Capa do PDF isca** — fazer a capa (dica: Canva → exporta PDF; juntar com o miolo no iLovePDF) e colocar o arquivo final em `public/iscas/metodo-pantoja-amostra.pdf`.
 - [ ] **Planilha de leads** — seguir `docs/configurar-planilha-leads.html` (≈5 min): criar a planilha, colar o Apps Script, publicar como App da Web e me mandar a URL `/exec`.
-- [ ] **Publicar na Vercel** — importar o repositório do GitHub na Vercel para o site ir ao ar (eu posso te montar o passo a passo se quiser).
+- [x] **Publicar na Vercel** — ✅ feito pelo Pantoja, site no ar. *(quando a planilha estiver pronta, adicionar `LEAD_WEBHOOK_URL` nas Environment Variables da Vercel e refazer o deploy)*
 
 ## 🛠️ Comigo (faço quando você liberar / me passar o insumo)
 
