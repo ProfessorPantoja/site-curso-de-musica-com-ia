@@ -1,0 +1,515 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<style>
+/* ============ FONTES ============ */
+@font-face{font-family:'Cormorant';src:url(file:///home/claude/fonts/CormorantGaramond-VF.ttf);font-weight:300 700;font-style:normal;}
+@font-face{font-family:'Spectral';src:url(file:///home/claude/fonts/Spectral-Regular.ttf);font-weight:400;font-style:normal;}
+@font-face{font-family:'Spectral';src:url(file:///home/claude/fonts/Spectral-Medium.ttf);font-weight:500;font-style:normal;}
+@font-face{font-family:'Spectral';src:url(file:///home/claude/fonts/Spectral-SemiBold.ttf);font-weight:600;font-style:normal;}
+@font-face{font-family:'Spectral';src:url(file:///home/claude/fonts/Spectral-Bold.ttf);font-weight:700;font-style:normal;}
+@font-face{font-family:'Spectral';src:url(file:///home/claude/fonts/Spectral-Italic.ttf);font-weight:400;font-style:italic;}
+@font-face{font-family:'Spectral';src:url(file:///home/claude/fonts/Spectral-MediumItalic.ttf);font-weight:500;font-style:italic;}
+@font-face{font-family:'Inter';src:url(file:///home/claude/fonts/Inter-Regular.woff2);font-weight:400;font-style:normal;}
+@font-face{font-family:'Inter';src:url(file:///home/claude/fonts/Inter-Medium.woff2);font-weight:500;font-style:normal;}
+@font-face{font-family:'Inter';src:url(file:///home/claude/fonts/Inter-SemiBold.woff2);font-weight:600;font-style:normal;}
+@font-face{font-family:'Inter';src:url(file:///home/claude/fonts/Inter-Bold.woff2);font-weight:700;font-style:normal;}
+@font-face{font-family:'PlexMono';src:url(file:///home/claude/fonts/IBMPlexMono-Regular.ttf);font-weight:400;font-style:normal;}
+@font-face{font-family:'PlexMono';src:url(file:///home/claude/fonts/IBMPlexMono-Medium.ttf);font-weight:500;font-style:normal;}
+@font-face{font-family:'PlexMono';src:url(file:///home/claude/fonts/IBMPlexMono-SemiBold.ttf);font-weight:600;font-style:normal;}
+
+/* ============ TOKENS ============ */
+:root{
+  --ink:#241C2E; --muted:#6E6580;
+  --paper:#FCFBF8; --paper2:#F5F2EA; --line:#E5DFD3;
+  --pp900:#2A1A46; --pp700:#4A2E7A; --pp500:#6B4BA3; --pp50:#F1ECF8;
+  --gold:#A8780F; --gold50:#F6EDD6;
+  --teal:#1F6E63; --teal50:#E3F0ED;
+  --clay:#AE4127; --clay50:#F8E8E2;
+}
+
+/* ============ PÁGINA ============ */
+@page{
+  size:A4; margin:19mm 17mm 16mm 17mm;
+  @bottom-left{content:"Músicas Cristãs com IA — método Fábio Pantoja";font-family:'Inter';font-size:7pt;color:#A99FB5;}
+  @bottom-right{content:counter(page);font-family:'Inter';font-size:8pt;font-weight:600;color:var(--pp700);}
+}
+@page:first{ margin:0;
+  @bottom-left{content:none;} @bottom-right{content:none;}
+}
+
+/* ============ BASE ============ */
+*{box-sizing:border-box;}
+html{font-family:'Spectral';color:var(--ink);}
+body{margin:0;font-size:10.4pt;line-height:1.62;}
+p{margin:0 0 9px;}
+strong{font-weight:600;}
+em{font-style:italic;}
+.lead{font-size:11.6pt;line-height:1.55;color:#3A3148;}
+.small{font-size:9pt;color:var(--muted);}
+a{color:var(--pp700);text-decoration:none;}
+
+/* mono inline para nomes de botões/sites */
+.k{font-family:'PlexMono';font-size:8.7pt;background:var(--pp50);color:var(--pp700);
+   padding:1px 5px;border-radius:3px;font-weight:500;white-space:nowrap;}
+
+/* ============ CAPA ============ */
+.cover{
+  height:297mm;width:210mm;background:linear-gradient(160deg,#33205A 0%,#2A1A46 55%,#1E1335 100%);
+  color:#EFE9F8;padding:34mm 24mm 22mm;position:relative;overflow:hidden;
+}
+.cover .mark{font-family:'Cormorant';font-size:62pt;color:var(--gold);line-height:1;margin-bottom:6mm;}
+.cover .ey{font-family:'Inter';font-size:9.5pt;letter-spacing:.42em;text-transform:uppercase;color:#C8A86A;font-weight:600;margin-bottom:8mm;}
+.cover h1{font-family:'Cormorant';font-weight:600;font-size:58pt;line-height:1.02;margin:0 0 7mm;letter-spacing:.5px;color:#FBF7FF;}
+.cover h1 .it{font-style:italic;font-weight:500;color:#E7D6A8;}
+.cover .sub{font-family:'Cormorant';font-style:italic;font-size:23pt;color:#CDBEE8;margin-bottom:14mm;font-weight:500;}
+.cover .rule-g{width:54mm;height:2px;background:linear-gradient(90deg,var(--gold),transparent);margin-bottom:10mm;}
+.cover .tag{font-family:'Spectral';font-size:12pt;line-height:1.6;color:#BCAFD6;max-width:118mm;}
+.cover .foot{position:absolute;left:24mm;bottom:20mm;font-family:'Inter';font-size:9.5pt;color:#9C8FBE;letter-spacing:.04em;}
+.cover .foot b{color:#D9C9A0;font-weight:600;}
+.cover .glow{position:absolute;right:-60mm;top:-40mm;width:160mm;height:160mm;border-radius:50%;
+  background:radial-gradient(circle,rgba(168,120,15,.16),transparent 62%);}
+
+/* ============ CABEÇALHO DE SEÇÃO ============ */
+.section{break-before:page;padding-top:2mm;}
+.section.cont{break-before:auto;}
+.eyebrow{font-family:'Inter';font-size:8pt;letter-spacing:.32em;text-transform:uppercase;color:var(--gold);font-weight:600;}
+.snum{font-family:'Cormorant';font-size:13pt;color:var(--pp500);font-weight:600;letter-spacing:.18em;}
+.h-row{display:flex;align-items:baseline;gap:10px;border-bottom:1.5px solid var(--line);padding-bottom:7px;margin:3px 0 14px;}
+h1.title{font-family:'Cormorant';font-weight:600;font-size:30pt;line-height:1.05;color:var(--pp900);margin:1px 0 0;}
+h2{font-family:'Cormorant';font-weight:600;font-size:18pt;color:var(--pp700);margin:18px 0 7px;line-height:1.1;}
+h3{font-family:'Inter';font-weight:600;font-size:10.5pt;color:var(--ink);margin:14px 0 5px;letter-spacing:.01em;}
+
+/* ============ COMPONENTE: PRINCÍPIO (assinatura) ============ */
+.principle{background:var(--pp900);color:#F1EAFB;border-radius:4px;padding:17px 22px 17px 20px;
+  margin:16px 0;display:flex;gap:15px;align-items:flex-start;break-inside:avoid;
+  box-shadow:0 1px 0 rgba(0,0,0,.04);}
+.principle .star{flex:0 0 auto;width:20px;height:20px;margin-top:4px;}
+.principle .txt{font-family:'Cormorant';font-style:italic;font-weight:500;font-size:19.5pt;line-height:1.26;color:#F6F1FF;}
+.principle .txt b{font-style:normal;font-weight:600;color:#EBD7A6;}
+
+/* ============ COMPONENTE: PASSO A PASSO ============ */
+.steps{background:var(--pp50);border:1px solid #E4DAF2;border-left:3px solid var(--pp500);
+  border-radius:5px;padding:15px 20px 16px;margin:15px 0;break-inside:avoid;}
+.steps .lab{font-family:'Inter';font-size:8pt;font-weight:700;letter-spacing:.22em;text-transform:uppercase;
+  color:var(--pp700);display:flex;align-items:center;gap:7px;margin-bottom:11px;}
+.steps .lab svg{width:13px;height:13px;}
+.steps ol{list-style:none;counter-reset:st;margin:0;padding:0;}
+.steps li{counter-increment:st;font-family:'Inter';font-size:9.7pt;line-height:1.5;color:#2D2640;
+  padding:3px 0 3px 33px;position:relative;margin-bottom:2px;}
+.steps li::before{content:counter(st);position:absolute;left:0;top:2px;width:21px;height:21px;
+  background:var(--pp700);color:#fff;border-radius:50%;font-size:9pt;font-weight:600;
+  display:flex;align-items:center;justify-content:center;}
+.steps li b{font-weight:600;color:var(--pp900);}
+
+/* ============ COMPONENTE: REGRA ============ */
+.rule{display:flex;gap:13px;background:var(--gold50);border-left:3px solid var(--gold);
+  border-radius:4px;padding:13px 17px 13px 15px;margin:10px 0;break-inside:avoid;}
+.rule .badge{flex:0 0 auto;font-family:'Inter';font-weight:700;font-size:9.5pt;color:#fff;
+  background:var(--gold);border-radius:5px;padding:3px 8px;height:fit-content;letter-spacing:.02em;}
+.rule .rc h4{font-family:'Spectral';font-weight:600;font-size:11pt;color:#5C4406;margin:1px 0 3px;}
+.rule .rc p{font-family:'Spectral';font-size:9.8pt;line-height:1.5;color:#473A28;margin:0;}
+
+/* ============ COMPONENTE: DICA / ATALHO ============ */
+.tip{background:var(--teal50);border-left:3px solid var(--teal);border-radius:4px;
+  padding:12px 16px;margin:13px 0;break-inside:avoid;display:flex;gap:12px;}
+.tip .ic{flex:0 0 auto;width:19px;height:19px;color:var(--teal);margin-top:1px;}
+.tip .lab{font-family:'Inter';font-size:7.5pt;font-weight:700;letter-spacing:.2em;text-transform:uppercase;
+  color:var(--teal);margin-bottom:3px;}
+.tip p{font-family:'Spectral';font-size:9.8pt;line-height:1.5;margin:0;color:#234A44;}
+
+/* ============ COMPONENTE: ATENÇÃO ============ */
+.warn{background:var(--clay50);border-left:3px solid var(--clay);border-radius:4px;
+  padding:12px 16px;margin:13px 0;break-inside:avoid;display:flex;gap:12px;}
+.warn .ic{flex:0 0 auto;width:19px;height:19px;color:var(--clay);margin-top:1px;}
+.warn .lab{font-family:'Inter';font-size:7.5pt;font-weight:700;letter-spacing:.2em;text-transform:uppercase;
+  color:var(--clay);margin-bottom:3px;}
+.warn p{font-family:'Spectral';font-size:9.8pt;line-height:1.5;margin:0;color:#5C2A1B;}
+.warn p+p{margin-top:5px;}
+
+/* ============ COMPONENTE: LETRA ============ */
+.lyric{background:#F8F5FC;border:1px solid #E7DEF4;border-radius:5px;padding:14px 20px;margin:14px 0;break-inside:avoid;}
+.lyric .lh{font-family:'Inter';font-size:7.5pt;font-weight:700;letter-spacing:.2em;text-transform:uppercase;
+  color:var(--pp500);margin-bottom:9px;}
+.lyric .tag{font-family:'PlexMono';font-size:7.6pt;font-weight:600;color:var(--pp700);
+  text-transform:uppercase;letter-spacing:.08em;display:block;margin:9px 0 2px;}
+.lyric .tag:first-of-type{margin-top:0;}
+.lyric .ln{font-family:'Spectral';font-style:italic;font-size:10.6pt;line-height:1.62;color:#352A4A;display:block;}
+
+/* ============ SELO NÍVEL AVANÇADO ============ */
+.adv{display:inline-flex;align-items:center;gap:6px;font-family:'Inter';font-size:7.3pt;font-weight:700;
+  letter-spacing:.13em;text-transform:uppercase;color:var(--pp700);border:1.3px dashed var(--pp500);
+  border-radius:20px;padding:3px 10px;background:#FAF8FD;}
+.adv svg{width:11px;height:11px;}
+
+/* ============ DIVERSOS ============ */
+.callbox{background:var(--paper2);border-radius:5px;padding:14px 18px;margin:14px 0;border:1px solid var(--line);}
+.note{font-family:'Spectral';font-style:italic;font-size:9.8pt;color:var(--muted);margin:8px 0;}
+.divider{height:1px;background:var(--line);margin:18px 0;border:0;}
+ul.clean{margin:6px 0 10px;padding-left:18px;}
+ul.clean li{margin-bottom:4px;line-height:1.5;}
+.three-lv{display:flex;gap:10px;margin:14px 0;}
+.lv{flex:1;background:var(--paper2);border:1px solid var(--line);border-top:3px solid var(--pp500);
+  border-radius:5px;padding:12px 13px;break-inside:avoid;}
+.lv .n{font-family:'Cormorant';font-size:22pt;font-weight:600;color:var(--pp500);line-height:1;}
+.lv h4{font-family:'Inter';font-size:9.5pt;font-weight:700;margin:4px 0 4px;color:var(--ink);}
+.lv p{font-family:'Spectral';font-size:8.9pt;line-height:1.42;color:#4A4257;margin:0;}
+.lv.mid{border-top-color:var(--gold);}.lv.mid .n{color:var(--gold);}
+.lv.hi{border-top-color:var(--pp700);}.lv.hi .n{color:var(--pp700);}
+</style>
+</head>
+<body>
+
+<!-- ================= CAPA ================= -->
+<div class="cover">
+  <div class="glow"></div>
+  <div class="mark">&#10022;</div>
+  <div class="ey">Apostila do curso</div>
+  <h1>Músicas Cristãs<br>com <span class="it">Inteligência</span><br>Artificial</h1>
+  <div class="sub">O método de Fábio Pantoja</div>
+  <div class="rule-g"></div>
+  <div class="tag">Da Escritura ao louvor: como deixar de apertar um botão e começar a <strong>conduzir a IA</strong> para criar música que tem alma — passo a passo, com as regras que transformam o genérico em obra.</div>
+  <div class="foot">A Escritura Cantada &nbsp;·&nbsp; por <b>Fábio Pantoja</b></div>
+</div>
+
+<!-- ================= GUIA DE LEITURA ================= -->
+<div class="section">
+  <div class="eyebrow">Como ler esta apostila</div>
+  <div class="h-row"><h1 class="title">Os sinais ao longo do caminho</h1></div>
+  <p class="lead">Esta apostila acompanha o curso passo a passo e guarda a sua essência. Para você se achar de olhos fechados, cada tipo de conteúdo tem uma cara própria. Bata o olho e já saiba o que é:</p>
+
+  <div class="principle">
+    <svg class="star" viewBox="0 0 24 24" fill="#C8A86A"><path d="M12 0l2.4 9.6L24 12l-9.6 2.4L12 24l-2.4-9.6L0 12l9.6-2.4z"/></svg>
+    <div class="txt">Princípio — <b>uma verdade do método</b> que vale lembrar para sempre.</div>
+  </div>
+
+  <div class="steps">
+    <div class="lab"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4"><path d="M5 12l5 5L20 6"/></svg>Passo a passo</div>
+    <ol><li>A receita prática. Cada número é uma ação que você faz na tela, na ordem.</li></ol>
+  </div>
+
+  <div class="rule"><div class="badge">R</div><div class="rc"><h4>Regra</h4><p>Uma regra da sua fórmula — o que torna a música <em>sua</em>, e não genérica.</p></div></div>
+
+  <div class="tip"><svg class="ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M9 18h6M10 22h4M12 2a7 7 0 00-4 12c1 1 1 2 1 3h6c0-1 0-2 1-3a7 7 0 00-4-12z"/></svg><div><div class="lab">Dica / Atalho</div><p>Um macete que economiza seu tempo.</p></div></div>
+
+  <div class="warn"><svg class="ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 3l10 18H2z"/><path d="M12 9v5M12 17.5v.5"/></svg><div><div class="lab">Atenção</div><p>Um erro comum — inclusive os que a própria IA comete e você precisa pegar.</p></div></div>
+
+  <div class="lyric"><div class="lh">Exemplo de letra</div><span class="tag">[Refrão]</span><span class="ln">Trechos de música aparecem assim, com as marcações entre colchetes.</span></div>
+
+  <p style="margin-top:14px"><span class="adv"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><path d="M13 2L3 14h7l-1 8 10-12h-7z"/></svg>Nível avançado · Claude Code</span> &nbsp;marca o que pertence ao próximo degrau — a criação de música em escala. Fica como convite, não como exigência.</p>
+</div>
+
+<!-- ================= 0. A IDEIA CENTRAL ================= -->
+<div class="section">
+  <div class="eyebrow">A ideia central</div>
+  <div class="h-row"><span class="snum">00</span><h1 class="title">Na era da IA, você virou produtor musical</h1></div>
+  <p class="lead">Criar música nunca foi tão fácil. Qualquer pessoa, hoje, consegue gerar uma canção em minutos — sem instrumento, sem estúdio, sem teoria. Mas existe um abismo entre <em>apertar um botão</em> e <em>criar algo com alma</em>. Este curso é sobre atravessar esse abismo.</p>
+
+  <div class="principle">
+    <svg class="star" viewBox="0 0 24 24" fill="#C8A86A"><path d="M12 0l2.4 9.6L24 12l-9.6 2.4L12 24l-2.4-9.6L0 12l9.6-2.4z"/></svg>
+    <div class="txt">O segredo é <b>conduzir</b>. Nunca deixe a IA sozinha.</div>
+  </div>
+
+  <p>A IA entregue a si mesma trabalha em massa e devolve o genérico — letras bonitinhas, corretas, mas sem ninguém atrás. O valor não está na máquina; está na mão que dirige. E dirigir bem é uma habilidade que se aprende em três degraus:</p>
+
+  <div class="three-lv">
+    <div class="lv"><div class="n">1</div><h4>Pedir</h4><p>“Cria uma música sobre tal coisa.” Simples e rápido — mas você recebe o que todo mundo recebe.</p></div>
+    <div class="lv mid"><div class="n">2</div><h4>Dirigir</h4><p>Você entra com método, preferências e regras, e corrige o que vem. É aqui que a música ganha alma. É o coração deste curso.</p></div>
+    <div class="lv hi"><div class="n">3</div><h4>Orquestrar</h4><p>Produção em escala: uma IA cria, outra revisa, você gerencia. Um degrau acima — fica para depois.</p></div>
+  </div>
+
+  <div class="principle">
+    <svg class="star" viewBox="0 0 24 24" fill="#C8A86A"><path d="M12 0l2.4 9.6L24 12l-9.6 2.4L12 24l-2.4-9.6L0 12l9.6-2.4z"/></svg>
+    <div class="txt">O futuro pertence a quem tem <b>bom gosto</b> e sabe dirigir a máquina.</div>
+  </div>
+</div>
+
+<!-- ================= ANTES DE COMEÇAR ================= -->
+<div class="section">
+  <div class="eyebrow">Preparação</div>
+  <div class="h-row"><span class="snum">01</span><h1 class="title">Antes de começar</h1></div>
+
+  <h2>É possível criar de graça?</h2>
+  <p>Com certeza. Dá para criar centenas de músicas sem pagar nada — músicas de presente, de aniversário, de louvor. O custo só aparece se você quiser volume e os modelos mais novos.</p>
+
+  <h2>Onde criar</h2>
+  <p>Existem muitos sites de música com IA — Udio, o Gemini da Google, o Google Flow Music, entre outros. Neste curso o foco é o <span class="k">Suno</span>, que considero o melhor para criar música. Foque em uma ferramenta só: o Suno já tem mais recursos do que cabe num curso inteiro.</p>
+
+  <h2>Versões e plano</h2>
+  <ul class="clean">
+    <li>No <strong>plano gratuito</strong> você usa o modelo <span class="k">4.5 All</span> — muito bom, rende músicas ótimas.</li>
+    <li>O <strong>plano pago</strong> (cerca de R$ 50/mês) dá acesso ao modelo mais novo e a aproximadamente <strong>2.500 créditos</strong> — algo em torno de 500 músicas por mês.</li>
+  </ul>
+
+  <div class="tip"><svg class="ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M9 18h6M10 22h4M12 2a7 7 0 00-4 12c1 1 1 2 1 3h6c0-1 0-2 1-3a7 7 0 00-4-12z"/></svg><div><div class="lab">Dica</div><p>Cada criação gera <strong>duas versões</strong> de uma vez e conta como duas músicas. No gratuito são cerca de 10 músicas por dia. E você pode assinar um único mês, criar bastante, e cancelar depois — não precisa pagar todo mês.</p></div></div>
+</div>
+
+<!-- ================= ETAPA 1 ================= -->
+<div class="section">
+  <div class="eyebrow">Etapa 1 · O primeiro som</div>
+  <div class="h-row"><span class="snum">02</span><h1 class="title">Sua primeira música (instrumental)</h1></div>
+  <p class="lead">O jeito mais rápido de ver o Suno funcionando — e de descobrir que é simples. Aqui a lição é uma só: a sua voz já é matéria-prima. Você não precisa de instrumento nenhum.</p>
+
+  <div class="steps">
+    <div class="lab"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4"><path d="M5 12l5 5L20 6"/></svg>Criar um instrumental a partir da sua batida</div>
+    <ol>
+      <li>Entre no Suno e crie um <b>workspace</b> para o curso (sua pasta de organização).</li>
+      <li>Na aba <b>Criar</b>, clique no ícone de <b>gravar voz</b>.</li>
+      <li>Faça uma batida simples com a boca — um beatbox: <em>“tum, tss, tum, tss”</em>.</li>
+      <li>Marque a opção <b>Instrumental</b>.</li>
+      <li>Clique em <b>Criar</b>. O Suno detecta o ritmo (o BPM) da sua batida e gera a música em cima dele.</li>
+    </ol>
+  </div>
+
+  <div class="tip"><svg class="ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M9 18h6M10 22h4M12 2a7 7 0 00-4 12c1 1 1 2 1 3h6c0-1 0-2 1-3a7 7 0 00-4-12z"/></svg><div><div class="lab">Atalho</div><p>Use <strong>workspaces</strong> para se organizar: um para cada projeto ou música (Dia das Mães, Salmos, clientes). Tudo o que você criar fica no lugar certo.</p></div></div>
+</div>
+
+<!-- ================= ETAPA 2 ================= -->
+<div class="section">
+  <div class="eyebrow">Etapa 2 · O caminho fácil</div>
+  <div class="h-row"><span class="snum">03</span><h1 class="title">Pedir uma música ao Suno</h1></div>
+  <p class="lead">O modo mais simples de todos: você descreve, ele escreve e canta. Funciona — sai uma música agradável. Mas guarde esta palavra: <em>genérica</em>.</p>
+
+  <div class="steps">
+    <div class="lab"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4"><path d="M5 12l5 5L20 6"/></svg>Pedir pelo modo Prompt</div>
+    <ol>
+      <li>Na aba <b>Criar</b>, escolha o modo <b>Prompt</b>.</li>
+      <li>Descreva o que você quer: <em>“Faça uma música sobre o fruto do Espírito.”</em></li>
+      <li>Clique em <b>Criar</b>. O próprio Suno escreve a letra e canta.</li>
+    </ol>
+  </div>
+
+  <p>O resultado fica bonitinho, interessante — mas não é uma música que a pessoa postaria orgulhosa numa rede social. Pode sair algo incrível de primeira? Pode. Mas é como jogar a moeda para o alto: depende da sorte.</p>
+
+  <div class="warn"><svg class="ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 3l10 18H2z"/><path d="M12 9v5M12 17.5v.5"/></svg><div><div class="lab">Atenção</div><p>A IA tem vontade própria. Já pedi uma música <strong>instrumental</strong> e ela começou a cantar mesmo assim, ignorando a instrução. Isso acontece — por isso você sempre confere o que ela entregou.</p></div></div>
+</div>
+
+<!-- ================= ETAPA 3 ================= -->
+<div class="section">
+  <div class="eyebrow">Etapa 3 · Um passo acima</div>
+  <div class="h-row"><span class="snum">04</span><h1 class="title">O pedido com tempero: anáfora</h1></div>
+  <p class="lead">Agora você adiciona uma intenção ao pedido. Em vez de só “Salmo 1”, peça <em>“Salmo 1, usando anáfora”</em>. Continua sendo um pedido genérico — mas já tem um pouco de você dentro.</p>
+
+  <p><strong>Anáfora</strong> é a repetição de uma mesma expressão no início de versos seguidos. É um recurso simples que dá força e identidade à música:</p>
+
+  <div class="lyric">
+    <div class="lh">Anáfora — Salmo 1</div>
+    <span class="tag">[Verso]</span>
+    <span class="ln">Feliz é quem não anda no conselho do que é mal</span>
+    <span class="ln">Feliz é quem não para onde o pecado faz seu chão</span>
+    <span class="ln">Feliz é quem não senta junto ao riso do escárnio</span>
+    <span class="tag">[Refrão]</span>
+    <span class="ln">Como árvore plantada à beira do ribeiro</span>
+    <span class="ln">Como fruto que amadure no tempo certo, inteiro</span>
+  </div>
+
+  <div class="principle">
+    <svg class="star" viewBox="0 0 24 24" fill="#C8A86A"><path d="M12 0l2.4 9.6L24 12l-9.6 2.4L12 24l-2.4-9.6L0 12l9.6-2.4z"/></svg>
+    <div class="txt">Um bom pedido melhora o resultado. O que muda o jogo são <b>as suas regras.</b></div>
+  </div>
+</div>
+
+<!-- ================= ETAPA 4 ================= -->
+<div class="section">
+  <div class="eyebrow">Etapa 4 · A virada</div>
+  <div class="h-row"><span class="snum">05</span><h1 class="title">Criar a letra fora do Suno</h1></div>
+  <p class="lead">Aqui muda tudo. As melhores músicas não nascem dentro do Suno. Para dar conta do volume, ele usa um modo simples de gerar letra. A letra com alma nasce <em>fora</em> — numa IA de texto que você conduz de perto.</p>
+
+  <h2>Onde achar a melhor IA de texto</h2>
+  <p>Para escrever letra, você quer o melhor modelo de <strong>escrita criativa</strong> — música é escrita criativa, não um texto qualquer. Para descobrir qual é o melhor hoje, use o ranking do <span class="k">lmarena.ai</span>: entre em <b>Chat → Text → Creative Writing</b> e veja a classificação.</p>
+  <ul class="clean">
+    <li>No topo costuma estar a família <strong>Claude</strong> — os modelos mais fortes para letra.</li>
+    <li>O <strong>Gemini</strong>, da Google, é excelente e dá para usar de graça no <span class="k">aistudio.google.com</span>.</li>
+    <li>O <strong>ChatGPT</strong> também faz muito bem.</li>
+  </ul>
+
+  <div class="tip"><svg class="ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M9 18h6M10 22h4M12 2a7 7 0 00-4 12c1 1 1 2 1 3h6c0-1 0-2 1-3a7 7 0 00-4-12z"/></svg><div><div class="lab">Dica</div><p>Crie a mesma letra em duas ou três IAs diferentes e compare. Cada uma tem um sabor — e comparar afina o seu gosto.</p></div></div>
+
+  <div class="principle">
+    <svg class="star" viewBox="0 0 24 24" fill="#C8A86A"><path d="M12 0l2.4 9.6L24 12l-9.6 2.4L12 24l-2.4-9.6L0 12l9.6-2.4z"/></svg>
+    <div class="txt">A música que fica é a que você <b>conduziu</b> — não a que a IA fez sozinha.</div>
+  </div>
+</div>
+
+<!-- ================= ETAPA 5 ================= -->
+<div class="section">
+  <div class="eyebrow">Etapa 5 · A mão na massa</div>
+  <div class="h-row"><span class="snum">06</span><h1 class="title">Criar uma música de cabeça</h1></div>
+  <p class="lead">Antes de automatizar qualquer coisa, saiba criar com as próprias mãos. Abra um documento em branco e escreva do zero. Quando você ouvir, cantada, uma letra que saiu da sua cabeça, vai entender por que isso importa.</p>
+
+  <div class="tip"><svg class="ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M9 18h6M10 22h4M12 2a7 7 0 00-4 12c1 1 1 2 1 3h6c0-1 0-2 1-3a7 7 0 00-4-12z"/></svg><div><div class="lab">Atalho</div><p>No navegador, digite <span class="k">docs.new</span> e tecle Enter: abre um documento do Google em branco na hora, sem precisar passar pelo Drive.</p></div></div>
+
+  <div class="steps">
+    <div class="lab"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4"><path d="M5 12l5 5L20 6"/></svg>O método, do zero ao Suno</div>
+    <ol>
+      <li>Escolha um tema que <b>toca você</b> — algo que te atrai de verdade. Tema com alma já começa a música certa. (No exemplo: os atributos de Deus.)</li>
+      <li>Jogue palavras de cabeça, sem filtro: <em>Santo, Glorioso, Inigualável, Emanuel, Príncipe da Paz…</em></li>
+      <li>Comece a rimar e montar frases curtas a partir delas.</li>
+      <li>Agora chame a IA — mas só para <b>expandir</b>: peça mais palavras, um brainstorm. Não peça para ela fazer tudo.</li>
+      <li><b>Conduza</b>: aprove o que gostou, corte o que não serve, peça repetição e anáfora onde quiser.</li>
+      <li>Leve a letra pronta para o Suno e crie a música.</li>
+    </ol>
+  </div>
+
+  <div class="principle">
+    <svg class="star" viewBox="0 0 24 24" fill="#C8A86A"><path d="M12 0l2.4 9.6L24 12l-9.6 2.4L12 24l-2.4-9.6L0 12l9.6-2.4z"/></svg>
+    <div class="txt">A automatização nasce de você fazer <b>manualmente</b> primeiro. Não automatize o que ainda não sabe criar.</div>
+  </div>
+</div>
+
+<!-- ================= ETAPA 6 — A FÓRMULA ================= -->
+<div class="section">
+  <div class="eyebrow">Etapa 6 · O coração do método</div>
+  <div class="h-row"><span class="snum">07</span><h1 class="title">As suas regras: a Fórmula da Escritura Cantada</h1></div>
+  <p class="lead">Regras são o que tiram a música do genérico. E elas têm a ver com <em>você</em> — sua personalidade, sua fé, seu bom gosto, o que você acredita que é bonito. Elas não nascem prontas: nascem aos poucos, criando música e percebendo “isso aqui eu quero sempre”.</p>
+
+  <p>Esta é a minha fórmula — uma referência para você criar a sua. Trate-a como guia de estrutura mínima, nunca como camisa de força:</p>
+
+  <div class="rule"><div class="badge">R1</div><div class="rc"><h4>Idioma</h4><p>Tudo em português do Brasil, 100%. Modelos de texto tendem a escrever em inglês — peça explicitamente o português.</p></div></div>
+
+  <div class="rule"><div class="badge">R2</div><div class="rc"><h4>Criatividade com peso</h4><p>A letra não é cópia engessada do salmo. Palavras modernas e poéticas para garantir musicalidade, com tempero erudito quando couber — sem cair no rebuscado demais.</p></div></div>
+
+  <div class="rule"><div class="badge">R3</div><div class="rc"><h4>Spoken da Escritura</h4><p>Toda música abre com uma parte falada — <span class="k">[Spoken]</span> — trazendo um versículo na íntegra, tirado da <strong>Almeida Recebida</strong> (tradução de domínio público). É a essência do projeto: a música sai da Palavra.</p></div></div>
+
+  <div class="rule"><div class="badge">R4</div><div class="rc"><h4>Cristo no centro</h4><p>Capturar a alma do salmo e conectá-la à nova aliança — cruz, ressurreição, graça — sempre que houver sentido teológico. Erro de teologia não pode passar.</p></div></div>
+
+  <div class="rule"><div class="badge">R5</div><div class="rc"><h4>Estrutura e anáfora</h4><p>Usar as marcações entre colchetes — <span class="k">[Verso]</span> <span class="k">[Pré-refrão]</span> <span class="k">[Refrão]</span> <span class="k">[Ponte]</span> — variar a forma e empregar anáfora em bloco próprio, a repetição que dá força.</p></div></div>
+
+  <div class="rule"><div class="badge">R6</div><div class="rc"><h4>Encerramento e assinatura</h4><p>Fechar com louvor cantado (“Glória a Deus, aleluias”) e a assinatura do projeto: <em>“Toda honra e toda glória seja dada a Cristo. Este projeto nasceu no coração de Jesus e é realizado por Fábio Pantoja — A Escritura Cantada.”</em></p></div></div>
+
+  <div class="rule"><div class="badge">R7</div><div class="rc"><h4>Dicção e pronúncia</h4><p>Cuidar dos acentos e da forma como a IA vai cantar. Um exemplo clássico: “glorias” pode ser cantado como “glórias” se o acento escapar.</p></div></div>
+
+  <div class="principle">
+    <svg class="star" viewBox="0 0 24 24" fill="#C8A86A"><path d="M12 0l2.4 9.6L24 12l-9.6 2.4L12 24l-2.4-9.6L0 12l9.6-2.4z"/></svg>
+    <div class="txt">As suas regras são a sua <b>assinatura</b>. Elas não engessam — elas guiam.</div>
+  </div>
+</div>
+
+<!-- ================= ETAPA 7 ================= -->
+<div class="section">
+  <div class="eyebrow">Etapa 7 · Aplicar</div>
+  <div class="h-row"><span class="snum">08</span><h1 class="title">Criar um salmo do início ao fim</h1></div>
+  <p class="lead">Com as regras na mão, você manda a IA criar seguindo-as. Foi assim que nasceu, ao vivo, o Salmo 52 do projeto.</p>
+
+  <div class="steps">
+    <div class="lab"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4"><path d="M5 12l5 5L20 6"/></svg>Do salmo à música</div>
+    <ol>
+      <li>Cole as <b>suas regras</b> na IA de texto (uma vez; ela passa a conhecê-las).</li>
+      <li>Peça: <em>“Crie o Salmo 52 seguindo as minhas regras.”</em></li>
+      <li><b>Confira</b> o resultado contra as regras (a próxima etapa é toda sobre isso).</li>
+      <li>Leve a <b>letra</b> e o <b>estilo</b> sugerido para o Suno.</li>
+      <li>Crie a música — e ouça.</li>
+    </ol>
+  </div>
+
+  <div class="lyric">
+    <div class="lh">Abertura com Spoken — modelo</div>
+    <span class="tag">[Spoken]</span>
+    <span class="ln">Por que te glorias na malícia, ó homem poderoso?</span>
+    <span class="ln">A bondade de Deus subsiste em todo tempo.</span>
+    <span class="tag">[Refrão]</span>
+    <span class="ln">Eu floresço, eu floresço, como oliveira verde na casa de Deus</span>
+    <span class="ln">Confio na tua misericórdia, para sempre te louvarei</span>
+  </div>
+  <p class="note">O Spoken vem na íntegra do salmo, na Almeida Recebida. O refrão é poético e cristocêntrico, com anáfora. Regra por regra, costurada na letra.</p>
+</div>
+
+<!-- ================= ETAPA 8 ================= -->
+<div class="section">
+  <div class="eyebrow">Etapa 8 · O olho humano</div>
+  <div class="h-row"><span class="snum">09</span><h1 class="title">Conferir e corrigir</h1></div>
+  <p class="lead">Esta é a etapa que mais vale ouro — e a que separa o amador do profissional. A IA erra. Mesmo a melhor delas. O seu discernimento é o que salva a música.</p>
+
+  <div class="principle">
+    <svg class="star" viewBox="0 0 24 24" fill="#C8A86A"><path d="M12 0l2.4 9.6L24 12l-9.6 2.4L12 24l-2.4-9.6L0 12l9.6-2.4z"/></svg>
+    <div class="txt">A IA erra. O seu <b>olho</b> é o produto.</div>
+  </div>
+
+  <p>Estes três erros aconteceram de verdade, ao vivo, durante o curso — e foram pegos na hora:</p>
+
+  <div class="warn"><svg class="ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 3l10 18H2z"/><path d="M12 9v5M12 17.5v.5"/></svg><div><div class="lab">Atenção · versículo errado</div><p>A IA afirmou que “Santo, Santo, Santo é o Senhor dos Exércitos” era de Apocalipse. Era <strong>Isaías 6</strong>. Sempre confira a fonte do versículo.</p></div></div>
+
+  <div class="warn"><svg class="ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 3l10 18H2z"/><path d="M12 9v5M12 17.5v.5"/></svg><div><div class="lab">Atenção · tradução trocada</div><p>Ela misturou a <strong>Almeida Recebida</strong> com a Atualizada. A regra existe — confira se foi cumprida, palavra por palavra.</p></div></div>
+
+  <div class="warn"><svg class="ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 3l10 18H2z"/><path d="M12 9v5M12 17.5v.5"/></svg><div><div class="lab">Atenção · acento na hora de cantar</div><p>O Suno cantou “glórias” no lugar de “glorias”. Verbos costumam enrolar o acento. Ouça e corrija.</p></div></div>
+
+  <h3>Como validar, uma a uma</h3>
+  <ul class="clean">
+    <li>Leia a letra <strong>cantando baixinho</strong> — você sente na hora se encaixa.</li>
+    <li>Abra o <strong>salmo ao lado</strong> e compare; confira o versículo na íntegra.</li>
+    <li>Quando o salmo te der um insight, <strong>refaça</strong> a letra. Faz parte.</li>
+  </ul>
+
+  <div class="callbox">
+    <p style="margin-bottom:6px"><span class="adv"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><path d="M13 2L3 14h7l-1 8 10-12h-7z"/></svg>Nível avançado · Claude Code</span></p>
+    <p style="margin:0">Num projeto maior, esse trabalho vira linha de produção: uma IA <strong>cria</strong> a letra seguindo as regras, e <strong>outra IA revisa</strong> — como dois funcionários, um que escreve e outro que confere e reprova o que sai do padrão. Isso é orquestração, o terceiro degrau. Assunto de outro curso.</p>
+  </div>
+</div>
+
+<!-- ================= ETAPA 9 ================= -->
+<div class="section">
+  <div class="eyebrow">Etapa 9 · Acabamento</div>
+  <div class="h-row"><span class="snum">10</span><h1 class="title">Editar e finalizar no Suno</h1></div>
+  <p class="lead">Às vezes você não quer recriar a música inteira — só ajustar um trecho. O Suno tem um editor para isso.</p>
+
+  <div class="steps">
+    <div class="lab"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4"><path d="M5 12l5 5L20 6"/></svg>Trocar um trecho da letra</div>
+    <ol>
+      <li>Com a música pronta, abra o menu <b>•••</b> e clique em <b>Editar</b>.</li>
+      <li>Clique em <b>Open in editor</b> (abrir no editor).</li>
+      <li>Selecione o trecho que quer mudar e clique em <b>Replace lyrics</b>.</li>
+      <li>Digite o novo texto e confirme em <b>Replace</b> (gasta cerca de 4 créditos).</li>
+      <li>Aperte <b>Commit</b> para aplicar e depois <b>Salvar nova música</b>.</li>
+    </ol>
+  </div>
+
+  <div class="tip"><svg class="ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M9 18h6M10 22h4M12 2a7 7 0 00-4 12c1 1 1 2 1 3h6c0-1 0-2 1-3a7 7 0 00-4-12z"/></svg><div><div class="lab">Dica</div><p>Para trocar uma só palavra, <strong>selecione um trecho maior</strong> ao redor. Pedaço minúsculo costuma dar erro na hora de regenerar. E lembre: a tecla <strong>espaço</strong> toca e pausa a música.</p></div></div>
+
+  <h3>Baixar a música</h3>
+  <p>No menu <b>•••</b> → <b>Download</b> → <strong>MP3</strong> (gratuito). Os formatos WAV (mais qualidade) e o vídeo MP4 ficam disponíveis no plano pago.</p>
+</div>
+
+<!-- ================= ETAPA 10 ================= -->
+<div class="section">
+  <div class="eyebrow">Etapa 10 · Multiplicar</div>
+  <div class="h-row"><span class="snum">11</span><h1 class="title">Recursos que multiplicam</h1></div>
+  <p class="lead">Quando você já domina o básico, estes recursos fazem você render muito mais.</p>
+
+  <h3>Sua voz (Persona)</h3>
+  <p>Grave a sua voz uma vez — ela vira uma <strong>persona</strong> reutilizável, que você usa em qualquer música. Regule a influência dela; em torno de <strong>50%</strong> costuma ser o ponto certo (no máximo, ela distorce).</p>
+
+  <h3>Inspiração (até 4 faixas)</h3>
+  <p>Arraste até quatro músicas suas que deram certo para usar como base. O Suno cria algo novo no mesmo clima daquelas que funcionaram.</p>
+
+  <h3>Reutilizar prompt e variações</h3>
+  <p>No menu <b>•••</b> → <b>Remix</b> → <b>reutilizar prompt</b>, você recria variações rapidamente. Numere suas tentativas — <span class="k">V1</span>, <span class="k">V1.1</span>, <span class="k">V1.2</span> — porque você vai criar muitas versões da mesma ideia até chegar na melhor.</p>
+
+  <h3>Organização</h3>
+  <p>Use <strong>workspaces</strong> e <strong>playlists</strong> para separar por projeto, igreja, clientes, músicas lentas, rápidas. Quanto mais você cria, mais isso salva o seu tempo.</p>
+</div>
+
+<!-- ================= ENCERRAMENTO ================= -->
+<div class="section">
+  <div class="eyebrow">Para levar com você</div>
+  <div class="h-row"><h1 class="title">A essência, em uma página</h1></div>
+  <p class="lead">Se você esquecer todos os botões, lembre destas verdades. Elas são o curso inteiro destilado:</p>
+
+  <div class="principle"><svg class="star" viewBox="0 0 24 24" fill="#C8A86A"><path d="M12 0l2.4 9.6L24 12l-9.6 2.4L12 24l-2.4-9.6L0 12l9.6-2.4z"/></svg><div class="txt">O segredo é <b>conduzir</b>. Nunca deixe a IA sozinha.</div></div>
+  <div class="principle"><svg class="star" viewBox="0 0 24 24" fill="#C8A86A"><path d="M12 0l2.4 9.6L24 12l-9.6 2.4L12 24l-2.4-9.6L0 12l9.6-2.4z"/></svg><div class="txt">As suas <b>regras</b> são a sua assinatura. Elas guiam, não engessam.</div></div>
+  <div class="principle"><svg class="star" viewBox="0 0 24 24" fill="#C8A86A"><path d="M12 0l2.4 9.6L24 12l-9.6 2.4L12 24l-2.4-9.6L0 12l9.6-2.4z"/></svg><div class="txt">A IA erra. O seu <b>olho</b> é o produto.</div></div>
+
+  <p style="margin-top:16px">Comece simples. A pessoa que aperta um botão e a que cria com alma usam a mesma ferramenta — o que muda é a <strong>direção</strong>. Você já sabe o caminho: pedir, dirigir e, um dia, orquestrar.</p>
+
+  <div class="callbox" style="text-align:center;border-color:#E0D6C2;background:#FBF6EA;">
+    <p style="font-family:'Cormorant';font-style:italic;font-size:16pt;color:var(--pp700);margin:2px 0 6px;line-height:1.3;">“Caminhar devagar na direção certa é melhor<br>do que correr na direção errada.”</p>
+    <p class="small" style="margin:0;">Crie muita música — para você, para a sua família, para os seus amigos, para Deus.</p>
+  </div>
+
+  <hr class="divider">
+  <p style="text-align:center;font-family:'Cormorant';font-size:15pt;color:var(--pp900);font-weight:600;margin:14px 0 2px;">&#10022;</p>
+  <p style="text-align:center;font-family:'Spectral';font-style:italic;font-size:11pt;color:var(--muted);margin:0;">Toda honra e toda glória seja dada a Cristo.<br>A Escritura Cantada &nbsp;·&nbsp; Fábio Pantoja</p>
+</div>
+
+</body>
+</html>
