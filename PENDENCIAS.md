@@ -7,7 +7,7 @@
 
 ## 🙋 Dependem de você (Pantoja)
 
-- [ ] **Capa do PDF isca** — fazer a capa (dica: Canva → exporta PDF; juntar com o miolo no iLovePDF) e colocar o arquivo final em `public/iscas/metodo-pantoja-amostra.pdf`.
+- [ ] **Apostila completa (isca)** — a isca NÃO é mais uma amostra: é a **apostila COMPLETA do curso**, dada de graça em troca do contato (estratégia: gera desejo pela explicação ao vivo do curso). Capa já feita (incluir correção "Excritura → Escritura"). Colocar o PDF final em `public/iscas/` (nome a definir, ex.: `apostila-completa.pdf`). Pantoja vai me mandar a apostila para revisão.
 - [ ] **Planilha de leads** — seguir `docs/configurar-planilha-leads.html` (≈5 min): criar a planilha, colar o Apps Script, publicar como App da Web e me mandar a URL `/exec`.
 - [x] **Publicar na Vercel** — ✅ feito pelo Pantoja, site no ar. *(quando a planilha estiver pronta, adicionar `LEAD_WEBHOOK_URL` nas Environment Variables da Vercel e refazer o deploy)*
 
@@ -58,3 +58,11 @@
 **Pendências de asset (Pantoja cria, eu integro depois):**
 - [ ] **Fundo do topo (Hero)** — imagem ou vídeo sutil dando movimento/design. Pantoja vai criar. *(testar imagem vs. vídeo)*
 - [ ] **Imagem do momento em família** (pessoa dando presente) — Pantoja ainda vai definir quem aparece. *(seção do Hero, lado direito — hoje é placeholder)*
+
+### 🎯 Rodada 4 — Isca vira a apostila completa (mudança de estratégia)
+
+- Capa da apostila aprovada (linda); **corrigir "Da Excritura ao louvor" → "Da Escritura ao louvor"** (1º bullet com ícone de livro) e reexportar.
+- [ ] **Reescrever a copy da seção de captura** (`CapturaLead` + `leadMagnet` no site.ts) — sair de "amostra/aperitivo/primeiro passo" para **"apostila completa do curso, de graça"**.
+- [ ] **Decisão: qual contato pedir** — e-mail, WhatsApp ou os dois? *(antes era WhatsApp; agora Pantoja falou e-mail)*
+- [ ] **Decisão: como entregar** — download na hora na tela (recomendado) ou envio por e-mail?
+- [ ] **Revisar a apostila** — Pantoja vai mandar o arquivo (feito no chat do Claude); eu leio inteira e devolvo ajustes (ortografia, consistência, fluidez, ganchos de conversão).
