@@ -6,9 +6,11 @@ import { Equalizer } from "@/components/ui/Equalizer";
 export function Hero() {
   return (
     <section className="relative overflow-hidden bg-background px-6 pb-20 pt-16 sm:pt-20" id="topo">
-      {/* ── Vídeo de fundo (sem som) ── */}
+      {/* ── Vídeo de fundo (sem som) — só no celular ──
+         O vídeo é vertical; no desktop (largura grande) ele teria de dar
+         zoom e distorcer, então ele só aparece em telas pequenas. */}
       <video
-        className="pointer-events-none absolute inset-0 h-full w-full object-cover"
+        className="pointer-events-none absolute inset-0 h-full w-full object-cover md:hidden"
         autoPlay
         muted
         loop
@@ -17,9 +19,9 @@ export function Hero() {
       >
         <source src="/video-fundo-hero.mp4" type="video/mp4" />
       </video>
-      {/* Camada para manter o texto legível sobre o vídeo */}
+      {/* Camada para manter o texto legível sobre o vídeo (só no celular) */}
       <div
-        className="pointer-events-none absolute inset-0 bg-background/82"
+        className="pointer-events-none absolute inset-0 bg-background/82 md:hidden"
         aria-hidden="true"
       />
 
