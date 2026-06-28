@@ -19,11 +19,13 @@
 
 /* ============ TOKENS ============ */
 :root{
-  --ink:#241C2E; --muted:#6E6580;
-  --paper:#FCFBF8; --paper2:#F5F2EA; --line:#E5DFD3;
-  --pp900:#2A1A46; --pp700:#4A2E7A; --pp500:#6B4BA3; --pp50:#F1ECF8;
+  /* Paleta alinhada ao site e à capa: azul-marinho + terracota + dourado */
+  --ink:#222a36; --muted:#5d6675;
+  --paper:#FCFBF8; --paper2:#F4F1EA; --line:#E7DFD2;
+  /* "pp" = azul-marinho (antes era roxo) */
+  --pp900:#213750; --pp700:#34507a; --pp500:#5a76a6; --pp50:#EAF0F7;
   --gold:#A8780F; --gold50:#F6EDD6;
-  --teal:#1F6E63; --teal50:#E3F0ED;
+  --teal:#1F5F6E; --teal50:#E2EEF0;
   --clay:#AE4127; --clay50:#F8E8E2;
 }
 
@@ -44,7 +46,7 @@ body{margin:0;font-size:10.4pt;line-height:1.62;}
 p{margin:0 0 9px;}
 strong{font-weight:600;}
 em{font-style:italic;}
-.lead{font-size:11.6pt;line-height:1.55;color:#3A3148;}
+.lead{font-size:11.6pt;line-height:1.55;color:#343b45;}
 .small{font-size:9pt;color:var(--muted);}
 a{color:var(--pp700);text-decoration:none;}
 
@@ -94,7 +96,7 @@ h3{font-family:'Inter';font-weight:600;font-size:10.5pt;color:var(--ink);margin:
   color:var(--pp700);display:flex;align-items:center;gap:7px;margin-bottom:11px;}
 .steps .lab svg{width:13px;height:13px;}
 .steps ol{list-style:none;counter-reset:st;margin:0;padding:0;}
-.steps li{counter-increment:st;font-family:'Inter';font-size:9.7pt;line-height:1.5;color:#2D2640;
+.steps li{counter-increment:st;font-family:'Inter';font-size:9.7pt;line-height:1.5;color:#2b3240;
   padding:3px 0 3px 33px;position:relative;margin-bottom:2px;}
 .steps li::before{content:counter(st);position:absolute;left:0;top:2px;width:21px;height:21px;
   background:var(--pp700);color:#fff;border-radius:50%;font-size:9pt;font-weight:600;
@@ -127,13 +129,13 @@ h3{font-family:'Inter';font-weight:600;font-size:10.5pt;color:var(--ink);margin:
 .warn p+p{margin-top:5px;}
 
 /* ============ COMPONENTE: LETRA ============ */
-.lyric{background:#F8F5FC;border:1px solid #E7DEF4;border-radius:5px;padding:14px 20px;margin:14px 0;break-inside:avoid;}
+.lyric{background:#F5F8FC;border:1px solid #DEE7F2;border-radius:5px;padding:14px 20px;margin:14px 0;break-inside:avoid;}
 .lyric .lh{font-family:'Inter';font-size:7.5pt;font-weight:700;letter-spacing:.2em;text-transform:uppercase;
   color:var(--pp500);margin-bottom:9px;}
 .lyric .tag{font-family:'PlexMono';font-size:7.6pt;font-weight:600;color:var(--pp700);
   text-transform:uppercase;letter-spacing:.08em;display:block;margin:9px 0 2px;}
 .lyric .tag:first-of-type{margin-top:0;}
-.lyric .ln{font-family:'Spectral';font-style:italic;font-size:10.6pt;line-height:1.62;color:#352A4A;display:block;}
+.lyric .ln{font-family:'Spectral';font-style:italic;font-size:10.6pt;line-height:1.62;color:#2f3640;display:block;}
 
 /* ============ SELO NÍVEL AVANÇADO ============ */
 .adv{display:inline-flex;align-items:center;gap:6px;font-family:'Inter';font-size:7.3pt;font-weight:700;
@@ -152,7 +154,7 @@ ul.clean li{margin-bottom:4px;line-height:1.5;}
   border-radius:5px;padding:12px 13px;break-inside:avoid;}
 .lv .n{font-family:'Cormorant';font-size:22pt;font-weight:600;color:var(--pp500);line-height:1;}
 .lv h4{font-family:'Inter';font-size:9.5pt;font-weight:700;margin:4px 0 4px;color:var(--ink);}
-.lv p{font-family:'Spectral';font-size:8.9pt;line-height:1.42;color:#4A4257;margin:0;}
+.lv p{font-family:'Spectral';font-size:8.9pt;line-height:1.42;color:#454c57;margin:0;}
 .lv.mid{border-top-color:var(--gold);}.lv.mid .n{color:var(--gold);}
 .lv.hi{border-top-color:var(--pp700);}.lv.hi .n{color:var(--pp700);}
 </style>
