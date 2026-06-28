@@ -24,6 +24,9 @@ export function Sobre() {
             <p className="mt-4 text-[16.5px] leading-relaxed text-muted">
               {site.instrutor.bio}
             </p>
+            <p className="mt-4 text-[16.5px] leading-relaxed text-muted">
+              {site.instrutor.proposta}
+            </p>
           </div>
         </Reveal>
       </div>

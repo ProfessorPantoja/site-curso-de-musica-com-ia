@@ -65,6 +65,9 @@ export const site = {
     nome: "Fábio Pantoja",
     titulo: "Criador do Método Pantoja e do projeto A Escritura Cantada",
     bio: "Eu já criei centenas de músicas. Fiz para a minha mãe nos 70 anos dela, fiz para a minha irmã — que se emocionou —, fiz para a pequena Sofia, que passou a pedir para ouvir a “música dela” todo dia. E criei o projeto A Escritura Cantada, transformando os Salmos e a Palavra em canção. Foi vendo a reação das pessoas que eu entendi uma coisa: o segredo não é a inteligência artificial — é o jeito de conduzir ela. Eu reviso, eu refino, eu mentalizo a música como se já estivesse cantando, crio repetições que dão alma à letra. Isso a IA não faz sozinha. É exatamente esse método que eu te ensino aqui.",
+    // Parágrafo de fechamento da seção "Quem te ensina" (proposta do curso)
+    proposta:
+      "Aqui eu abro o método por inteiro. Passo a passo, do meu jeito de pensar uma canção, eu te mostro exatamente como crio — o mesmo método que usei em cada música do projeto A Escritura Cantada. É só copiar, colar e seguir. Mesmo que você não saiba nada de música, nem nada de inteligência artificial, ao concluir este curso você estará criando as suas próprias músicas: começando por Deus, depois para você e para quem você ama.",
   },
 
   // ── Projeto-prova: Escritura Cantada ────────────────────────

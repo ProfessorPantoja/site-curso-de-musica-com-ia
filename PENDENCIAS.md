@@ -51,6 +51,10 @@
 - [x] **Animação de entrada mais clara** — ✅ reveal reforçado (mais deslocamento + leve escala). *(me diz no celular se quer ainda mais forte)*
 - ✅ Headline e subtítulo do Hero: **aprovados** pelo Pantoja.
 
+### 🎯 Rodada 3 — Seção "Quem te ensina"
+
+- [x] **Parágrafo de proposta** — ✅ síntese da fala do Pantoja (método aberto + copiar/colar + Escritura Cantada + promessa de criar músicas para Deus/você/quem ama) adicionada na seção Sobre.
+
 **Pendências de asset (Pantoja cria, eu integro depois):**
 - [ ] **Fundo do topo (Hero)** — imagem ou vídeo sutil dando movimento/design. Pantoja vai criar. *(testar imagem vs. vídeo)*
 - [ ] **Imagem do momento em família** (pessoa dando presente) — Pantoja ainda vai definir quem aparece. *(seção do Hero, lado direito — hoje é placeholder)*
