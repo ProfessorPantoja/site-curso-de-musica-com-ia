@@ -12,6 +12,7 @@ export function CapturaLead() {
   const [whatsapp, setWhatsapp] = useState("");
   const [status, setStatus] = useState<Status>("idle");
   const [erro, setErro] = useState("");
+  const [baixado, setBaixado] = useState(false);
 
   if (!lm.ativo) return null;
 
@@ -62,9 +63,14 @@ export function CapturaLead() {
                 <a
                   href={lm.arquivoPdf}
                   download={lm.nomeArquivoDownload}
+                  onClick={() => setBaixado(true)}
                   className="mt-6 inline-flex w-full items-center justify-center gap-2.5 rounded-full bg-terra py-4 text-[17px] font-extrabold text-white shadow-[0_14px_30px_rgba(217,154,108,0.4)] transition-transform hover:-translate-y-0.5 hover:brightness-[1.04]"
                 >
-                  {lm.textoDownload} <span aria-hidden>↓</span>
+                  {baixado ? (
+                    <>Baixada! Clique para baixar de novo <span aria-hidden>✓</span></>
+                  ) : (
+                    <>{lm.textoDownload} <span aria-hidden>↓</span></>
+                  )}
                 </a>
               </div>
             ) : (

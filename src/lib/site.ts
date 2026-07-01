@@ -53,9 +53,12 @@ export const site = {
     subtitulo:
       "São 16 páginas com o método do Pantoja condensado: o passo a passo, as dicas e os macetes que ele ensina no curso. Deixe seu nome e WhatsApp e baixe agora.",
     textoBotao: "Quero a apostila grátis",
-    // ⬇️ Caminho do PDF dentro de /public. Troque pelo arquivo final.
-    arquivoPdf: "/iscas/apostila-completa.pdf",
-    // Nome do arquivo que aparece para quem baixa (não precisa bater com o caminho acima).
+    // ⬇️ Rota que serve o PDF (o arquivo real fica em public/iscas/apostila-completa.pdf).
+    // Serve via API (src/app/api/apostila/route.ts) em vez de link direto porque o Vercel
+    // manda um Content-Disposition próprio para arquivos estáticos, que "vence" o nome
+    // definido abaixo — servindo por aqui, controlamos o header e o nome final.
+    arquivoPdf: "/api/apostila",
+    // Nome do arquivo que aparece para quem baixa.
     nomeArquivoDownload: "Apostila Completa - Método Pantoja de Criação de Música com IA - Prof. Pantoja.pdf",
     // Tela exibida depois que o cadastro dá certo:
     sucessoTitulo: "Prontinho! Sua apostila está liberada 🎉",
