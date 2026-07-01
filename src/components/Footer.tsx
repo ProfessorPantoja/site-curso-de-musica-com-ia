@@ -29,7 +29,8 @@ export function Footer() {
             </a>
           ))}
           <span>
-            © {ano} {site.instrutor.nome} · Curso intensivo de criação musical
+            © {ano} {site.instrutor.nome} · www.fabiopantoja.com.br · Curso intensivo de
+            criação musical
           </span>
         </div>
       </div>
