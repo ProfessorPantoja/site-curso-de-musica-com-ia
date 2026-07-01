@@ -16,8 +16,8 @@
 - [x] **Apostila completa (isca)** — ✅ PDF final aprovado e no ar em `public/iscas/apostila-completa.pdf`.
 - [x] **Planilha de leads** — ✅ Apps Script publicado, `LEAD_WEBHOOK_URL` testada (gravou de verdade) e configurada nas Environment Variables da Vercel.
 - [x] **Publicar na Vercel** — ✅ feito pelo Pantoja, site no ar.
-- [ ] **Confirmar que o Redeploy pegou a variável** — testar de novo em aba anônima (nome + WhatsApp) e conferir se a linha aparece na planilha em produção.
-- [ ] *(opcional, baixo risco)* Apagar o PDF de comparação `Apostila/Apostila-Musicas-Cristas-com-IA-Fabio-Pantoja.pdf` (sem `-COM-CTA`) — não é mais necessário agora que o final foi aprovado. Aviso e não apago sozinho.
+- [x] **Confirmar que o Redeploy pegou a variável** — ✅ confirmado: leads reais ("fabio", "teste Pantoja", origem "landing") gravando na aba "Leads" da planilha em produção. Ponta a ponta funcionando: cadastro → planilha → download da apostila.
+- [ ] *(opcional, baixo risco)* Apagar linhas de teste na planilha (linhas 2-9, mantendo o cabeçalho) e o PDF de comparação `Apostila/Apostila-Musicas-Cristas-com-IA-Fabio-Pantoja.pdf` (sem `-COM-CTA`) — não é mais necessário agora que o final foi aprovado. Aviso e não apago sozinho.
 
 ## 🛠️ Comigo (faço quando você liberar / me passar o insumo)
 
