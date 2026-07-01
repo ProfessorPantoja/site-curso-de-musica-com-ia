@@ -61,7 +61,7 @@ export function CapturaLead() {
                 <p className="mt-2 text-muted">{lm.sucessoTexto}</p>
                 <a
                   href={lm.arquivoPdf}
-                  download
+                  download={lm.nomeArquivoDownload}
                   className="mt-6 inline-flex w-full items-center justify-center gap-2.5 rounded-full bg-terra py-4 text-[17px] font-extrabold text-white shadow-[0_14px_30px_rgba(217,154,108,0.4)] transition-transform hover:-translate-y-0.5 hover:brightness-[1.04]"
                 >
                   {lm.textoDownload} <span aria-hidden>↓</span>
