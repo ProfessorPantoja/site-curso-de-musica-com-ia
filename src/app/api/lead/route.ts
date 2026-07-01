@@ -1,4 +1,4 @@
-import { NextResponse, type NextRequest } from "next/server";
+import { NextResponse, after, type NextRequest } from "next/server";
 
 /**
  * Recebe os cadastros do formulário da isca (Nome + WhatsApp) e os encaminha
@@ -8,6 +8,10 @@ import { NextResponse, type NextRequest } from "next/server";
  * Enquanto LEAD_WEBHOOK_URL não estiver configurada, o formulário continua
  * funcionando (o lead é só registrado no log do servidor) — assim dá para
  * testar a tela antes de ligar a planilha.
+ *
+ * O envio ao webhook roda em `after()` (segundo plano, pós-resposta): o
+ * Apps Script pode ser lento/instável (cold start) e a liberação do PDF —
+ * a ação de conversão principal — não pode ficar refém disso.
  *
  * Passo a passo da planilha: docs/configurar-planilha-leads.html
  */
@@ -37,28 +41,26 @@ export async function POST(request: NextRequest) {
   if (!webhook) {
     // Planilha ainda não conectada: não perde o lead, registra no servidor.
     console.warn("[lead] LEAD_WEBHOOK_URL não configurada. Lead recebido:", { nome, whatsapp });
-    return NextResponse.json({ ok: true, salvo: false });
+    return NextResponse.json({ ok: true });
   }
 
-  try {
-    const resp = await fetch(webhook, {
-      method: "POST",
-      headers: { "Content-Type": "application/json" },
-      body: JSON.stringify({
-        nome,
-        whatsapp,
-        origem: "landing",
-        criadoEm: new Date().toISOString(),
-      }),
-    });
-    if (!resp.ok) throw new Error(`webhook respondeu ${resp.status}`);
-  } catch (erro) {
-    console.error("[lead] falha ao enviar para a planilha:", erro);
-    return NextResponse.json(
-      { ok: false, erro: "Não consegui registrar agora. Tente de novo." },
-      { status: 502 },
-    );
-  }
+  after(async () => {
+    try {
+      const resp = await fetch(webhook, {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({
+          nome,
+          whatsapp,
+          origem: "landing",
+          criadoEm: new Date().toISOString(),
+        }),
+      });
+      if (!resp.ok) throw new Error(`webhook respondeu ${resp.status}`);
+    } catch (erro) {
+      console.error("[lead] falha ao enviar para a planilha:", erro);
+    }
+  });
 
-  return NextResponse.json({ ok: true, salvo: true });
+  return NextResponse.json({ ok: true });
 }
