@@ -13,13 +13,14 @@
 
 ## 🙋 Dependem de você (Pantoja)
 
-- [ ] **Apostila completa (isca)** — a isca NÃO é mais uma amostra: é a **apostila COMPLETA do curso**, dada de graça em troca do contato (estratégia: gera desejo pela explicação ao vivo do curso). Capa já feita (incluir correção "Excritura → Escritura"). Colocar o PDF final em `public/iscas/` (nome a definir, ex.: `apostila-completa.pdf`). Pantoja vai me mandar a apostila para revisão.
-- [ ] **Planilha de leads** — seguir `docs/configurar-planilha-leads.html` (≈5 min): criar a planilha, colar o Apps Script, publicar como App da Web e me mandar a URL `/exec`.
-- [x] **Publicar na Vercel** — ✅ feito pelo Pantoja, site no ar. *(quando a planilha estiver pronta, adicionar `LEAD_WEBHOOK_URL` nas Environment Variables da Vercel e refazer o deploy)*
+- [x] **Apostila completa (isca)** — ✅ PDF final aprovado e no ar em `public/iscas/apostila-completa.pdf`.
+- [x] **Planilha de leads** — ✅ Apps Script publicado, `LEAD_WEBHOOK_URL` testada (gravou de verdade) e configurada nas Environment Variables da Vercel.
+- [x] **Publicar na Vercel** — ✅ feito pelo Pantoja, site no ar.
+- [ ] **Confirmar que o Redeploy pegou a variável** — testar de novo em aba anônima (nome + WhatsApp) e conferir se a linha aparece na planilha em produção.
+- [ ] *(opcional, baixo risco)* Apagar o PDF de comparação `Apostila/Apostila-Musicas-Cristas-com-IA-Fabio-Pantoja.pdf` (sem `-COM-CTA`) — não é mais necessário agora que o final foi aprovado. Aviso e não apago sozinho.
 
 ## 🛠️ Comigo (faço quando você liberar / me passar o insumo)
 
-- [ ] **Ligar a planilha** — assim que você me mandar a URL `/exec`, configuro `LEAD_WEBHOOK_URL` e confirmo que os leads estão caindo na planilha.
 - [ ] **Ajustes no site** — anotações que você for fazendo olhando pelo celular entram aqui (texto, cor, ordem das seções, etc.).
 
 ## 🔁 Combinados (regras fixas)
@@ -74,8 +75,8 @@
 - [x] **Reescrever a copy da seção de captura** — ✅ agora "Baixe a apostila completa do curso — de graça" (16 páginas, dicas, macetes), botão "Quero a apostila grátis".
 - [x] **Decisão: qual contato pedir** — ✅ **só Nome + WhatsApp** (sem e-mail; menos campos = mais conversão).
 - [x] **Decisão: como entregar** — ✅ **download na hora** na tela (já implementado).
-- [ ] **Colocar o PDF final** em `public/iscas/apostila-completa.pdf` (depois das edições da apostila).
+- [x] **Colocar o PDF final** em `public/iscas/apostila-completa.pdf` — ✅ feito.
 - [x] **Apostila trazida e ajustada** — ✅ na pasta `Apostila/`. Feito: fontes resolvidas, paleta azul-marinho, capa nova, rodapé com nome+site e seção de CTA (curso + WhatsApp).
-- [ ] **Pantoja conferir o PDF `…-COM-CTA.pdf`** e aprovar (comparar com o anterior). Depois: virar o PDF oficial e remover o de comparação.
-- [ ] **Confirmar o domínio** do link na apostila/rodapé — **bloqueado**, ver seção "🚨 Bloqueios" no topo (domínio ainda não comprado; usar URL da Vercel como substituto temporário).
-- [ ] **PDF final → site**: copiar para `public/iscas/apostila-completa.pdf` quando aprovado.
+- [x] **Pantoja conferir o PDF `…-COM-CTA.pdf`** e aprovar — ✅ aprovado ("deixa pra lá senão não anda o site"), virou o PDF oficial do site.
+- [x] **Confirmar o domínio** do link na apostila/rodapé — ✅ mostra `fabiopantoja.com.br/curso` com link real por baixo apontando pra Vercel (ver seção "🚨 Bloqueios").
+- [x] **PDF final → site** — ✅ copiado para `public/iscas/apostila-completa.pdf`.
