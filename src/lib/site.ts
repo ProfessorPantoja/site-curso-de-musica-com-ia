@@ -56,7 +56,7 @@ export const site = {
     // ⬇️ Caminho do PDF dentro de /public. Troque pelo arquivo final.
     arquivoPdf: "/iscas/apostila-completa.pdf",
     // Nome do arquivo que aparece para quem baixa (não precisa bater com o caminho acima).
-    nomeArquivoDownload: "Apostila Completa do Curso Música Cristã com IA - Prof Pantoja.pdf",
+    nomeArquivoDownload: "Apostila Completa - Método Pantoja de Criação de Música com IA - Prof. Pantoja.pdf",
     // Tela exibida depois que o cadastro dá certo:
     sucessoTitulo: "Prontinho! Sua apostila está liberada 🎉",
     sucessoTexto:
