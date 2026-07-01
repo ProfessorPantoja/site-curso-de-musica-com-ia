@@ -5,9 +5,9 @@
 
 ---
 
-## 🚨 Bloqueios / decisões em aberto (registrado 30/06/2026, à noite — por voz, detalhar amanhã)
+## 🚨 Bloqueios / decisões em aberto
 
-> Pantoja ditou por voz uma leva de pendências para retomar amanhã com calma. Alguns pontos da fala saíram truncados (transcrição por voz) — **confirmar o texto exato com ele antes de aplicar**, não presumir.
+> Rodada ditada por voz na noite de 30/06/2026 — resolvida na sessão seguinte (mesma noite, após confirmação de texto com o Pantoja). Só o item 6 (ideia) segue em aberto.
 
 1. ✅ **BUG — apostila parou de baixar — corrigido.** Causa raiz: a rota `src/app/api/lead/route.ts` só liberava o download **depois** de esperar a resposta do webhook do Google Apps Script (planilha de leads) — e esse webhook tem cold start instável, às vezes lento o suficiente para estourar o timeout da função serverless na Vercel, travando o download por completo mesmo com o PDF saudável. Corrigido: o envio para a planilha agora roda em segundo plano via `after()` do Next.js (não bloqueia mais a resposta ao navegador); testado local (resposta caiu de 4,8s para 44ms, envio em segundo plano confirmado sem erro no log) e validado com `tsc`, `next build` e `eslint` limpos. **Pendente:** Pantoja testar em produção depois do próximo deploy para confirmar.
 
@@ -19,7 +19,13 @@
 
 5. ✅ **Seção "baixar apostila" reposicionada — corrigido.** `<CapturaLead />` movida em `src/app/page.tsx` para logo depois de `<Hero />` e `<Story />` — agora é a **3ª seção** da home (antes era a 10ª de 12, quase no rodapé). Confirmado no HTML renderizado: ordem `topo → historia → amostra → metodo → oferta → faq`.
 
-6. 💡 **Ideia a avaliar (não implementar ainda) — validar telefone do lead.** Pantoja quer saber se dá para validar (confirmar que é um WhatsApp real/ativo) o telefone informado no formulário. Não sabe a viabilidade nem o esforço. **Amanhã:** eu levanto as opções (ex. Twilio Verify, WhatsApp Business API com OTP, verificação simples de formato) com custo/complexidade e ele decide se vale a pena — por ora é só ideia, não entra no código.
+6. 💡 **Ideia — validar telefone do lead (pesquisado, ainda não implementado).** Opções levantadas, da mais simples à mais robusta:
+   - **Formato (grátis, já existe)** — regex de 10-13 dígitos em `api/lead/route.ts`. Pega erro de digitação, não confirma que o número é real.
+   - **Lookup/HLR silencioso** — consulta a operadora se o número existe/está ativo, sem pedir nada à pessoa (zero fricção no formulário). Tem custo por consulta; não confirma que é o dono do número, só que está em uso.
+   - **OTP por SMS (Twilio Verify e similares)** — código de confirmação que a pessoa digita. Custo por envio **e** exige uma etapa extra no formulário — **contraria a decisão já tomada** de "só Nome + WhatsApp, sem fricção, para maximizar conversão".
+   - **OTP via WhatsApp Business API** — mais alinhado ao canal, mas setup mais burocrático (verificação de negócio com a Meta).
+
+   **Minha recomendação:** não vale adicionar uma etapa de confirmação (SMS/WhatsApp OTP) nesse formulário — fricção conflita direto com a prioridade de conversão do projeto. Se quiser filtrar números claramente falsos sem atrapalhar quem preenche, o lookup/HLR silencioso é o caminho, mas tem custo recorrente por lead. Pantoja decide se topa esse custo; por ora fica só registrado, nada implementado.
 
 > ✅ Já resolvidos em 30/06/2026 (cedo): domínio temporário (Vercel), guia da planilha reexplicado, prompts da imagem do Hero entregues, PDF final da isca no ar, planilha de leads confirmada ponta a ponta — ver `docs/registro-de-alteracoes.html`.
 
@@ -31,7 +37,7 @@
 - [x] **Planilha de leads** — ✅ Apps Script publicado, `LEAD_WEBHOOK_URL` testada (gravou de verdade) e configurada nas Environment Variables da Vercel.
 - [x] **Publicar na Vercel** — ✅ feito pelo Pantoja, site no ar.
 - [x] **Confirmar que o Redeploy pegou a variável** — ✅ confirmado: leads reais ("fabio", "teste Pantoja", origem "landing") gravando na aba "Leads" da planilha em produção. Ponta a ponta funcionando: cadastro → planilha → download da apostila.
-- [ ] *(opcional, baixo risco)* Apagar linhas de teste na planilha (linhas 2-9, mantendo o cabeçalho) e o PDF de comparação `Apostila/Apostila-Musicas-Cristas-com-IA-Fabio-Pantoja.pdf` (sem `-COM-CTA`) — não é mais necessário agora que o final foi aprovado. Aviso e não apago sozinho.
+- [ ] *(opcional, baixo risco)* Apagar linhas de teste na planilha — incluindo 4 novas de 30/06/2026 à noite ("Teste Diagnóstico Claude", "Teste Diagnóstico Claude 2", "Teste Local Claude", "Teste Local Claude 2"), geradas ao diagnosticar o bug de download — e o PDF de comparação `Apostila/Apostila-Musicas-Cristas-com-IA-Fabio-Pantoja.pdf` (sem `-COM-CTA`), não mais necessário. Aviso e não apago sozinho.
 
 ## 🛠️ Comigo (faço quando você liberar / me passar o insumo)
 
