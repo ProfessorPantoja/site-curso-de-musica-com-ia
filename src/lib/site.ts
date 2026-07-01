@@ -7,10 +7,11 @@
 
 /**
  * URL pública do site (sem barra no final).
- * Em produção, defina NEXT_PUBLIC_SITE_URL com o domínio real.
+ * Substituto temporário enquanto o domínio fabiopantoja.com.br não é comprado.
+ * Quando comprar o domínio, troque o valor abaixo (ou defina NEXT_PUBLIC_SITE_URL).
  */
 export const SITE_URL = (
-  process.env.NEXT_PUBLIC_SITE_URL ?? "https://fabiopantoja.com.br"
+  process.env.NEXT_PUBLIC_SITE_URL ?? "https://curso-de-musica-com-ia.vercel.app"
 ).replace(/\/$/, "");
 
 export const site = {
@@ -22,7 +23,7 @@ export const site = {
   descricaoCurta:
     "Crie uma música única para quem você ama — mãe, pai, um amigo, sua igreja. Em 3 horas, do zero, você aprende o Método Pantoja de criação musical com inteligência artificial.",
   url: SITE_URL,
-  email: "contato@fabiopantoja.com.br",
+  email: "artpantoja@gmail.com",
   whatsapp: "5527992681959", // só números, com DDI e DDD. Ex: 5511988887777
 
   // ── Oferta ──────────────────────────────────────────────────
