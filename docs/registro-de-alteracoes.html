@@ -58,7 +58,12 @@
     <section class="pend">
       <h2>⏳ Próximos passos / pendências</h2>
       <ul>
-        <li><span class="data">aguarda você</span><span class="desc"><strong>Confirmar planilha de leads em produção:</strong> <code>LEAD_WEBHOOK_URL</code> já configurada na Vercel e testada localmente com sucesso — falta confirmar que o Redeploy foi feito e que um teste real na aba anônima do site em produção grava a linha na planilha.</span></li>
+        <li><span class="data">30/06/2026 noite</span><span class="desc"><strong>🔴 BUG — apostila parou de baixar:</strong> Pantoja preenche nome+WhatsApp e o download não dispara ("estava baixando antes"). Investigar <code>CapturaLead.tsx</code>, caminho do PDF em <code>site.ts</code> e integridade de <code>public/iscas/apostila-completa.pdf</code>.</span></li>
+        <li><span class="data">30/06/2026 noite</span><span class="desc"><strong>Rodapé da apostila (PDF) incompleto:</strong> falta nome completo do curso + "Professor Pantoja" (confirmar texto exato — áudio saiu truncado). Fonte: <code>Apostila/apostila-estrutura.html:35</code>.</span></li>
+        <li><span class="data">30/06/2026 noite</span><span class="desc"><strong>Rodapé do site sem "www":</strong> <code>src/components/Footer.tsx</code> não mostra site nem telefone hoje.</span></li>
+        <li><span class="data">30/06/2026 noite</span><span class="desc"><strong>Nome do arquivo baixado, conferir:</strong> Pantoja disse que <code>site.leadMagnet.nomeArquivoDownload</code> ainda não está do jeito certo — perguntar o que falta.</span></li>
+        <li><span class="data">30/06/2026 noite</span><span class="desc"><strong>Mover a seção "baixar apostila" para perto do Hero:</strong> hoje é a 10ª de 12 seções em <code>src/app/page.tsx</code> — quase no rodapé, precisa estar no máximo como 3ª seção.</span></li>
+        <li><span class="data">30/06/2026 noite</span><span class="desc"><strong>💡 Ideia a avaliar:</strong> validar se o telefone do lead é um WhatsApp real (Twilio Verify, WhatsApp Business API/OTP?) — levantar viabilidade, ainda não implementar.</span></li>
         <li><span class="data">na Kiwify</span><span class="desc"><strong>Ativar recuperação</strong> de carrinho abandonado / Pix não pago.</span></li>
         <li><span class="data">antes de divulgar</span><span class="desc"><strong>Compra-teste real</strong> de ponta a ponta (pagamento → e-mail de acesso → área de membros com curso + apostila).</span></li>
       </ul>

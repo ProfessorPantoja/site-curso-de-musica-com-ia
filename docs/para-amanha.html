@@ -7,7 +7,7 @@
   <style>
     :root{
       --bg:#0f1117;--card:#171a23;--line:#262b38;--txt:#e8eaf0;--muted:#9aa3b2;
-      --navy:#5b8bd0;--terra:#e0a06a;--gold:#d8b65a;--green:#5fcf8a;--red:#f0776b;
+      --navy:#5b8bd0;--terra:#e0a06a;--gold:#d8b65a;--green:#5fcf8a;--red:#f0776b;--purple:#c084fc;
     }
     *{box-sizing:border-box}
     body{margin:0;background:var(--bg);color:var(--txt);
@@ -20,7 +20,8 @@
     .p .n{flex:0 0 auto;width:30px;height:30px;border-radius:9px;display:flex;
       align-items:center;justify-content:center;font-weight:800;font-size:15px;color:#0f1117}
     .p1 .n{background:var(--red)}.p2 .n{background:var(--terra)}
-    .p3 .n{background:var(--gold)}.p4 .n{background:var(--navy)}
+    .p3 .n{background:var(--terra)}.p4 .n{background:var(--gold)}
+    .p5 .n{background:var(--gold)}.p6 .n{background:var(--purple)}
     .p .body{flex:1}
     .p h2{font-size:16px;margin:0 0 8px}
     .tag{font-size:11px;font-weight:700;text-transform:uppercase;letter-spacing:.06em;
@@ -29,6 +30,7 @@
     .t-ter{background:rgba(224,160,106,.16);color:var(--terra)}
     .t-gold{background:rgba(216,182,90,.16);color:var(--gold)}
     .t-navy{background:rgba(91,139,208,.16);color:var(--navy)}
+    .t-purple{background:rgba(192,132,252,.16);color:var(--purple)}
     ul{margin:6px 0 0;padding-left:18px}
     li{margin:6px 0}
     .small{color:var(--muted);font-size:14px}
@@ -42,19 +44,16 @@
 <body>
   <div class="wrap">
     <h1>☀️ Para amanhã — Método Pantoja</h1>
-    <p class="sub">Lista priorizada do que <b>você</b> precisa tocar. O resto (código) é comigo.</p>
+    <p class="sub">Ditado por voz na noite de 30/06/2026. Lista priorizada — o resto (código) é comigo.</p>
 
     <div class="p p1">
       <div class="n">1</div>
       <div class="body">
-        <h2>Conferir o site no ar <span class="tag t-red">comece por aqui</span></h2>
-        <p class="small">Abra o site (Vercel) no celular e veja o que mudou ontem. Vá anotando o que quer ajustar e me manda — eu faço um por um.</p>
+        <h2>Apostila parou de baixar <span class="tag t-red">bug crítico</span></h2>
+        <p class="small">Você disse: preenche nome e WhatsApp, clica e não baixa — "estava baixando antes, não sei por que parou". Quebra a isca inteira.</p>
         <ul>
-          <li><b>Topo:</b> essência "Crie uma música pra quem você ama" + botão <b>Comprar</b> fixo.</li>
-          <li><b>Hero:</b> nova headline, copy, <b>vídeo de fundo</b> e animações de entrada.</li>
-          <li><b>Botões de compra:</b> repare no <b>pulso</b> de brilho.</li>
-          <li><b>Seção de captura:</b> agora oferece a <b>apostila completa de graça</b>.</li>
-          <li><b>"Quem te ensina":</b> novo parágrafo de proposta.</li>
+          <li>Eu reproduzo o fluxo (produção + local) e vejo onde trava.</li>
+          <li>Confiro <code>CapturaLead.tsx</code>, o caminho do PDF em <code>site.ts</code> e se o arquivo em <code>public/iscas/</code> ainda está íntegro.</li>
         </ul>
       </div>
     </div>
@@ -62,12 +61,11 @@
     <div class="p p2">
       <div class="n">2</div>
       <div class="body">
-        <h2>Aprovar a apostila <span class="tag t-ter">decisão</span></h2>
-        <p class="small">Compare os 2 PDFs que te mandei e me diga se aprovo o novo como oficial.</p>
+        <h2>Rodapé da apostila (PDF) incompleto <span class="tag t-ter">conteúdo</span></h2>
+        <p class="small">Hoje o rodapé só tem <code>Fábio Pantoja · fabiopantoja.com.br/curso · (27) 99268-1959</code>.</p>
         <ul>
-          <li>Versão <b>COM-CTA</b> (nova): rodapé com seu nome+site e a página final "O próximo passo" (site + WhatsApp).</li>
-          <li>Confirmar o <b>domínio</b> do link: hoje está <code>fabiopantoja.com.br</code> — é esse mesmo?</li>
-          <li>Me dizer qualquer "coisinha" de texto que queira mudar na apostila.</li>
+          <li>Você quer: <b>nome completo do curso</b> + algo como <b>"Professor Pantoja"</b> + telefone.</li>
+          <li>⚠️ Um trecho do áudio saiu confuso ("senhor Tágico, professor Pantoja") — <b>vou confirmar com você o texto exato</b> antes de editar.</li>
         </ul>
       </div>
     </div>
@@ -75,12 +73,10 @@
     <div class="p p3">
       <div class="n">3</div>
       <div class="body">
-        <h2>Ligar a captação de leads <span class="tag t-gold">destrava a venda</span></h2>
-        <p class="small">Sem isso, o formulário capta mas não guarda os contatos. ~5 min.</p>
+        <h2>Rodapé do site sem "www" <span class="tag t-ter">conteúdo</span></h2>
+        <p class="small"><code>Footer.tsx</code> hoje só mostra a marca + copyright — sem site nem telefone.</p>
         <ul>
-          <li>Seguir o guia <code>docs/configurar-planilha-leads.html</code>: criar a planilha + colar o Apps Script + publicar.</li>
-          <li>Me mandar a <b>URL <code>/exec</code></b> → eu configuro e confirmo que os leads caem na planilha.</li>
-          <li>Colocar o <b>PDF final da apostila</b> em <code>public/iscas/apostila-completa.pdf</code> (ou eu coloco quando você aprovar).</li>
+          <li>Adicionar o <b>www</b> (ex.: <code>www.fabiopantoja.com.br</code>) no rodapé do site.</li>
         </ul>
       </div>
     </div>
@@ -88,10 +84,32 @@
     <div class="p p4">
       <div class="n">4</div>
       <div class="body">
-        <h2>Imagem que falta <span class="tag t-navy">asset</span></h2>
-        <p class="small">Único asset visual pendente do Hero.</p>
+        <h2>Nome do arquivo baixado <span class="tag t-gold">conferir</span></h2>
+        <p class="small">Hoje já é <code>"Apostila Completa do Curso Música Cristã com IA - Prof Pantoja.pdf"</code> (tem curso + seu nome), mas você disse que não está certo.</p>
         <ul>
-          <li><b>Momento em família</b> (pessoa dando o presente) — definir quem aparece e gerar a imagem (lado direito do Hero, hoje é placeholder).</li>
+          <li>Preciso que você diga o que exatamente quer diferente.</li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="p p5">
+      <div class="n">5</div>
+      <div class="body">
+        <h2>Seção "baixar apostila" pouco visível <span class="tag t-gold">reposicionar</span></h2>
+        <p class="small">Hoje ela é a <b>10ª de 12 seções</b> da página — quase no rodapé. É a isca mais forte (engajamento + telefone do lead) e está enterrada.</p>
+        <ul>
+          <li>Mover para <b>logo após o Hero</b>, no máximo como 3ª seção.</li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="p p6">
+      <div class="n">💡</div>
+      <div class="body">
+        <h2>Ideia — validar telefone do lead <span class="tag t-purple">avaliar viabilidade, não implementar</span></h2>
+        <p class="small">Você quer saber se dá para confirmar que o WhatsApp informado é real/ativo. Ainda não sabe a viabilidade.</p>
+        <ul>
+          <li>Amanhã eu levanto as opções (Twilio Verify, WhatsApp Business API com OTP, validação simples de formato) com custo/complexidade — você decide se vale a pena.</li>
         </ul>
       </div>
     </div>

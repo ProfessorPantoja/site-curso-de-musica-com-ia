@@ -5,13 +5,23 @@
 
 ---
 
-## 🚨 Bloqueios / decisões em aberto (registrado 30/06/2026, fim do dia)
+## 🚨 Bloqueios / decisões em aberto (registrado 30/06/2026, à noite — por voz, detalhar amanhã)
 
-> Pantoja passou rápido só para deixar isto anotado — retomar com calma na próxima conversa.
+> Pantoja ditou por voz uma leva de pendências para retomar amanhã com calma. Alguns pontos da fala saíram truncados (transcrição por voz) — **confirmar o texto exato com ele antes de aplicar**, não presumir.
 
-1. **Rodapé da apostila ainda incomodando** — Pantoja disse "o rodapé está me incomodando ainda" mas não deu detalhes do quê exatamente (hoje é `Fábio Pantoja · fabiopantoja.com.br/curso · (27) 99268-1959`). **Próxima sessão:** perguntar o que especificamente incomoda antes de mexer (pode ser o texto, o layout, a presença do telefone, outra coisa).
+1. 🔴 **BUG — apostila parou de baixar.** Pantoja preenche nome + WhatsApp no formulário (`CapturaLead.tsx`) e o download não dispara — segundo ele "estava baixando antes, não sei por que parou". Prioridade máxima: quebra o fluxo principal de conversão (isca). **Investigar:** reproduzir o fluxo em produção e local; conferir `src/components/CapturaLead.tsx`, `src/lib/site.ts` (`leadMagnet.arquivoPdf` = `/iscas/apostila-completa.pdf`) e se o arquivo `public/iscas/apostila-completa.pdf` ainda existe/está íntegro; checar console do navegador para erro JS.
 
-> ✅ Já resolvidos em 30/06/2026: domínio temporário (Vercel), guia da planilha reexplicado, prompts da imagem do Hero entregues, PDF final da isca no ar, planilha de leads confirmada ponta a ponta — ver `docs/registro-de-alteracoes.html`.
+2. 🟠 **Rodapé da apostila (PDF) incompleto.** Hoje (`Apostila/apostila-estrutura.html:35`, regra `@bottom-left`) é só `Fábio Pantoja · fabiopantoja.com.br/curso · (27) 99268-1959`. Pantoja quer: **nome completo do curso**, algo como **"Professor Pantoja"** (trecho da fala saiu como "senhor Tágico, professor Pantoja" — provável erro de transcrição, **confirmar com ele o texto exato**) e o **telefone** (esse último já está lá — perguntar se é só isso que falta ou se o formato também incomoda).
+
+3. 🟠 **Rodapé do site sem "www".** `src/components/Footer.tsx` hoje mostra só marca (`site.marca`) + redes sociais + "© ano Fábio Pantoja · Curso intensivo de criação musical" — sem site nem telefone. Pantoja quer o **www** aparecendo ali (ex.: `www.fabiopantoja.com.br`). Definir junto com o item 2 se o rodapé do site também ganha telefone, já que ele agrupou os dois pedidos.
+
+4. 🟡 **Nome do arquivo baixado, conferir.** Hoje `site.leadMagnet.nomeArquivoDownload` (`src/lib/site.ts:59`) = `"Apostila Completa do Curso Música Cristã com IA - Prof Pantoja.pdf"` — já tem nome do curso + "Prof Pantoja", mas Pantoja disse que "não está" certo. **Perguntar amanhã** o que exatamente quer diferente (nome completo do curso é "Método Pantoja"? trocar "Prof" por "Professor"?).
+
+5. 🟡 **Seção "baixar apostila" pouco visível.** Hoje `CapturaLead` é a **10ª seção** de 12 em `src/app/page.tsx` (quase no rodapé da página!). Pantoja quer ela **logo após o Hero**, no máximo como 3ª seção — é a isca mais forte de conversão (engajamento + telefone do lead) e está enterrada. **Mover** `<CapturaLead />` para logo depois de `<Hero />` (ou depois de `<Story />`) em `src/app/page.tsx`.
+
+6. 💡 **Ideia a avaliar (não implementar ainda) — validar telefone do lead.** Pantoja quer saber se dá para validar (confirmar que é um WhatsApp real/ativo) o telefone informado no formulário. Não sabe a viabilidade nem o esforço. **Amanhã:** eu levanto as opções (ex. Twilio Verify, WhatsApp Business API com OTP, verificação simples de formato) com custo/complexidade e ele decide se vale a pena — por ora é só ideia, não entra no código.
+
+> ✅ Já resolvidos em 30/06/2026 (cedo): domínio temporário (Vercel), guia da planilha reexplicado, prompts da imagem do Hero entregues, PDF final da isca no ar, planilha de leads confirmada ponta a ponta — ver `docs/registro-de-alteracoes.html`.
 
 - **Domínio de verdade** — a apostila já mostra `fabiopantoja.com.br/curso` (rodapé + CTA final), mas o link clicável do CTA aponta para a Vercel por baixo (domínio ainda não existe). Quando comprar: (1) configurar redirect de `fabiopantoja.com.br/curso` → site (ou hospedar lá direto), (2) trocar `SITE_URL` em `src/lib/site.ts` (hoje `curso-de-musica-com-ia.vercel.app`) pelo domínio real, (3) atualizar o `href` do CTA da apostila para o domínio real.
 
