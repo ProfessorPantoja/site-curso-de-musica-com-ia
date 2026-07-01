@@ -20,13 +20,13 @@ export default function Home() {
       <main className="flex-1">
         <Hero />
         <Story />
+        <CapturaLead />
         <Ocasioes />
         <Metodo />
         <Prova />
         <Oferta />
         <Sobre />
         <Faq />
-        <CapturaLead />
         <CtaFinal />
       </main>
       <Footer />

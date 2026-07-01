@@ -13,11 +13,11 @@
 
 2. 🟠 **Rodapé da apostila (PDF) incompleto.** Hoje (`Apostila/apostila-estrutura.html:35`, regra `@bottom-left`) é só `Fábio Pantoja · fabiopantoja.com.br/curso · (27) 99268-1959`. Pantoja quer: **nome completo do curso**, algo como **"Professor Pantoja"** (trecho da fala saiu como "senhor Tágico, professor Pantoja" — provável erro de transcrição, **confirmar com ele o texto exato**) e o **telefone** (esse último já está lá — perguntar se é só isso que falta ou se o formato também incomoda).
 
-3. 🟠 **Rodapé do site sem "www".** `src/components/Footer.tsx` hoje mostra só marca (`site.marca`) + redes sociais + "© ano Fábio Pantoja · Curso intensivo de criação musical" — sem site nem telefone. Pantoja quer o **www** aparecendo ali (ex.: `www.fabiopantoja.com.br`). Definir junto com o item 2 se o rodapé do site também ganha telefone, já que ele agrupou os dois pedidos.
+3. ✅ **Rodapé do site sem "www" — corrigido.** `src/components/Footer.tsx` agora mostra `© {ano} Fábio Pantoja · www.fabiopantoja.com.br · Curso intensivo de criação musical`. Se além do www ele também quiser telefone no rodapé do site, é só pedir.
 
 4. 🟡 **Nome do arquivo baixado, conferir.** Hoje `site.leadMagnet.nomeArquivoDownload` (`src/lib/site.ts:59`) = `"Apostila Completa do Curso Música Cristã com IA - Prof Pantoja.pdf"` — já tem nome do curso + "Prof Pantoja", mas Pantoja disse que "não está" certo. **Perguntar amanhã** o que exatamente quer diferente (nome completo do curso é "Método Pantoja"? trocar "Prof" por "Professor"?).
 
-5. 🟡 **Seção "baixar apostila" pouco visível.** Hoje `CapturaLead` é a **10ª seção** de 12 em `src/app/page.tsx` (quase no rodapé da página!). Pantoja quer ela **logo após o Hero**, no máximo como 3ª seção — é a isca mais forte de conversão (engajamento + telefone do lead) e está enterrada. **Mover** `<CapturaLead />` para logo depois de `<Hero />` (ou depois de `<Story />`) em `src/app/page.tsx`.
+5. ✅ **Seção "baixar apostila" reposicionada — corrigido.** `<CapturaLead />` movida em `src/app/page.tsx` para logo depois de `<Hero />` e `<Story />` — agora é a **3ª seção** da home (antes era a 10ª de 12, quase no rodapé). Confirmado no HTML renderizado: ordem `topo → historia → amostra → metodo → oferta → faq`.
 
 6. 💡 **Ideia a avaliar (não implementar ainda) — validar telefone do lead.** Pantoja quer saber se dá para validar (confirmar que é um WhatsApp real/ativo) o telefone informado no formulário. Não sabe a viabilidade nem o esforço. **Amanhã:** eu levanto as opções (ex. Twilio Verify, WhatsApp Business API com OTP, verificação simples de formato) com custo/complexidade e ele decide se vale a pena — por ora é só ideia, não entra no código.
 
