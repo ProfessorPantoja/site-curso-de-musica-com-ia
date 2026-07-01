@@ -9,7 +9,7 @@
 
 > ✅ Resolvidos em 30/06/2026: domínio temporário (Vercel), guia da planilha reexplicado e prompts da imagem do Hero entregues — ver `docs/registro-de-alteracoes.html`.
 
-- **Domínio de verdade** — quando o aperto financeiro passar e `fabiopantoja.com.br` for comprado, trocar de volta nos mesmos 3 lugares: `SITE_URL` (`src/lib/site.ts`), rodapé da apostila e CTA final da apostila (hoje usando `curso-de-musica-com-ia.vercel.app`).
+- **Domínio de verdade** — a apostila já mostra `fabiopantoja.com.br/curso` (rodapé + CTA final), mas o link clicável do CTA aponta para a Vercel por baixo (domínio ainda não existe). Quando comprar: (1) configurar redirect de `fabiopantoja.com.br/curso` → site (ou hospedar lá direto), (2) trocar `SITE_URL` em `src/lib/site.ts` (hoje `curso-de-musica-com-ia.vercel.app`) pelo domínio real, (3) atualizar o `href` do CTA da apostila para o domínio real.
 
 ## 🙋 Dependem de você (Pantoja)
 
