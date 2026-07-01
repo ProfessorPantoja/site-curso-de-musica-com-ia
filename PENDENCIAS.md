@@ -5,9 +5,13 @@
 
 ---
 
-## 🚨 Bloqueios / decisões em aberto
+## 🚨 Bloqueios / decisões em aberto (registrado 30/06/2026, fim do dia)
 
-> ✅ Resolvidos em 30/06/2026: domínio temporário (Vercel), guia da planilha reexplicado e prompts da imagem do Hero entregues — ver `docs/registro-de-alteracoes.html`.
+> Pantoja passou rápido só para deixar isto anotado — retomar com calma na próxima conversa.
+
+1. **Rodapé da apostila ainda incomodando** — Pantoja disse "o rodapé está me incomodando ainda" mas não deu detalhes do quê exatamente (hoje é `Fábio Pantoja · fabiopantoja.com.br/curso · (27) 99268-1959`). **Próxima sessão:** perguntar o que especificamente incomoda antes de mexer (pode ser o texto, o layout, a presença do telefone, outra coisa).
+
+> ✅ Já resolvidos em 30/06/2026: domínio temporário (Vercel), guia da planilha reexplicado, prompts da imagem do Hero entregues, PDF final da isca no ar, planilha de leads confirmada ponta a ponta — ver `docs/registro-de-alteracoes.html`.
 
 - **Domínio de verdade** — a apostila já mostra `fabiopantoja.com.br/curso` (rodapé + CTA final), mas o link clicável do CTA aponta para a Vercel por baixo (domínio ainda não existe). Quando comprar: (1) configurar redirect de `fabiopantoja.com.br/curso` → site (ou hospedar lá direto), (2) trocar `SITE_URL` em `src/lib/site.ts` (hoje `curso-de-musica-com-ia.vercel.app`) pelo domínio real, (3) atualizar o `href` do CTA da apostila para o domínio real.
 
