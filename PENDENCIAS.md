@@ -5,6 +5,14 @@
 
 ---
 
+## 🚨 Bloqueios / decisões em aberto (registrado 27/06/2026, fim do dia)
+
+> Pantoja passou rápido só para deixar isto anotado — retomar com calma na próxima conversa.
+
+1. **Domínio ainda NÃO comprado** — aperto financeiro no momento, **não comprar agora** (não travar o projeto por causa disso). Isso **bloqueia** o link `fabiopantoja.com.br` que já está: (a) no rodapé de toda página da apostila, (b) no box de CTA final da apostila, (c) como default de `SITE_URL` em `src/lib/site.ts`. **Próxima sessão:** decidir um substituto temporário (ex.: usar a URL da Vercel — `curso-de-musica-com-ia.vercel.app` — nesses lugares) até o domínio ser comprado.
+2. **Planilha de leads** — Pantoja esqueceu os passos. **Não é preciso redescobrir nada**: o passo a passo já existe pronto em `docs/configurar-planilha-leads.html` (~5 min: criar planilha → colar Apps Script → publicar → me mandar a URL `/exec`).
+3. **Imagem do "momento em família"** (Hero, hoje é `ImageSlot` placeholder) — Pantoja quer **3 prompts** para gerar a imagem em IA. Ainda não gerados. Fazer na próxima sessão (considerar: estilo dos outros assets do projeto — capa/vídeo em tom terracota/dourado, pôr do sol, clima acolhedor cristão/família).
+
 ## 🙋 Dependem de você (Pantoja)
 
 - [ ] **Apostila completa (isca)** — a isca NÃO é mais uma amostra: é a **apostila COMPLETA do curso**, dada de graça em troca do contato (estratégia: gera desejo pela explicação ao vivo do curso). Capa já feita (incluir correção "Excritura → Escritura"). Colocar o PDF final em `public/iscas/` (nome a definir, ex.: `apostila-completa.pdf`). Pantoja vai me mandar a apostila para revisão.
@@ -71,5 +79,5 @@
 - [ ] **Colocar o PDF final** em `public/iscas/apostila-completa.pdf` (depois das edições da apostila).
 - [x] **Apostila trazida e ajustada** — ✅ na pasta `Apostila/`. Feito: fontes resolvidas, paleta azul-marinho, capa nova, rodapé com nome+site e seção de CTA (curso + WhatsApp).
 - [ ] **Pantoja conferir o PDF `…-COM-CTA.pdf`** e aprovar (comparar com o anterior). Depois: virar o PDF oficial e remover o de comparação.
-- [ ] **Confirmar o domínio** do link na apostila/rodapé (hoje `fabiopantoja.com.br`).
+- [ ] **Confirmar o domínio** do link na apostila/rodapé — **bloqueado**, ver seção "🚨 Bloqueios" no topo (domínio ainda não comprado; usar URL da Vercel como substituto temporário).
 - [ ] **PDF final → site**: copiar para `public/iscas/apostila-completa.pdf` quando aprovado.
