@@ -5,13 +5,11 @@
 
 ---
 
-## 🚨 Bloqueios / decisões em aberto (registrado 27/06/2026, fim do dia)
+## 🚨 Bloqueios / decisões em aberto
 
-> Pantoja passou rápido só para deixar isto anotado — retomar com calma na próxima conversa.
+> ✅ Resolvidos em 30/06/2026: domínio temporário (Vercel), guia da planilha reexplicado e prompts da imagem do Hero entregues — ver `docs/registro-de-alteracoes.html`.
 
-1. **Domínio ainda NÃO comprado** — aperto financeiro no momento, **não comprar agora** (não travar o projeto por causa disso). Isso **bloqueia** o link `fabiopantoja.com.br` que já está: (a) no rodapé de toda página da apostila, (b) no box de CTA final da apostila, (c) como default de `SITE_URL` em `src/lib/site.ts`. **Próxima sessão:** decidir um substituto temporário (ex.: usar a URL da Vercel — `curso-de-musica-com-ia.vercel.app` — nesses lugares) até o domínio ser comprado.
-2. **Planilha de leads** — Pantoja esqueceu os passos. **Não é preciso redescobrir nada**: o passo a passo já existe pronto em `docs/configurar-planilha-leads.html` (~5 min: criar planilha → colar Apps Script → publicar → me mandar a URL `/exec`).
-3. **Imagem do "momento em família"** (Hero, hoje é `ImageSlot` placeholder) — Pantoja quer **3 prompts** para gerar a imagem em IA. Ainda não gerados. Fazer na próxima sessão (considerar: estilo dos outros assets do projeto — capa/vídeo em tom terracota/dourado, pôr do sol, clima acolhedor cristão/família).
+- **Domínio de verdade** — quando o aperto financeiro passar e `fabiopantoja.com.br` for comprado, trocar de volta nos mesmos 3 lugares: `SITE_URL` (`src/lib/site.ts`), rodapé da apostila e CTA final da apostila (hoje usando `curso-de-musica-com-ia.vercel.app`).
 
 ## 🙋 Dependem de você (Pantoja)
 
